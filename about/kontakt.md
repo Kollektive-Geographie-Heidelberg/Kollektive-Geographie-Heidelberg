@@ -6,6 +6,6 @@
 
 - http://kollektive-geographie-heidelberg.de/about/pgp.html
 
-**Wire-Messenger Gruppe**
+**Signal-Messenger Gruppe**
 
-- schreibt mir euren *Benutzernamen*, damit ich euch einladen kann
+- schreibt mir euren Nummer, damit ich euch einladen kann
