@@ -80,13 +80,3 @@ Neoklassische regionale Entwicklungstheorie vs Polarisationstheorie
 
 
 Geographie technischer Innovation
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/09-wachstumtheorie.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

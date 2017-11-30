@@ -96,13 +96,3 @@ Tab. 1: Diese Tabelle ist eine mustergültige Beispieltabelle (verändert nach M
 ```
 Abb. 1: Dies ist ein mustergültiger Titel mit Quelleneangabe in Form eines Kurzbeleges (MUSTERMANN 2017).
 ```
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/zitieren-tabellen-abbildungen.pdf) herunter
-
-Lade die ganze Rubrik *wissenschaft* als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/wissenschaft.pdf) herunter
-
-------

@@ -269,13 +269,3 @@ Oberfläche = ~500 * 10 hoch 6
 Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.pdf) herunter
 
 Lade die ganze Rubrik als [PDF](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.pdf) herunter
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/01-klima-atmosphaere-erde.pdf) herunter
-
-Lade die ganze Rubrik *klimageographie* als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/klimageographie.pdf) herunter
-
-------

@@ -24,13 +24,3 @@
 **Geographische Zentralbibliothek, Katalog**
 - http://www3.domestic.de 
 - dann: Guest
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/quellen.pdf) herunter
-
-Lade die ganze Rubrik *wissenschaft* als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/wissenschaft.pdf) herunter
-
-------

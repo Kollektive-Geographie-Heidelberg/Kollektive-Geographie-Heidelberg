@@ -273,13 +273,3 @@
 
 - Austausch von Informationen (Face-to-Face)
 - Nicht beachtete Wissensweitergabe
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

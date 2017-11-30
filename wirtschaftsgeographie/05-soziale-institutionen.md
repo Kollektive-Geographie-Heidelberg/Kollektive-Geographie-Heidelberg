@@ -139,13 +139,3 @@ Welche Rolle spielen soziale Interaktionen und Institutionen für die Geographie
 
 Entstehung und Wandel sozialer Institutionen und deren Bedeutung für
 wirtschaftliche Beziehungen.
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/05-soziale-institutionen.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

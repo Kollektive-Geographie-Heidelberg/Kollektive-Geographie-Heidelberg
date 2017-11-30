@@ -68,13 +68,3 @@
 **Al-Qaida und der Islamische Staat**
 - Seit 2010 ist al-Qaida in Jemen aktiv
 - Seit 2014 ist der Islamische Staat in Jemen aktiv
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/10-exkurs-jemen.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

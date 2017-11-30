@@ -434,13 +434,3 @@
 **windrose**
 - Windrose
 
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *kartographie* als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/kartographie.pdf) herunter
-
-------

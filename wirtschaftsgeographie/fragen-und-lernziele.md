@@ -34,13 +34,3 @@
 **Lernziel:**
 
 - Verständnis der Vorteile lokaler Agglomeration von Unternehmen
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/fragen-und-lernziele.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

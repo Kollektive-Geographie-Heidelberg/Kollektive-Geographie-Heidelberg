@@ -112,13 +112,3 @@ Was ist eine ungleiche räumliche Verteilung?
 Wie lässt sich der Grad räumlicher Konzentration bestimmen?
 
 Was sind regionale Disparitäten?
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/03-räumliche-verteilung-und-entlicklung.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

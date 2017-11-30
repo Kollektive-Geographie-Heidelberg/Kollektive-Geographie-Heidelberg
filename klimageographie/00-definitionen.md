@@ -436,13 +436,3 @@
 **Äquivalenttemperatur**
 
 - potentiell verfügbare Wärmebetrag bei der Kondensation
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *klimageographie* als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/klimageographie.pdf) herunter
-
-------

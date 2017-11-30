@@ -25,13 +25,3 @@
 ## Fragen
 
 - Wie wirkt sich die Entwicklung neuer Technologien auf Standorte und Regionen aus?
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/10-innovationen-und-regionaler-wandel.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

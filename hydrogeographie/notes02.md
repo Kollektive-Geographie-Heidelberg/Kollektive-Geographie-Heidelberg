@@ -80,13 +80,3 @@ hydrogeographie vs hydrologie
   - R-B (Speicher) = delta S ??
 
 #### Literatur
-- Fphrer et al. (2016) Hydrologie. Stuttgart: Ulmer /UTB
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/notes.sync-conflict-20171122-162422.pdf) herunter
-
-Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/hydrogeographie.pdf) herunter
-
-------

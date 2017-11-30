@@ -12,13 +12,3 @@
 
 **mm/a**
 - Flächenabhängig
-- l pro m² 
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/notes.pdf) herunter
-
-Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/hydrogeographie.pdf) herunter
-
-------

@@ -75,13 +75,3 @@
 **Klasseneinteilung**
 - auch: Klassenbildung oder Klassierung
 - Einteilung von statistischen Reihen in getrennte Gruppen, Klassen oder Größenklassen ([Wikipedia](https://de.wikipedia.org/wiki/Klasseneinteilung_(Statistik)))
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/statistik/01-grundbegriffe.pdf) herunter
-
-Lade die ganze Rubrik *statistik* als [PDF](http://kollektive-geographie-heidelberg.de/statistik/statistik.pdf) herunter
-
-------

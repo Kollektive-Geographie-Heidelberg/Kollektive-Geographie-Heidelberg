@@ -159,13 +159,3 @@
 
 - Subpolare Tiefdruckgürtel
 - Subtropische Hochdruckzonen
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/05-atmosphaerische-zirkulation.pdf) herunter
-
-Lade die ganze Rubrik *klimageographie* als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/klimageographie.pdf) herunter
-
-------

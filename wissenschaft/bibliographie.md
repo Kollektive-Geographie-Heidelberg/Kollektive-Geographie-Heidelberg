@@ -28,13 +28,3 @@ Eine Bibliographie ist ein eigenständiges Verzeichnis von Literaturnachweisen (
 ## Abbildungsverzeichnis
 
   - -
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/bibliographie.pdf) herunter
-
-Lade die ganze Rubrik *wissenschaft* als [PDF](http://kollektive-geographie-heidelberg.de/wissenschaft/wissenschaft.pdf) herunter
-
-------

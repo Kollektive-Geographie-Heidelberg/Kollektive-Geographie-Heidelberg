@@ -71,13 +71,3 @@ A state that is fragile has several attributes, and such fragility may manifest 
 - The inability to interact with other states as a full member of the international community.
 
 {% pdf src="http://fundforpeace.org/fsi/wp-content/uploads/2017/05/fsi_map_2017.pdf", width="100%", height="580" %}{% endpdf %}
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/06-raeume-ausnahmezustand.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

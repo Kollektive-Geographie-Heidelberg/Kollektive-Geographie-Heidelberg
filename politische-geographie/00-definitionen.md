@@ -245,13 +245,3 @@ Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geogra
 **Tyrannei**
 - Herrschaftsformen mit brutalen Alleinherrschern an der Spitze
 - Gewaltherrschaft (Diktatur)
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

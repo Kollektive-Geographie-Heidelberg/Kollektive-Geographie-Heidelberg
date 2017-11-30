@@ -75,13 +75,3 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 - https://www.jasondavies.com/maps/
 <br/>
 
-**Compare Map Projections**
-- https://map-projections.net/index.php
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/03-cartographic-projections.pdf) herunter
-
-Lade die ganze Rubrik *kartographie* als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/kartographie.pdf) herunter
-
-------

@@ -25,13 +25,3 @@
    2. es sich bei dem Endprodukt um ein Verbrauchsgut handelt
    3. die Rohstoffe Reingewichtsmaterialien sind
    4. das Endprodukt marketingintensiv ist
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/klausur.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

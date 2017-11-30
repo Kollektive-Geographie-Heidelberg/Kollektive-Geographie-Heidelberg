@@ -69,13 +69,3 @@
 **Coordinate System Jargon: geoid, datum, projection**
 - https://www.youtube.com/watch?v=Z41Dt7_R180
 
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/02-coordinate-reference-systems.pdf) herunter
-
-Lade die ganze Rubrik *kartographie* als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/kartographie.pdf) herunter
-
-------

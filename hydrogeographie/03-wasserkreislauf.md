@@ -52,13 +52,3 @@ Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
 ## weiterführende Links
 
 **BMBF - Alles im Fluss**
-- http://www.bmbf-alles-im-fluss.de
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/03-wasserkreislauf.pdf) herunter
-
-Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/hydrogeographie.pdf) herunter
-
-------

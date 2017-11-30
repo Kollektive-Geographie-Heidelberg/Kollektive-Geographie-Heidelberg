@@ -294,13 +294,3 @@ Positive und negative Vertikalbeschleiunigung leitet sich aus dem Vergleich der 
 
   - Randtropischer Trockengürtel
     - "Wendekreiswüsten"
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/03-wasserdampf-lufttemperatur.pdf) herunter
-
-Lade die ganze Rubrik *klimageographie* als [PDF](http://kollektive-geographie-heidelberg.de/klimageographie/klimageographie.pdf) herunter
-
-------

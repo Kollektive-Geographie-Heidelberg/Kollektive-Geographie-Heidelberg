@@ -11,13 +11,3 @@
 
 **Formalien**
 - Klausurfragen werden auf englisch gestellt
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/10-klausur.pdf) herunter
-
-Lade die ganze Rubrik *kartographie* als [PDF](http://kollektive-geographie-heidelberg.de/kartographie/kartographie.pdf) herunter
-
-------

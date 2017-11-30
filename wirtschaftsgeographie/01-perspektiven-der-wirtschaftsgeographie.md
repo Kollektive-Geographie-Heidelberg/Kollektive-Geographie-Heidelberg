@@ -75,13 +75,3 @@ Länderkunde -> Raumwissenschaft -> Akteurswissenschaft -> New Econemy Geography
 ### New Econemy Geography
 
 - ist kein geschlossenes Theoriegebäude, sondern eine pluralistische Initiative von offeneren Ansätzen, die vielfältige Theorien aus den Sozialwissenschaften einbeziehen
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/01-perspektiven-der-wirtschaftsgeographie.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

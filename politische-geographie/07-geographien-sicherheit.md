@@ -105,13 +105,3 @@ Die Wahrnehmung von und der Umgang mit Risiken und Katastrophen.
 
 **climate change adaptation**
 - Climate Engineering (Geoengineering)
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/07-geographien-sicherheit.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

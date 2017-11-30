@@ -55,13 +55,3 @@
 1. Erklären Sie den Begriff "spaces of exception" und erläutern Sie ihn anhand geeigneter Beispiele. (10 Punkte)
 
 2. Welche 10 Gründe für den sogenannten "Ressourcenfluch" führen die Autoren Hamilton et al. (2007) in ihrem Buch "Escaping the resource curse" an. Bennen Sie die Gründe und erläutern Sie diese kurz. (5 Punkte + 20 Punkte)
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/10-klausur.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

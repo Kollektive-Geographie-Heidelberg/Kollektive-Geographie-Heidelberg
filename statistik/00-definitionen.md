@@ -58,13 +58,3 @@
 - Die Statistik stellt somit die theoretische Grundlage aller empirischen Forschung dar. 
 
 **Stichprobe**
-**äquidistanz**
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/statistik/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *statistik* als [PDF](http://kollektive-geographie-heidelberg.de/statistik/statistik.pdf) herunter
-
-------

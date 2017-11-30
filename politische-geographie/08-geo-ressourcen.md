@@ -54,13 +54,3 @@
 8. Demokratiemangel
 9. Sozio-ökonomische Missstände in den produzierenden Regionen
 10. Militärische Herausforderungen
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/08-geo-ressourcen.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

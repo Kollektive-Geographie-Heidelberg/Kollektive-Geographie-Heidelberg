@@ -62,13 +62,3 @@
 
 ### Die "Spätfolgen" des europäischen Blicks auf die Welt
 - work in progress
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/03-weltbilder-in-geographischer-sicht.pdf) herunter
-
-Lade die ganze Rubrik *politische-geographie* als [PDF](http://kollektive-geographie-heidelberg.de/politische-geographie/politische-geographie.pdf) herunter
-
-------

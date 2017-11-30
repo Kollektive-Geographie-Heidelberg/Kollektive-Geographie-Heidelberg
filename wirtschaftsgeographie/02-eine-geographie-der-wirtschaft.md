@@ -83,13 +83,3 @@ Wirtschaften bezieht sich auf Herstellung und Austausch von Wirtschaftsgütern, 
 | **einer**                                | zweiseitiges Monopol          | beschränktes Angebotsmonopol | Angebotsmonopol  |
 | **wenige**                               | beschränktes Nachfragemonopol | zweiseitiges Oligopol        | Angebotsoligopol |
 | **viel**                                 | Nachfragemonopol              | Nachfrageoligopol            | Polypol          |
-
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/02-eine-geographie-der-wirtschaft.pdf) herunter
-
-Lade die ganze Rubrik *wirtschaftsgeographie* als [PDF](http://kollektive-geographie-heidelberg.de/wirtschaftsgeographie/wirtschaftsgeographie.pdf) herunter
-
-------

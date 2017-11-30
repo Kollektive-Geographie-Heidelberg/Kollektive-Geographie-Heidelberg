@@ -37,13 +37,3 @@ Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-h
 - bezieht sich auf die Fähigkeit einer Region menschlichen und ökologischen Bedarfs an Wasser zu decken
 
 **Wasserverfügbarkeit**
-- berücksichtigt unter anderem Wasserknappheit, Wasserqualität und Wasserzugänglichkeit ([Pacific Institute](http://pacinst.org/water-definitions/))
-<br/>
-
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/hydrogeographie.pdf) herunter
-
-------
