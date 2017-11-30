@@ -1,0 +1,3 @@
+- [Allgemeines](statistik/00-allgemeines.md)
+- [Grundbegriffe](statistik/01-grundbegriffe.md)
+- [02](statistik/02.m
