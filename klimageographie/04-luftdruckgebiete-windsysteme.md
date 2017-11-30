@@ -141,7 +141,7 @@
 
 - Druckgradientkraft
 
-![wind-ageostrophisch](wind-ageostrophisch.png)
+![wind-ageostrophisch](klimageographie/wind-ageostrophisch.png)
 
 - Druckausgleich findet direkt vom Hoch zum Tief statt
 
