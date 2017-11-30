@@ -7,16 +7,6 @@
   <meta name="description" content="Kollektive Geographie Heidelberg">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
-  <!-- Math JAX -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {inlineMath: [['$$','$$'],['$','$'], ['\\(','\\)']]}
-  });
-  </script>
-  <script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
-  <!-- Math JAX -->
 </head>
 <body>
   <div id="app"></div>
@@ -28,9 +18,47 @@
       maxLevel: 4,
       subMaxLevel: 2,
       themeColor: '#44af79ff',
-      coverpage: true
+      coverpage: true,
+      plugins: [
+        function (hook) {
+          hook.beforeEach(function (content) {
+            return content.replace(/\$\$([\s\S]*?)\$\$/g,
+               function(x){ return x.replace(/[_]/g,'[subscript]')}
+            )
+          })
+          hook.beforeEach(function (content) {
+            return content.replace(/\$([\s\S]*?)\$/g,
+               function(x){ return x.replace('_','[subscript]')}
+            )
+          })
+          hook.afterEach(function(html, next) {
+            html = html.replace(/\$\$([\s\S]*?)\$\$/g,
+               function(x){ return x.replace(/(\[subscript\])/g,'_') }
+            )
+            html = html.replace(/\$([\s\S]*?)\$/g,
+               function(x){ return x.replace(/(\[subscript\])/g,'_')}
+            )
+            MathJax.Hub.Queue( ["Typeset",MathJax.Hub] ) // calling it twice
+            MathJax.Hub.Queue( ["Typeset",MathJax.Hub] ) //fixes MathJax refresh issue
+            next(html)
+          })
+        }
+      ]
     }
   </script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"], ['$$','$$'], ["\\[","\\]"] ],
+      //displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+  </script>
+  <script src="//cdn.bootcss.com/mathjax/2.6.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
