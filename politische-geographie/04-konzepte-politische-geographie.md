@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-![Politische Geographie - Übersicht](politische-geographie-uebersicht.png)
+![Politische Geographie - Übersicht](politische-geographie/politische-geographie-uebersicht.png)
 
 
 ## Historie - geopolitisches Denken 
@@ -80,7 +80,7 @@ siehe auch: [Ein kleiner Überblick](politische-geographie/01-geographie-kompakt
 - Was? -> Welche Interessen und Ziele haben diese Akteure?
 - Wie? -> Welche Strategien setzten sie zur Erreichung ihrer Ziele ein?
 
-![Handlung-eines-Akteurs-im-Konflikt](handlung-akteur-konflikt.png)
+![Handlung-eines-Akteurs-im-Konflikt](politische-geographie/handlung-akteur-konflikt.png)
 
 
 ### Forschungsfelder der Politischen Geographie

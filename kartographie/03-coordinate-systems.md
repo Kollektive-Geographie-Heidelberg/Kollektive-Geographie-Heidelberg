@@ -91,7 +91,7 @@
 - the northing on the southern hemisphere is shifted by 10.000.000 meters
 - eliminates negative numbers
 
-![utm-zone](utm-zone-css.png)
+![utm-zone](kartographie/utm-zone-css.png)
 
 **example 1**
 
@@ -126,7 +126,7 @@
 - indicates geographical latitude
 - 8° hight
 
-![utm-grid](utm-grid.png)
+![utm-grid](kartographie/utm-grid.png)
 
 ![Wikipedia-UTM-Grid](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
 

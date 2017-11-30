@@ -100,9 +100,9 @@
 - planetarische Wellen
 - mäandrierender Verlauf des Polarfrontjetstreams
 
-![Ryd-Scherhag-Effekt](rossby-wellen-2.png)
+![Ryd-Scherhag-Effekt](klimageographie/rossby-wellen-2.png)
 
-![Ryd-Scherhag-Effekt](rossby-wellen.png)
+![Ryd-Scherhag-Effekt](klimageographie/rossby-wellen.png)
 
 ## Ryd-Scherhag-Effekt
 
@@ -145,7 +145,7 @@
 - Deformationsfeld
   - Luftdruckfeld zwischen zwei Hoch- und Tiefdruckgebieten, die einander kreuzweise gegenüberliegen ([Spektrum](http://www.spektrum.de/lexikon/geographie/deformationsfeld/1556))
 
-![Aktionszentren](aktionszentren.png)
+![Aktionszentren](klimageographie/aktionszentren.png)
 
 ## Zyklonenfamilie
 

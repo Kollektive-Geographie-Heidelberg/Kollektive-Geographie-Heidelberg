@@ -17,7 +17,7 @@
 2. Gegeben ist die Grafik der *"Luftdruckgürtel der Erde: Aufgliederung des SRH's"* ohne die thermischen und dynamische Druckgebiete. Aufgabe war diese während der Juli-Situation einzuzeichnen und die jeweiligen Windrichtungen mit Pfeilen zu kennzeichnen.
 3. Zeichnen Sie die Windrichtung eines bodennahen Geotriptischen-Wind und in der Höhe Geostropisch-Zyklostrophischen-Wind auf der Südhalbkugel ein. (Gegeben sind jeweils zwei radial-symmetrische Druckfelder um ein Hoch und ein Tief)
 
-![radial-symmetrisches-druckfeld](radial-symmetrisches-druckfeld.png)
+![radial-symmetrisches-druckfeld](klimageographie/radial-symmetrisches-druckfeld.png)
 
 4. Beschreiben Sie die Entstehung einer Polarfront Zyklone mit einer ausführlich beschrifteten Skizze am Beispiel einer Zyklonenfamilie. (30 Pkt.)
 5. - Mulitple Choice Frage
