@@ -5,4 +5,4 @@
 > Ressourcen zum Studium der Geographie in Heidelberg
 
 [GitHub](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg)
-[View](#Kollektive-Geographie-Heideberg)
+[View](#kollektive-geographie-heidelberg)
