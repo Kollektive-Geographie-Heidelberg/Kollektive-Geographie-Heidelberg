@@ -51,14 +51,14 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 ### Wien´schen Verschiebungsgesetz
 
 - Wellenlänge maximaler Energie wird um so größer, je kleiner die Temperatur des emittierenden Körpers ist
-- $$\lambda * T = Konstant$$
-- $$\lambda=\:Wellenlaege$$
+- $\lambda * T = Konstant$
+- $\lambda=\:Wellenlaege$
 - sinkt die Temperatur - steigt die Wellenlänge
 
 ### Stefan-Boltzmann
 
 - Die Strahlungsleistung hängt von der 4ten Potenz der Oberflächentemperatur ab
-- $$P \sim T^4$$
+- $P \sim T^4$
 
 ### kurz & langweillige Strahlung
 
@@ -80,13 +80,13 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 **Absorption**
 - Verschlucken von Wellen
 - selektive Absorption
-  - $$H_2O, O_3, CO_2,Luft$$
+  - $H_2O, O_3, CO_2,Luft$
 
 **Reflexion**
 
 - Streuung von Wellen
 - diffuse Reflexion
-  - $$H_2O, Luft$$
+  - $H_2O, Luft$
 
 **Extinktion**
 
@@ -97,7 +97,7 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 **Albedo**
 
 - Verhältnis reflektierter gegenüber eingestrahlter kurzwelliger Strahlung
-  - $$R_R = R_V/R_G$$
+  - $R_R = R_V/R_G$
 - hoher Albedo = hohe Reflexion
 - abhängig von der Oberfläche der Erde
   - Schnee = hohe Albedo
@@ -120,7 +120,7 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 **turbolente Wärmeströmungen**
 
 - turbulente Wärmeströme = latenter Wärmefluss + sesibler Wärmefluss 
-  - $$\lambda E+H$$
+  - $\lambda E+H$
 - latenter Wärmefluss
   - lantente Wärme in Zirkulation (Wolken)
 - sensibler Wärmefluss
@@ -135,13 +135,13 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 - natürlicher Vorgang der Absorption und Gegenstrahlung von Energie im langwelligen Bereich
 - Ermöglicht einen Temperaturbereich , welcher die Entwicklung des Lebens auf der Erde ermöglicht hat
 - Beitrag zum natürlichen Treibhauseffekt
-  - $$H_2O\:(66\%)$$
+  - $H_2O\:(66\%)$
     - Wasserdampf ist für die solare wie die terrestrische Strahlung der wichtigste Absorber
-  - $$CO_2\:(25\%)$$
-  - $$O_3\:(8\%)$$
+  - $CO_2\:(25\%)$
+  - $O_3\:(8\%)$
     - Durch Ozon wird die "hart" UV-Strahlung von der Erdoberfläche abgehalten
-  - $$N_2O\:(4\%)$$
-  - $$CH_4\:(2\%)$$
+  - $N_2O\:(4\%)$
+  - $CH_4\:(2\%)$
 
 - **Wolken (H2O)**
   - Verhältnis von Reflexion, Absorption und Transmission hängt vom Wassergehalt und größe der Wolken ab
@@ -158,7 +158,7 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 
 - die an der Erdoberfläche eintreffende kurzwellige Solarstrahlung
 - diffuse + direkte Solarstrahlung 
-- $$R_G = S\downarrow + D\downarrow$$
+- $R_G = S\downarrow + D\downarrow$
 
 ### regionale Differenzierung der Globalstrahlung
 
@@ -173,17 +173,17 @@ Bezeichnet man den rechnerischen Wert der Eigenstrahlung eines beliebigen Körpe
 Sie lässt sich nur dann errechnen, wenn der Körper zusätzlich bestrahlt wird, da sich in einer physikalischen Messung, z. B. von Wärmestrahlen, nicht zwischen Eigenstrahlung und Reflexion unterscheiden lässt. 
 
 - Nettostrahlung = absorbierte Globalstrahlung - effektive Ausstrahlung
-  - $$R_n = (S\downarrow + D\downarrow) * (1 - \alpha) - (L\uparrow + L\downarrow)$$
+  - $R_n = (S\downarrow + D\downarrow) * (1 - \alpha) - (L\uparrow + L\downarrow)$
 - Globalstrahlung = diffuse + direkte Strahlung
-  - $$(S\downarrow + D\downarrow)$$
+  - $(S\downarrow + D\downarrow)$
 - Albedo
-  - $$\alpha$$
+  - $\alpha$
 - Anteil der abosorbierten Strahlung
-  - $$1 - \alpha$$
+  - $1 - \alpha$
 - absorbierte Globalstrahlung (Nettoeinstrahlung)
-  - $$(S\downarrow + D\downarrow) * (1 - \alpha)$$
+  - $(S\downarrow + D\downarrow) * (1 - \alpha)$
 - effektive Ausstrahlung
-  - $$(L\uparrow + L\downarrow)$$
+  - $(L\uparrow + L\downarrow)$
 
 Nettostrahlung kann Nachts negativ sein
 
