@@ -1,4 +1,4 @@
-![logo](media/favicon.svg)
+![logo](media/_favicon.svg)
 
 # Kollektive Geographie Heidelberg
 
