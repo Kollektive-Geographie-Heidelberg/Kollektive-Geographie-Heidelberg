@@ -11,33 +11,27 @@
 
 **inter subjektivität**
 
+**kategoriale Variablen**
+- nominal oder ordinal skalierte Variablen (Ernste 2011, S.9)
+
 **Klasseneinteilung**
 - auch: Klassenbildung oder Klassierung
 - Einteilung von statistischen Reihen in getrennte Gruppen, Klassen oder Größenklassen ([Wikipedia](https://de.wikipedia.org/wiki/Klasseneinteilung_(Statistik)))
 **Median**
 
-**Merkmalsdimension**
-
 **Merkmal**
 - Dimension, die mehreren Objekten gemeinsam ist
 
-**Variable**
-- Merkmal mit Wert
+**Merkmalsdimension**
 
-**Wert**
-- Ausprägung einer Variable
-
+**Merkmalsträger**
 **Messen**
 - Einnorden von Objekten auf einer Skala (Ernste 2011, S.8)
 
-**kategoriale Variablen**
-- nominal oder ordinal skalierte Variablen (Ernste 2011, S.9)
-
+**metrisch**
 **metrische Variablen**
 - intervall- oder ratio-skalierte Variablen (Ernste 2011, S.11)
 
-**Merkmalsträger**
-**metrisch**
 **Modalwert**
 **nominal**
 **ordinal**
@@ -77,3 +71,9 @@
 - Die Statistik stellt somit die theoretische Grundlage aller empirischen Forschung dar. 
 
 **Stichprobe**
+**Variable**
+- Merkmal mit Wert
+
+**Wert**
+- Ausprägung einer Variable
+

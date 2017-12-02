@@ -65,6 +65,9 @@
 **colour hue**
 - Farbton
 
+**colour palette**
+- Farbschema
+
 **colour saturation**
 - Farbsättigung
 
@@ -87,6 +90,9 @@
 
 **eclipse**
 - (astronomische) Finsternis
+
+**elevation plan (of a building)**
+- Aufriß
 
 **elevation**
 - Höhe
@@ -111,6 +117,13 @@
 
 **equivalent projection**
 - flächentreu Projektion
+
+**figure-grounded diagram**
+- Schwarzplan
+- Darstellung von Gebäuden in einem ausgewählten Planausschnitt. Alle anderen Planelemente wie beispielsweise Straßen, Vegetation oder Gewässer werden ausgeblendet. [Wikipedia](https://de.wikipedia.org/wiki/Schwarzplan)
+
+**footprint (of a building)**
+- Grundriß
 
 **gazetteer**
 - geographisches Ortsnamenverzeichnis
@@ -172,6 +185,10 @@
 
 **half-wind**
 - Halb-Wind (einer Windrose)
+
+**interval scale**
+- Intervallskala
+- ist Teil der Kardinalskala
 
 **isobath**
 - Tiefenlinie, Isobathe
@@ -257,6 +274,11 @@
 **Northern Celestial Hemisphere**
 - Nordhimmel
 
+**numerical scale**
+- Kardinalskala
+- ein Skalenniveau welches die Intervallskala und die Verhältnisskala zusammenfasst [Wikipedia](https://de.wikipedia.org/wiki/Skalenniveau#Systematik_der_Skalen)
+- Merkmale sind metrisch
+
 **oblateness**
 - Abplattung
 - Verformung eines Planeten durch seine Rotation [Wikipedia](https://de.wikipedia.org/wiki/Abplattung)
@@ -270,6 +292,11 @@
 
 **offset printing**
 - Offsetdruck
+
+**ordinal scale**
+- Ordinalskala
+- ein Skalenniveau [Wikipedia](https://de.wikipedia.org/wiki/Skalenniveau#Systematik_der_Skalen)
+- Merkmale sind kategorial
 
 **perpendicular to**
 - senkrecht auf
@@ -320,6 +347,15 @@
 **relative location**
 - A location of a place in relation to another place ([ThoughtCo.](https://www.thoughtco.com/relative-location-definition-1434844))
 
+**residential area**
+- Wohngebiet
+
+**residential building**
+- Wohngebäude
+
+**residential street**
+- Wohnstraße
+
 **rhumbline network**
 - Liniennetz
 
@@ -353,8 +389,14 @@
 **shading hachures**
 - Schattenschraffen
 
+**soil**
+- Boden
+
 **Southern Celestial Hemisphere**
 - Südhimmel
+
+**spatial arrangement**
+- räumliche Anordnung
 
 **Sphere**
 - Kugel
@@ -385,48 +427,6 @@
 
 **visual variables**
 - Graphische Variablen
-
-**colour palette**
-- Farbschema
-
-**elevation plan (of a building)**
-- Aufriß
-
-**figure-grounded diagram**
-- Schwarzplan
-- Darstellung von Gebäuden in einem ausgewählten Planausschnitt. Alle anderen Planelemente wie beispielsweise Straßen, Vegetation oder Gewässer werden ausgeblendet. [Wikipedia](https://de.wikipedia.org/wiki/Schwarzplan)
-
-**footprint (of a building)**
-- Grundriß
-
-**numerical scale**
-- Kardinalskala
-- ein Skalenniveau welches die Intervallskala und die Verhältnisskala zusammenfasst [Wikipedia](https://de.wikipedia.org/wiki/Skalenniveau#Systematik_der_Skalen)
-- Merkmale sind metrisch
-
-**interval scale**
-- Intervallskala
-- ist Teil der Kardinalskala
-
-**ordinal scale**
-- Ordinalskala
-- ein Skalenniveau [Wikipedia](https://de.wikipedia.org/wiki/Skalenniveau#Systematik_der_Skalen)
-- Merkmale sind kategorial
-
-**residential area**
-- Wohngebiet
-
-**residential building**
-- Wohngebäude
-
-**residential street**
-- Wohnstraße
-
-**soil**
-- Boden
-
-**spatial arrangement**
-- räumliche Anordnung
 
 **windrose network**
 - Liniennetz
