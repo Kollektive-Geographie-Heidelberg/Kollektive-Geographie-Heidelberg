@@ -75,3 +75,47 @@
 **Klasseneinteilung**
 - auch: Klassenbildung oder Klassierung
 - Einteilung von statistischen Reihen in getrennte Gruppen, Klassen oder Größenklassen ([Wikipedia](https://de.wikipedia.org/wiki/Klasseneinteilung_(Statistik)))
+
+
+## Skalentypen
+
+auch: Skalenniveaus
+
+Skalen werden nach den auf ihnen zulässigen mathematische Operationen unterschieden. So unterscheiden sich auch, welche statistische Methoden zur Verarbeitung der Daten verwendet werden. 
+
+### Nominalskala
+
+**Operationen**
+- =, !=
+
+
+### Ordinalskala
+
+**Rangordnung**
+- Mehrmalsausprägungen weisen eine gewisse Rangordnung auf
+
+**Operationen**
+- =, !=, <, >
+
+
+### Nominalskala
+
+#### Intervallskala
+
+**Operationen**
+- =, !=, <, >
+- $x_i=x_j+a$, $x_i=x_j-b$, $x_i+x_j=c$
+
+#### Verhältnisskala
+
+auch: Ratio-Skala
+
+**Operationen**
+- =, !=, <, >
+- $x_i=x_j+a$, $x_i=x_j-b$, $x_i+x_j=c$
+- $x_i=a * x_j$, $x_i=x_j/b$, $x_i * x_j = c$
+
+
+
+
+

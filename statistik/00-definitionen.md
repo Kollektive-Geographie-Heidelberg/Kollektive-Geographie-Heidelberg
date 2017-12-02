@@ -10,12 +10,31 @@
 - Ziel ist es, empirische Daten durch Tabellen, Kennzahlen (auch: Maßzahlen oder Parameter) und Grafiken übersichtlich darzustellen und zu ordnen ([Wikipedia](https://de.wikipedia.org/wiki/Deskriptive_Statistik))
 
 **inter subjektivität**
+
 **Klasseneinteilung**
 - auch: Klassenbildung oder Klassierung
 - Einteilung von statistischen Reihen in getrennte Gruppen, Klassen oder Größenklassen ([Wikipedia](https://de.wikipedia.org/wiki/Klasseneinteilung_(Statistik)))
 **Median**
+
 **Merkmalsdimension**
 
+**Merkmal**
+- Dimension, die mehreren Objekten gemeinsam ist
+
+**Variable**
+- Merkmal mit Wert
+
+**Wert**
+- Ausprägung einer Variable
+
+**Messen**
+- Einnorden von Objekten auf einer Skala (Ernste 2011, S.8)
+
+**kategoriale Variablen**
+- nominal oder ordinal skalierte Variablen (Ernste 2011, S.9)
+
+**metrische Variablen**
+- intervall- oder ratio-skalierte Variablen (Ernste 2011, S.11)
 
 **Merkmalsträger**
 **metrisch**
