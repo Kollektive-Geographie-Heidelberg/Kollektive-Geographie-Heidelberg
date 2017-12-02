@@ -1,12 +1,36 @@
-# Geographic Coordinate Systems
+# Geodetic and Coordinate Reference Systems
 
-**geocentric coordinates**
--  Earth-centered system of locating objects in the solar system in three-dimensions along the Cartesian X, Y and Z axes [Wikipedia](https://en.wikipedia.org/wiki/Geocentric_coordinates)
+**reference frame**
+- reference points on the Earth and their corresponding coordinates
 
-**geographic coordinates**
-- enables every location on Earth to be specified by a set of numbers, letters or symbols ([Wikipedia](https://en.wikipedia.org/wiki/Geographic_coordinate_system))
-- used to specify a location on a two-dimensional map
-  - requires a [map projection](http://kollektive-geographie-heidelberg.de/kartographie/04-cartographic-projections.html)
+**geodetic reference system (GRS)**
+- consists of
+  1. reference ellipsoid
+  2. the reference frame
+- also called "datum""
+
+**coordinate reference system (CRS)**
+- consists of
+  1. reference ellipsoid
+  2. the reference frame
+  3. [coordinate system](http//:kollektive-geographie-heidelberg.de/kartographie/03-coordinate-systems.html)
+
+
+## Coordinate Systems
+
+For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we need a coordinate system.
+
+**geocentric coordinates X, Y, Z**
+  -  Earth-centered system of locating objects in the solar system in three-dimensions along the Cartesian X, Y and Z axes [Wikipedia](https://en.wikipedia.org/wiki/Geocentric_coordinates)
+  - not suitable for map projections
+
+**geographic coordinates φ, λ**
+  - enables every location on Earth to be specified by a set of numbers, letters or symbols ([Wikipedia](https://en.wikipedia.org/wiki/Geographic_coordinate_system))
+  - used to specify a location on a two-dimensional map
+  - angles
+    - φ, λ
+  - semi-major and minor axis
+    - a, b
 
 **geographic poles**
 - defined by the rotational axis
@@ -15,7 +39,7 @@
 - the section perpendicular to the rotational axis and through the center of the ellipsoid
 
 
-## Geographic Coordinates (latitude/longitude)
+### Geographic Coordinates (latitude/longitude)
 
 | Representation | Example | Description |
 | ----------- | -------- | ------------ |
@@ -50,20 +74,30 @@
 ![Wikipedia-Geographic-Coordinates](https://upload.wikimedia.org/wikipedia/commons/7/7b/ECEF.svg)
 
 
-## Universal Transverse Mercator (UTM) Coordinates
+### Universal Transverse Mercator (UTM) Coordinates
 
-### UTM Zone Coordinates
+#### UTM Zone Coordinates
 
-| Example | Description |
+| Format | Description |
 | ------- | ----------- |
 | <span style="color:red">32</span> N <span style="color:blue">439596</span> /  <span style="color:green">5967780</span> | <span style="color:red">zone</span>, north hemisphere, <span style="color:blue">easting</span> /  <span style="color:green">northing</span> in meter |
 
-**lines of longitude**
-- degrees range from 0° to 180°
+**projection**
+- universal transversal Mercator projection
+- conformal transversal cylindrical projection
+  - intersection at poles
+
+**reference ellipsoid**
+- many different reference ellipsoids are used
+- in the EU: GRS 80
+- in USA: WGS 84 (WGS 1984) and NAD83
 
 **lines of latitude**
 - degrees range from 80° S over 0° to 84° N
   - The polar regions are excluded
+
+**lines of longitude**
+- degrees range from 0° to 180°
 
 **zones**
 - 60 zones, each 6° of longitude in width
@@ -99,8 +133,8 @@
 
 - The coordinate is on the north hemisphere (N) in UTM zone <span style="color:red">32</span> 
   - 32 zone = central meridian is at 9° eastern longitude
-- The point located *60404* meters west of the central meridian of zone 32
-  - 500000 m - <span style="color:blue">439596</span> m = *60404* m
+- The point located **60404** meters west of the central meridian of zone 32
+  - 500000 m - <span style="color:blue">439596</span> m = **60404** m
 - The point is located <span style="color:green">5967780</span> meters from equator to the North
 
 
@@ -110,13 +144,13 @@
 
 - The coordinate is on the southern hemisphere (S) in UTM zone <span style="color:red">32</span> 
   - 32 zone = central meridian is at 9° eastern longitude
-- The point located *60404* meters west of the central meridian of zone 32
-  - 500000 m - <span style="color:blue">439596</span> m = *60404* m
-- The point is located *5967780* meters from equator to the North
-  - 10000000 m - <span style="color:green">4032220</span> = *5967780* m
+- The point located **60404** meters west of the central meridian of zone 32
+  - 500000 m - <span style="color:blue">439596</span> m = **60404** m
+- The point is located **5967780** meters from equator to the South
+  - 10000000 m - <span style="color:green">4032220</span> = **5967780** m
 
 
-### UTM Grid Coordinates
+#### UTM Grid Coordinates
 
 | Example | Description |
 | ------- | ----------- |
@@ -131,7 +165,7 @@
 ![Wikipedia-UTM-Grid](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
 
 
-## MGRS
+### MGRS
 
 - UTM zones independent of the UTM bands, are divided into squares (100 km x 100 km)
 - parallel to the central meridian
@@ -143,10 +177,45 @@
 ![Uni-Stuttgart](http://www.killetsoft.de/image/presse/t_0901/utm.jpg)
 
 
-## Gauß-Krüger-Coordinates
+### Gauß-Krüger-Coordinates
 
-https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-Koordinatensystem
+| Format | Description |
+| ------- | ----------- |
+| <span style="color:red">4</span> <span style="color:blue">405057.629</span> / <span style="color:green">5368263.248</span> | <span style="color:red">central meridian</span> <span style="color:blue">easting</span> /  <span style="color:green">northing</span> in meter |
 
+**projection**
+- transversal Mercator projection
+- conformal transversal cylindrical projection
+
+**reference ellipsoid**
+- B.W. Bessel
+
+**zone**
+- 3° of longitude in width
+  - 1,5° to the east of central meridian
+  - 1,5° to the west of central meridian
+
+**central meridian**
+- longitude line in the middle of a zone
+- central meridian are numbered
+- first central meridian is at 3°
+
+**false easting**
+- the easting of the central meridian is shifted by 500.000 meters
+- eliminates negative numbers
+
+#### Example
+
+| Example | Description |
+| ------- | ----------- |
+| <span style="color:red">4</span> <span style="color:blue">405057.629</span> / <span style="color:green">5368263.248</span> | <span style="color:red">central meridian</span> <span style="color:blue">easting</span> /  <span style="color:green">northing</span> in meter |
+
+- the coordinate is in the zone of the central meridian number <span style="color:red">4</span> 
+  - 4th central meridian = 12° longitude 
+- the point is located **94 942.371** meters west of the central meridian
+  - y = <span style="color:blue">405057.629</span> m - 500000 m = **-94 942,371** m 
+- the point is located <span style="color:green">5368263.248</span> meters from equator
+  - x = <span style="color:green">5368263.248</span> 
 
 ## further reading and videos
 
@@ -161,3 +230,7 @@ https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-Koordinatensystem
 
 **reddit - What is the difference between UTM and MGRS coordinate systems?**
 - https://www.reddit.com/r/CampingandHiking/comments/124y3c/map_question_what_is_the_difference_between_utm/
+
+**Coordinate System Jargon: geoid, datum, projection**
+- https://www.youtube.com/watch?v=Z41Dt7_R180
+

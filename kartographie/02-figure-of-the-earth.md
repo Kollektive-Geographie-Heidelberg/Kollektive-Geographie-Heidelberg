@@ -1,8 +1,6 @@
-# Coordinate Reference Systems
+# Figure of the Earth
 
-## Figure of the Earth
-
-### Sphericity of the Earth
+## Sphericity of the Earth
 
 **early proofs of the sphericity Earth**
 1. The last part of a ship on the Horizon to vanish is his mast
@@ -11,7 +9,7 @@
   - round shadow of the earth on the moon during Lunar Eclipse
 
 
-### Geoid
+## Geoid
 
 **Geoid**
 - equipotential surface of the Earth’s gravity at sea level
@@ -22,7 +20,7 @@
 ![swisstopo-geoid](https://www.swisstopo.admin.ch/content/swisstopo-internet/de/topics/survey/geoid/_jcr_content/contentPar/textimage_1757944110/image.transform.1464592536373/image_1200_800/image.STP_Geoid_Ellipsoid.png)
 
 
-### Ellipsoid
+## Ellipsoid
 
 **Ellipsoid**
 - An ellipsoid is a surface that may be obtained from a sphere by deforming it by means of directional scalings ([Wikipedia](https://en.wikipedia.org/wiki/Ellipsoid))
@@ -44,28 +42,3 @@
 ## Surveying
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qu-o75pe5GY" frameborder="0" allowfullscreen></iframe>
-
-
-## Geodetic and Coordinate Reference Systems
-
-**reference frame**
-- reference points on the Earth and their corresponding coordinates
-
-**geodetic reference system (GRS)**
-- consists of
-  1. reference ellipsoid
-  2. the reference frame
-- also called "datum""
-
-**coordinate reference system (CRS)**
-- consists of
-  1. reference ellipsoid
-  2. the reference frame
-  3. [coordinate system](http//:kollektive-geographie-heidelberg.de/kartographie/03-coordinate-systems.html)
-
-
-## further reading and videos
-
-**Coordinate System Jargon: geoid, datum, projection**
-- https://www.youtube.com/watch?v=Z41Dt7_R180
-
