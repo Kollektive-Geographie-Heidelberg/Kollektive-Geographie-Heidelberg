@@ -19,6 +19,9 @@
 - 1/4 Übung
 - 3/4 Klausur
 
+**Karteikarten**
+- https://ankiweb.net/shared/info/1480606061
+
 **Materialien**
 - TK25 6518 Heidelberg (Nord) (Topographische Karte), Maßstab 1: 25 000
   - https://www.landkartendienst-lupp.de/epages/63861667.sf/sec4038dab642/?ObjectPath=/Shops/63861667/Products/tk6518
