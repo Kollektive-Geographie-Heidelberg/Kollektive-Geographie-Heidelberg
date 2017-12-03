@@ -64,29 +64,12 @@
     jax: ["input/TeX", "output/HTML-CSS"],
     tex2jax: {
       inlineMath: [ ['$','$'], ["\\(","\\)"], ['$$','$$'], ["\\[","\\]"] ],
-      //displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
       processEscapes: true
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
   });
   </script>
-  <!-- git talk -->
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script>
-  const gitalk = new Gitalk({
-    clientID: '556aa442955ac785020d',
-    clientSecret: '8082ad37dcffb0d5cd3bdcf4eedcb66172b65acf',
-    repo: 'Kollektive-Geographie-Heidelberg',
-    owner: 'Kollektive-Geographie-Heidelberg',
-    admin: ['Kollektive-Geographie-Heidelberg'],
-    // facebook-like distraction free mode
-    distractionFreeMode: true
-  })
-</script>
-<!-- git talk -->
   <script src="//cdn.bootcss.com/mathjax/2.6.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
