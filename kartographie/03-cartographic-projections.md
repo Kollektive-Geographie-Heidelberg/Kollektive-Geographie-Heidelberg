@@ -1,6 +1,8 @@
 # Projections
 
+
 **Why all world maps are wrong**
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kIID5FDi2JQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
@@ -39,6 +41,7 @@ A projection onto a (flat) plane can only have one of these properties!
 5. Cartographic scale
 
 ## Rule of thumb
+
 - low latitudes: cylindrical projections
 - middle latitudes: conical projections
 - high latitudes: azimuthal projections
@@ -52,10 +55,13 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 
 **Mercator projection**
 - https://en.wikipedia.org/wiki/Mercator_projection
+
 **Transverse Mercator projection**
 - https://en.wikipedia.org/wiki/Transverse_Mercator_projection
+
 **Web Mercator projection**
 - https://en.wikipedia.org/wiki/Web_Mercator
+
 **Albers projection**
 - https://en.wikipedia.org/wiki/Albers_projection
 
