@@ -7,11 +7,13 @@ Hier werden Informationen, Definitionen und knappe, stichwortartige Zusammenfass
 **Für wen ist diese Webseite?**
 
 Diese Webseite ist für Studierene ab dem Semester 16/17 gedacht, **nicht** für die Öffentlichkeit!
-Deswegen ist das Teilen und Verlinken in sozialen Netzwerken und im Internet **untersagt**. 
+Deswegen ist das Verlinken in öffentlich zugänglichen Teilen der sozialen Netzwerken und im Internet **untersagt**. 
 
 Warum?
 
 - Diese Webseite verwendet wahrscheinlich Inhalte ohne Quellenangabe (*violation of Copyright*).
 - Diese Webseite erhebt keine Anspruch auf Vollständigkeit und Korrektheit.
 
-Sollte euch bezüglich der Vollständigkeit oder Korrektheit aber etwas auffallen schreibt mir doch eine E-Mail ([Kontakt](/about/kontakt.html))
+Sollte euch bezüglich der Vollständigkeit oder Korrektheit aber etwas auffallen schreibt mir doch eine E-Mail ([Kontakt](/about/kontakt.html)), [korrigiert](contribute.md) es selbst oder eröffnet ein [*Issue*](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg/issues) auf github.
+
+Danke :)

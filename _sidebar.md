@@ -3,7 +3,6 @@
   - [Ziele und Motivation](about/ziele-motivation.md)
   - [Mitmachen](about/mitmachen.md)
   - [Kontakt](about/kontakt.md)
-  - [Feedback](about/feedback.md)
 
 - Geographie und Geographie in Heidelberg
   - [Gemeinsames studieren](gemeinsames-studieren/alternativer-messenger.md)
