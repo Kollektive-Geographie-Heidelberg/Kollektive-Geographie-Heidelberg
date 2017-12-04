@@ -1,21 +1,23 @@
+# Inhalte Bearbeiten
+
 Die Webseite und der Inhalt dieser sind auf [GitHub](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg) vorzufinden. 
 
 Um Inhalte zu bearbeiten oder hinzuzufügen brauchst du einen GitHub Account.
 
 
 
-## Seiten bearbeiten
+## Bearbeiten
 
-1. Um eine Seite zu bearbeiten drücke einfach oben rechts auf "Edit on github". Du wirst dann zur Markdown-Datei des Artikels auf GitHub weitergeleitet.
-2. Wenn du bei GitHub angemeldet bist, kannst du über das Stiftsymbol rechts über dem Textfeld die Datei bearbeiten.
-3. Wenn du mit deinen Änderungen fertig bist, musst du diese noch Übermitteln (Commit changes). Unter dem Textfeld kommentierst du deine Änderungen und Übermittelst diese an den "master branch".
+1. Um eine Seite zu bearbeiten drücke einfach oben rechts auf **"Edit on github"**. Du wirst dann zur Markdown-Datei des Artikels auf GitHub weitergeleitet.
+2. Wenn du bei **GitHub angemeldet** bist, kannst du über das **Stiftsymbol** rechts über dem Textfeld die Datei bearbeiten.
+3. Wenn du mit deinen Änderungen fertig bist, musst du diese noch **Übermitteln (Commit changes)**. Unter dem Textfeld kommentierst du deine Änderungen und Übermittelst diese an den "master branch".
 4. Deine Änderungen müssen dann noch von dem Besitzer oder einem Kollaborator des Repositories angenommen werden. Deswegen kann es bis zu einem Tag dauern bis die Änderungen auf der Webseite sichtbar werden.
 
 Wenn du öfters Seiten bearbeiten möchtest, solltest du dich mit [Git](https://git-scm.com/) vertraut machen.
 Oder du schreibst mir eine [E-Mail](about/kontakt) um andere Wege ("ohne" Git und GitHub) zum Mitwirken für dich zu finden.
 
 
-## Seiten hinzufügen
+## Neue Seiten erstellen
 
 Um Seiten hinzufügen gibt es mehrere Wege. Aber wahrscheinlich willst du nicht nur eine einzige Seite hinzufügen und dann ist es von Vorteil dich zum Kollaborator des Repositories zu machen. Dadurch musst du nicht warten bis deine Änderungen angenommen werden. 
 
