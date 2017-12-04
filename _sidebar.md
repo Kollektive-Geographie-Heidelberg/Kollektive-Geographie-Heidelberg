@@ -2,6 +2,7 @@
   - [Lies mich](README.md)
   - [Ziele und Motivation](about/ziele-motivation.md)
   - [Mitmachen](about/mitmachen.md)
+  - [Inhalte bearbeiten](about/contribute.md)
   - [Kontakt](about/kontakt.md)
 
 - Geographie und Geographie in Heidelberg

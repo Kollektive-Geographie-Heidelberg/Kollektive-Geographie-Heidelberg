@@ -1,4 +1,4 @@
-Die Webseite und ihr Inhalt ist auf [GitHub](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg). Über GitHub kann jeder seine Änderungsvorschläge und neue Inhalte der Webseite hinzufügen. Lese [hier](contribute.md) mehr wie du Inhalte der Webseite hinzufügen kannst. 
+Die Webseite und ihr Inhalt ist auf [GitHub](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg). Über GitHub kann jeder seine Änderungsvorschläge und neue Inhalte der Webseite hinzufügen. Lese [hier](about/contribute.md) mehr wie du Inhalte der Webseite hinzufügen kannst. 
 
 **Lob, Kritik, Ergänzungen oder Verbesserungsvorschläge?**
 - Schreib mir eine [E-Mail](/about/kontakt.md)
