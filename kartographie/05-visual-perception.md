@@ -1,5 +1,18 @@
 # Visual Perception
 
+Visual Perception is deceivable and individual different (e.g. color blindness). If you make something visual perceptible than you have to take this in account. 
+
+## Colours in Culture and Deceptions
+
+**Colours in Culture**
+
+![http://infobeautiful4.s3.amazonaws.com/2015/05/1276_colours_in_culture.png](http://infobeautiful4.s3.amazonaws.com/2015/05/1276_colours_in_culture.png)
+
+**Deceptions**
+- https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see
+- http://www.labofmisfits.com/articles/illusionsoflight.asp
+
+
 ## Gestalt Psychology
 
 A major aspect of Gestalt psychology is that it implies that the mind understands external stimuli as whole rather than the sum of their parts. The wholes are structured and organized using grouping laws. ([Wikipedia](https://en.wikipedia.org/wiki/Gestalt_psychology))
