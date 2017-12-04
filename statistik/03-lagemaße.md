@@ -1,24 +1,22 @@
-## Lage- und Streuungsmaße
+# 1.1. Lagemaße
 
 **Lagemaße** 
 - auch: Lageparameter
-- Maße der zentralen Tendenz
+- Maße der zentralen Tendenz einer Häufigkeitsverteilung
 - beschreiben das Zentrum (die Mitte) einer Verteilung
 - https://www.mathebibel.de/lageparameter
 
-**Streuungsmaße**
-- beschreiben die Lage der Einzelwerte um das Zentrum einer Verteilung
 
+## Modus
 
-### Modalwert (Modus)
-
-**Modalwert (Modus)**
+**Modus**
+- auch: Modalwert
 - häufigster Wert in einer Datenreihe
 - ab nominalem Datenniveau möglich
 - https://www.mathebibel.de/modus
 
 
-### Median
+## Median
 
 **Median**
 - mittlerer Wert einer aufsteigend geordneten Datenreihe
@@ -34,7 +32,7 @@
 - 
 
 
-### Arithmetisches Mittel
+## Arithmetisches Mittel
 
 **ungewogenes arithmetisches Mittel**
 - Quotient aus der Summe der betrachteten Zahlen und ihrer Anzahl
@@ -63,9 +61,38 @@
 - $h_i$
   - relative Häufigkeit der i-ten Klasse
 
-### Schiefe/ Steilheit
+
+## Schiefe/ Steilheit
 
 **positiv schief (rechts schief, links steil)**
 - Ist der Modalwert kleiner als Median und arithmetisches Mittel, hat die Verteilung viele niedrige Werte und wenige hohe Werte
 
 **negativ schief (links schief, rechts steil)**
+
+
+## Quartile und Quantile
+
+**Quantile**
+- Das Quantil teilt die Stichprobe so, dass ein Anteil der Stichprobe von p kleiner als das Quantil ist und ein Anteil von 1-p der Stichprobe größer als das Quantil ist.
+- $p \in (0,1)$
+- wenn $n * p$ ganzzahlig
+  - $x_{p} = \frac{1}{2} * (x_{n * p} + x_{(n * p)+1})$
+- wenn $n * p$ nicht ganzzahlig
+  - $x_{p} = (x_{(n * p)+1}$
+
+
+## Geometrisches Mittel
+
+$\bar{x}_{geom} = \sqrt[n]{x_1 * x_2 \dots x_n}$
+
+## Harmonisches Mittel
+
+$\bar{x}_{harm} = \frac{n}{\frac{1}{x_1} + \frac{1}{x_2} \dots \frac{1}{x_n}}$
+
+- nur für positive Zahlen geeignet
+
+
+**Ungleichung vom arithmetische und geometrischen Mittel**
+
+$\bar{x}_{geom} \leq \bar{x_{arithm}}$
+

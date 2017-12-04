@@ -1,3 +1,5 @@
 - [Allgemeines](statistik/00-allgemeines.md)
 - [Grundbegriffe](statistik/01-grundbegriffe.md)
-- [02](statistik/02.md)
+- [1. Deskriptive Statistik](statistik/02-deskriptive-statistik.md)
+- [1.1 Lagemaße](statistik/03-lagemaße.md)
+- [1.2 Streuungsmaße](statistik/04-streuungsmaße.md)
