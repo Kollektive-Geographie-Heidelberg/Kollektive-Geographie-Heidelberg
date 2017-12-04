@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
   <div id="app"></div>
   <script>
     window.$docsify = {
@@ -32,6 +33,7 @@
         }
       },
       plugins: [
+	EditOnGithubPlugin.create('https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg/tree/master/'),
         function (hook) {
           hook.beforeEach(function (content) {
             return content.replace(/\$\$([\s\S]*?)\$\$/g,
