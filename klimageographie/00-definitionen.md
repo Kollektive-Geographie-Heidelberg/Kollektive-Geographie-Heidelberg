@@ -10,7 +10,7 @@
 
 **adiabatische Temperaturgradient**
 
-- $$1K/100m$$
+- $1K/100m$
 - Temperaturgradient von adiabatischen Luftpaketen
 
 **Advektion**
@@ -132,7 +132,7 @@
 
 **geometrischer Temperaturgradient**
 
-- $$0,65K/100m$$
+- $0,65K/100m$
 - Temperaturgradient in freier Atmosphäre
 
 **Globalstrahlung**

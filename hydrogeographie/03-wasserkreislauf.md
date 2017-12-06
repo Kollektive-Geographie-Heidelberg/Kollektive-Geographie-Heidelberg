@@ -8,18 +8,18 @@ Der globale Wasserkreislauf ist ein geschlossenes dynamisches System
 
 **globale Wasserbilanzgleichung (Ozeane + Landfläche)**
 - Niederschlag = Verdunstung
-- $$N = V$$
+- $N = V$
 - lange Zeiträume
   - Wasserspeicher sind nicht berücksichtigt, können aber auftreten (Gletscherschmelze)
 
 **kontinentale Wasserbilanzgleichung**
 - Niederschlag = Verdunstung + Abfluss
-  - $$N=V+Q$$
+  - $N=V+Q$
 
 **allgemeine Wasserbilanzgleichung**
 Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
-- $$N = V + Q + \delta S$$
-  - $$R - B = \delta S$$
+- $N = V + Q + \delta S$
+  - $R - B = \delta S$
 - kürze Zeiträume (30-50 Jahre)
   - Wasserspeicher sind berücksichtigt (Speicheränderungen sind berücksichtigt)
 

@@ -283,7 +283,7 @@
 - Abplattung
 - Verformung eines Planeten durch seine Rotation [Wikipedia](https://de.wikipedia.org/wiki/Abplattung)
 -  relative Unterschied der großen Halbachse (a) am Äquator und der kleine Halbachse (b) an den Polen
-  - $$f=(a-b)/a=1-(b/a)$$
+  - $f=(a-b)/a=1-(b/a)$
 
 **oblique aspect**
 - schiefachsige Lage

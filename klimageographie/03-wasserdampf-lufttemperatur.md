@@ -4,13 +4,13 @@
 
 **Druck**
 
-- $$p$$
+- $p$
 
-- $$Pa$$
+- $Pa$
 
 - gibt an welche Kraft auf eine Fläche von einem Quadratmeter wirkt.
 
-- $$Normaldruck=1013hPa$$
+- $Normaldruck=1013hPa$
 
 ### Phasenübergänge
 
@@ -28,22 +28,22 @@
 
 #### absolute Feuchte
 
-- $$a$$
-- $$g/m^3$$
+- $a$
+- $g/m^3$
 - wieviel Gramm Wasserdampf ein Kubikmeter Luft enthält
 - schwer Messbar
 
 #### spezifische Feuchte
 
-- $$s$$
-- $$g/kg$$
+- $s$
+- $g/kg$
 - wieviel Gramm Wasserdampf ein Kg Luft enthält
 - schwer Messbar
 
 #### Sättigungsfeuchte
 
-- $$S$$
-- $$g/kg$$
+- $S$
+- $g/kg$
 - Höchstmenge an Wasserdampf, die Luft aufnehmen kann
 - abhängig von Temperatur
 
@@ -53,15 +53,15 @@
 
 #### Dampfdruck
 
-- $$e$$
-- $$hPa$$
+- $e$
+- $hPa$
 - Geht auf das Gewicht des In der Luft enthaltenen Wassersdampfes zurück
 - Teildruck des Luftdruckes
 
 #### Sättigungsdampfdruck
 
-- $$E$$ 
-- $$hPa$$
+- $E$ 
+- $hPa$
 - "Scheindruck" im inneren flüssigen Wassers
 - größtmögliche Menge Wasserdampf im betrachteten Luftvolumen
 - vgl. mit Sättigungsfeuchte
@@ -69,8 +69,8 @@
 
 #### Sättigungsdefizit
 
-- $$E-e$$
-- $$hPa$$
+- $E-e$
+- $hPa$
 - wieviel hPa der Dampfdruck erhöht werde muss um Sättigung zu erreichen
 - spielt bei der Verdustungsberechnung eine große Rolle
 - je größer das Defizit desto mehr Wasserdampf kann noch in die Luft überführt werden
@@ -78,17 +78,17 @@
 
 #### relative Luftfeuchte
 
-- $$rH = s/S*100\%$$
-- $$rH = e/E*100\%$$
+- $rH = s/S*100\%$
+- $rH = e/E*100\%$
 - wieviel Prozent die Luft wasserdampgesättigt ist
 - Untersättigung
-  - $$rH <100\%$$
+  - $rH <100\%$
   - -> Verdunstung
 - Übersättigung
-  - $$rH>100\%$$
+  - $rH>100\%$
   - -> Kondensation
 - Sättigung 
-  - $$rH=100\%$$
+  - $rH=100\%$
 
 ## Lufttemperatur
 
@@ -98,12 +98,12 @@ Land erwärmt sich schneller als Wasser
 
 - Nullpunkt = absuluter Nullpunkt
   - theoretisch tiefste mögliche Temperatur
-- $$0K = -273,15C$$
+- $0K = -273,15C$
 
 **Celcius**
 
 - Nullpunkt = Gefrierpunktstemperatur von Wasser
-- $$0C = 273,15K$$
+- $0C = 273,15K$
 
 **Äquivalenttemperatur** 
 
@@ -116,15 +116,15 @@ Land erwärmt sich schneller als Wasser
 **Nomenklatur**
 
 - Hebung
-  - $$\uparrow$$
+  - $\uparrow$
 - Absinken
-  - $$\downarrow$$
+  - $\downarrow$
 - Advektion
-  - $$\longleftrightarrow$$
+  - $\longleftrightarrow$
 - Aufgleiten
-  - $$\nearrow$$
+  - $\nearrow$
 - Abgleiten
-  - $$\swarrow$$
+  - $\swarrow$
 
 **adiabatisch**
 
@@ -149,12 +149,12 @@ Land erwärmt sich schneller als Wasser
 
 **adiabatische Temperaturgradient**
 
-- $$1K/100m$$
+- $1K/100m$
 - Temperaturgradient von adiabatischen Luftpaketen
 
 **geometrischer Temperaturgradient**
 
-- $$0,65K/100m$$
+- $0,65K/100m$
 - Temperaturgradient in freier Atmosphäre
 
 **hypsometrischer Temperaturgradient**

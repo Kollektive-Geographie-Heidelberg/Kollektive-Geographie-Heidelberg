@@ -4,10 +4,10 @@
 
 **Druck**
 
-- $$p$$
-- $$Pa$$
+- $p$
+- $Pa$
 - gibt an welche Kraft auf eine Fläche von einem Quadratmeter wirkt.
-- $$Normaldruck=1013hPa$$
+- $Normaldruck=1013hPa$
 
 **Isobar**
 
@@ -96,7 +96,7 @@
 - horizontaler Windvektor
   - Richtung
   - Geschwindigkeit
-    - $$m/s$
+    - $m/s$
 - Vertikalwind ist schwer messbar
 
 **Strömungsdynamik**

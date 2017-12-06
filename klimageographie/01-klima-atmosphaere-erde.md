@@ -69,7 +69,7 @@ Jahresverlauf des Klimas eines Ortes
 - Jahresdurschnittstemperatur
 - Jahresniederschlag
 - Balken = Niederschlagsmenge
-  - $$mm=l/m^2$$
+  - $mm=l/m^2$
 - Aride Verhältnisse
   - trocken
   - Temperaturkurve über dem Niederschlagsbalke
@@ -188,9 +188,9 @@ Oberfläche = ~500 * 10 hoch 6
 
 - von Westen nach Osten
 - Bahngeschwindigkeit
-  - $$Strecke / Zeit$$
+  - $Strecke / Zeit$
 - Bahngeschwindigkeit am Äquator
-  - $$~40000km/24h=~1670km/h$$
+  - $~40000km/24h=~1670km/h$
 
 ### Keplersche Gesetze
 
@@ -260,9 +260,9 @@ Oberfläche = ~500 * 10 hoch 6
 
 - q = Breitengrad
 - Solstitium
-  - $$(90 - q)\pm 23,5$$
+  - $(90 - q)\pm 23,5$
 - Äquinoktium: 
-  - $$90 - q$$
+  - $90 - q$
 
 ---
 

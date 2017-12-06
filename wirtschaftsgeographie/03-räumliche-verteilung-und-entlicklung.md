@@ -62,15 +62,15 @@ Gini-Koeffizient = Ungleichverteilungskoeffizienten
 
 **Standortquotient**
 
-- $$(b_{ij}/B_i)/(B_j/B)$$
+- $(b_{ij}/B_i)/(B_j/B)$
 - Beschäftigte in Region i und Sektor j
-  - $$b_{ij}$$
+  - $b_{ij}$
 - Beschäftigte aller Sektoren in Region i
-  - $$B_i$$
+  - $B_i$
 - Beschäftigte des Gesamtraums in Sektor j
-  - $$B_j$$
+  - $B_j$
 - Beschäftigte aller Sektoren im Gesamtraum
-  - $$B$$
+  - $B$
 
 ### Regionale Disparitäten
 

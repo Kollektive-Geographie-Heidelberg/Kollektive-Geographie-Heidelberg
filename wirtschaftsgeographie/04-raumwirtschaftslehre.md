@@ -109,19 +109,19 @@ Die Lagerente ist eine Funktion der Transportkosten.
 
 **Materialindex**
 
-- $$GM_L/GM_F$$
+- $GM_L/GM_F$
 
 Je größer der Materialindex, desto eher erfolgt die Produktion des Guts
 materialorientiert.
 
-- $$GM_L$$
+- $GM_L$
   - Gewicht der lokalisierten Materialen
-- $$GM_F$$
+- $GM_F$
   - Gewichte der Fertigerzeugnisse
 
 **Standortgewicht**
 
-- $$GM_L+GM_F$$
+- $GM_L+GM_F$
 
 **Tonnenkilometrischer Minimalpunkt**
 

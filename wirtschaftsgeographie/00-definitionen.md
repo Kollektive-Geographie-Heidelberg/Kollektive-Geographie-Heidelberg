@@ -81,7 +81,7 @@
 
 - Ungleichverteilungskoeffizienten
 - Bestimmung der Ungleichverteilung eines Merkmals innerhalb einer Population
-- $$G=A/(A+B)$$
+- $G=A/(A+B)$
 
 **Güter**
 
