@@ -1,6 +1,6 @@
 # Alternativer Messenger
 
-## Warum?
+## Warum ein alternative Messenger?
 
 Das Nutzen vieler Dienste (Facebook, WhatsApp, E-Mail Anbieter, Google etc.) ist vermeintlich kostenlos. Vermeintlich deshalb, da bei diesen Diensten *mit Daten bezahlt* wird. 
 
@@ -20,7 +20,7 @@ Hinzu kommt die Datensammelwut der Staaten. Stichwörter sind die [Voratsdatensp
 
 > Verletzung unserer Grundrechte
 
-Aber es gibt [alternativen](http://kollektive-geographie-heidelberg.de/gemeinsames-studieren/digitale-selbstverteidigung.html)...
+Aber es gibt alternativen...
 
 ## Kriterien eines Messenger
 
@@ -39,7 +39,3 @@ Welche Kriterien ein alternativer Messenger haben sollte hat Mike Kuketz ausfüh
 - Der Messenger [Signal](https://www.signal.org/) ist eine vielversprechende Alternative. Signal erfüllt nicht alle Kriterien wie sie oben aufgelistet sind (z.B. Dezentralität). Dafür sind andere Kriterien erfüllt und gut getestet. 
 
 - **Es gibt auch schon eine *"Kollektive Geographie Heidelberg"* Gruppe in Signal.** Frage einfach deine Kommilitonen ob sie dich in die Gruppe einladen oder schreibe mir eine E-Mail, damit ich dich einladen kann.
-
-<br/> 
-
-Für Alternativen anderer häufig genutzten Dienste schau auch [hier](/gemeinsames-studieren/digitale-selbstverteidigung.html).
