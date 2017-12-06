@@ -1,13 +1,12 @@
 # Räumliche Verteilung und Entwicklung
 
-
 ## Region und Regionalisierung
 
 **Region**
 
 - Ausschnitt der Erdoberfläche, der nach einem bestimmten Kriterium abgegrenzt wird und sich von anderen Regionen unterscheidet
 
-### Regionalsierung
+## Regionalsierung
 
 **Prinzipien**
 
@@ -20,7 +19,7 @@
 - Verwaltungsprinzip
   - Abgrenzung nach festgelegten administrativen Gebietsheiten
   - Landkreis
-### Verteilung
+## Verteilung
 
 - zufällige
   - uninteressant, da keine Vorhersage möglich
@@ -34,7 +33,7 @@
 
 - Messung geographischer Verteilung
 
-### Lorenzkurve
+## Lorenzkurve
 
 Die Lorenzkurve stellt statische Verteilungen grafisch dar und veranschaulicht dabei das Ausmaß an Disparität (Ungleichheit) innerhalb der Verteilung.
 
@@ -42,7 +41,7 @@ Die Lorenzkurve stellt statische Verteilungen grafisch dar und veranschaulicht d
 
 **Ungleichverteilungskoeffizienten** lassen sich für jegliche Verteilungen berechnen. 
 
-#### Gini-Koeffizient
+### Gini-Koeffizient
 
 Gini-Koeffizient = Ungleichverteilungskoeffizienten
 
@@ -58,7 +57,7 @@ Gini-Koeffizient = Ungleichverteilungskoeffizienten
 
 ![https://upload.wikimedia.org/wikipedia/commons/5/5c/Lorenzkurve_Kritik.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5c/Lorenzkurve_Kritik.jpg)
 
-#### Hoover
+### Hoover
 
 **Standortquotient**
 
@@ -72,7 +71,7 @@ Gini-Koeffizient = Ungleichverteilungskoeffizienten
 - Beschäftigte aller Sektoren im Gesamtraum
   - $B$
 
-### Regionale Disparitäten
+## Regionale Disparitäten
 
 Regionale Disparitäten sind Folge unterschiedlichem Wachstums.
 
@@ -82,7 +81,7 @@ Regionale Disparitäten sind Folge unterschiedlichem Wachstums.
 - national
 - regional
 
-#### Indikatoren
+### Indikatoren
 
 **Bruttoinlandsprodukt (BIP)**
 
