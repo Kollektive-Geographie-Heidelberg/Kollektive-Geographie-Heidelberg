@@ -19,6 +19,7 @@
 - Verwaltungsprinzip
   - Abgrenzung nach festgelegten administrativen Gebietsheiten
   - Landkreis
+
 ## Verteilung
 
 - zufällige
