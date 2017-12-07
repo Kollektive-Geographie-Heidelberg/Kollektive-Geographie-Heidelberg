@@ -68,6 +68,7 @@ The fundamental principle of gestalt perception is the law of prägnanz, which s
 - resolution
 - transparence
 
+![visual-variables](kartographie/visual-variables.png)
 
 ## Preattentive processing
 
