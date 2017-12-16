@@ -4,15 +4,23 @@ LaTeX ist ein Textsatzsystem, welches ein hervorragendes Werkzeug zur Erstellung
 
 - In LaTeX ist Form von Inhalt getrennt.
 - Die Verzeichnisse (Inhaltsverzeichnis, Literaturverzeichnis, Abbildungsverzeichnis und Tabellenverzeichnis) werden automatisch generiert
+- Plain Text Format
 
 **LaTeX Kurs - Universität Heidelberg**
 - Einführung in das Textsatzsystem LaTeX
 - Vorlesungsfolien sind ohne Einschreibung verfügbar
 - https://latexkurs.github.io/
 
+**Editor**
+- Es gibt viele verschieden Editoren für LaTeX
+- Ein umfangreicher Editor mit Vorschau Funktion ist TeXStudio
+  - http://texstudio.sourceforge.net/
+
 ## Template
 
-```latex
+Folgender LaTeX Code...
+
+```tex
 % !TEX program = xelatex
 % !TEX encoding = UTF-8 Unicode
 % !TEX spellcheck = de_DE
@@ -29,6 +37,7 @@ LaTeX ist ein Textsatzsystem, welches ein hervorragendes Werkzeug zur Erstellung
 \usepackage{booktabs} % tables
 \usepackage{blindtext} % generates "blind" text in stated positions
 \usepackage[style=authoryear]{biblatex} % bibliography & quotation style
+%\usepackage[authordate,backend=biber]{biblatex-chicago} % If needed, then use instead of biblatex. Not sure whats changing?
 \usepackage{csquotes} % german style quotation
 \usepackage{amsmath, mathtools} % math equations - https://en.wikibooks.org/wiki/LaTeX/Mathematics
 \usepackage{microtype} % takes care of microtypography
@@ -37,8 +46,8 @@ LaTeX ist ein Textsatzsystem, welches ein hervorragendes Werkzeug zur Erstellung
 \addbibresource{bibfile.bib} % https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#BibTeX
 \setmainlanguage{german}
 \onehalfspacing % 1,5 line spacing
-\lohead*{Left Outer Head}
-\rohead*{Right Outer Head}
+\lohead*{Kollektive Geographie Heidelberg}
+\rohead*{Template}
 %\pagestyle{scrheadings} % use for double sided papers (e.g. book)
 
 \begin{document}
@@ -121,6 +130,21 @@ Im Text kann man auf Tabelle \ref{tab:beispiel} verweisen.
 \end{document}
 ```
 
-Kompiliert folgendes Dokument:
+... kompiliert folgendes Dokument:
 
 <embed src="wissenschaft/template.pdf" type="application/pdf" width="100%" height="800">
+
+Das dazugehörige Bibfile enthält:
+
+```json
+@incollection{Akallabeth,
+address = {New York, USA},
+booktitle = {The Silmarillion},
+editor = {Tolkien, Christopher},
+publisher = {Mariner Books},
+author = {Tolkien, John Ronald Reuel},
+title = {Akallabeth - The Downfall of Numenor},
+year = {2014},
+tags = "MasterThesis"
+}
+```

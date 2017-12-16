@@ -13,7 +13,7 @@
 - Wissenschaftliches Arbeiten
   - [Layout](wissenschaft/layout.md)
   - [Zitieren, Tabellen und Abbildungen](wissenschaft/zitieren-tabellen-abbildungen.md)
-  - [Bibliographie](wissenschaft/bibliographie.md)
+  - [Bibliographie & Verzeichnisse](wissenschaft/bibliographie.md)
   - [Vorlage](wissenschaft/vorlage.md)
   - [LaTeX](wissenschaft/latex.md)
 
