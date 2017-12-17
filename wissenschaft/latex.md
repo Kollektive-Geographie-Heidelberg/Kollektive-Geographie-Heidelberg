@@ -25,36 +25,36 @@ Folgender LaTeX Code...
 % !TEX encoding = UTF-8 Unicode
 % !TEX spellcheck = de_DE
 
-\documentclass[a4paper, 12pt, bibliography=totoc, listof=totoc]{scrartcl}
+\documentclass[a4paper, 12pt]{scrartcl} % add listof=totoc and bibliography=totoc as parameter if you want both in table of content
 
-\usepackage{polyglossia} % language
+\usepackage{polyglossia} % language package
 \usepackage{xltxtra} % loads also fontspec 
-\usepackage{lmodern} % font
-\usepackage[sc,osf]{mathpazo} % oldschool number style
 \usepackage{setspace} % line spacing
 \usepackage{scrlayer-scrpage} % header and footer for documentclass KOMA-Script
-\usepackage{graphicx} % embed images unsing \includegraphics{image.png}
-\usepackage{booktabs} % tables
-\usepackage{blindtext} % generates "blind" text in stated positions
-\usepackage[authordate,backend=biber]{biblatex-chicago} % If needed, then use instead of biblatex. Not sure whats changing?
+\usepackage[authordate,backend=biber]{biblatex-chicago}
 \usepackage{csquotes} % german style quotation
+\usepackage{acronym}
+\usepackage{blindtext} % generates "blind" text in stated positions
+\usepackage{graphicx} % embed images unsing \includegraphics{image.png}
+\usepackage{booktabs} % for better tables
 \usepackage{amsmath, mathtools} % math equations - https://en.wikibooks.org/wiki/LaTeX/Mathematics
 \usepackage{microtype} % takes care of microtypography
 \usepackage{hyperref} % hyperlinks - load this package last!
 
 \addbibresource{bibfile.bib} % https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#BibTeX
 \setmainlanguage{german}
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{TeX Gyre Pagella}
 \onehalfspacing % 1,5 line spacing
-\lohead*{Kollektive Geographie Heidelberg}
-\rohead*{Template}
-%\pagestyle{scrheadings} % use for double sided papers (e.g. book)
+\pagestyle{scrheadings}
+\ihead*{Kollektive Geographie Heidelberg} % inner header
+\ohead*{Template} % outer header
 
 \begin{document}
 \begin{titlepage}
 	\title{Template}
-	\subtitle{Vorlage für wissenschaftliche Arbeiten in der Geographie}
+	%\subtitle{Vorlage für wissenschaftliche Arbeiten in der Geographie}
 	\author{Kollektive Geographie Heidelberg}
-	\date{\today}
+	\date{\normalsize\today}
 	\maketitle
 	\thispagestyle{empty} % removes header and footer
 	\vspace{2cm}
@@ -64,14 +64,23 @@ Folgender LaTeX Code...
 		Institut: & Geographie\\ 
 		Semester: & WS 17/18 \\
 		Seminar: & Wissenschaftliches Arbeiten \\
-		Dozent: & Dr. Dr. Prof. Eitel \\
+		Dozent: & Dr. Dr. Prof. Eitel \\ \\
 		Studienrichtung: & Geographie \\
 		Fachsemester: & 3 \\
-		E-Mail: & kollektive-geographie-heidelberg@posteo.de
+		E-Mail: & \href{mailto:kollektive-geographie-heidelberg@posteo.de}{kollektive-geographie-heidelberg@posteo.de}
 	\end{tabular}
 \end{titlepage}
 
 \tableofcontents
+\pagebreak
+\listoffigures
+\listoftables
+\section*{Kürzelverzeichnis}
+\begin{acronym}[UMLX]
+	\acro{UTM}{Universial Transverse Mercator}
+	\acro{WGS}{World Geodetic System}
+	\acro{GNSS}{global navigation satellite system}
+\end{acronym}
 \pagebreak
 
 \section{Überschrift}
@@ -115,17 +124,9 @@ Im Text kann man auf Tabelle \ref{tab:beispiel} verweisen.
 
 \blindtext
 
-%--------verzeichnise-------
 \newpage
 \pagestyle{plain}
-
 \printbibliography[title={Literaturverzeichnis}]
-\newpage
-
-\listoffigures
-\newpage
-
-\listoftables
 \end{document}
 ```
 
