@@ -1,3 +1,4 @@
+- [Linksammlungen](/geographie-ressourcen/linksammlung.md)
 - [Geographie in Heidelberg](geographie-ressourcen/geographie-heidelberg.md)
 - [Bücher und Zeitschriften](geographie-ressourcen/buecher-zeitschriften.md)
 - [Webseiten](geographie-ressourcen/webseiten.md)
