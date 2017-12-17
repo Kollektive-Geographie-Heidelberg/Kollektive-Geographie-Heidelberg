@@ -71,17 +71,37 @@ Folgender LaTeX Code...
 	\end{tabular}
 \end{titlepage}
 
+\begin{abstract}
+	\selectlanguage{english}
+	\section*{Abstract}
+	An abstract should always be available in english. Thus somebody can decide if translation is worthwile.
+	
+	An abstract is a short summary of the content and should enable people to dicide wether to read further or not.
+	A great guide by Kent Beck how to write good abstracts can be found here:
+	\begin{center}
+		\url{https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html}
+	\end{center}
+	
+	\vfill
+	\selectlanguage{german}
+	\section*{Zusammenfassung}
+	Hier könnte der "Abstract", also eine kurze Zusammenfassung des Inhaltes, in deutscher Sprache stehen\dots
+	\vfill
+	\newpage
+\end{abstract}
+
 \tableofcontents
-\pagebreak
+\newpage
 \listoffigures
 \listoftables
+
 \section*{Kürzelverzeichnis}
 \begin{acronym}[UMLX]
 	\acro{UTM}{Universial Transverse Mercator}
 	\acro{WGS}{World Geodetic System}
 	\acro{GNSS}{global navigation satellite system}
 \end{acronym}
-\pagebreak
+\newpage
 
 \section{Überschrift}
 "...thou, Melkor, shalt see that no theme may be played that hath not its uttermost source in me, nor can any alter the music in my despite. For he that attempteth this shall prove but mine instrument in the devising of things more wonderful, which he himself hath not imagined" (\cite{Akallabeth}).
@@ -128,32 +148,6 @@ Im Text kann man auf Tabelle \ref{tab:beispiel} verweisen.
 \pagestyle{plain}
 \printbibliography[title={Literaturverzeichnis}]
 \end{document}
-```
-
-... kompiliert folgendes Dokument:
-
-<object data="wissenschaft/template.pdf" type="application/pdf" width="100%" height="900">
-   <p><b>Fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="wissenschaft/template.pdf">Download PDF</a>.</p>
-</object>
-
-Das dazugehörige Bibfile enthält:
-
-```json
-@incollection{Akallabeth,
-address = {New York, USA},
-booktitle = {The Silmarillion},
-editor = {Tolkien, Christopher},
-publisher = {Mariner Books},
-author = {Tolkien, John Ronald Reuel},
-title = {Akallabeth - The Downfall of Numenor},
-year = {2014},
-tags = "MasterThesis"
-}
-@ONLINE {iconika,
-    author = "ICONIKA",
-    title  = "Earth",
-    url    = "https://www.shareicon.net/space-earth-planet-863624"
-}
 ```
 
 Aus der BibTeX-Datei wird das Literaturverzeichnis generiert. Die BibTeX-Datei enthält Informationen über das zu zitierende Werk. BibTeX-Dateien sind weit verbreitet und können z.Bsp. über HEIDI oder Google Scholar runter geladen werden. Ansonsten gibt es BibTeX-Datei Generatoren und Editoren.
