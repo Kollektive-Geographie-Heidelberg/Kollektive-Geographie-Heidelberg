@@ -36,8 +36,7 @@ Folgender LaTeX Code...
 \usepackage{graphicx} % embed images unsing \includegraphics{image.png}
 \usepackage{booktabs} % tables
 \usepackage{blindtext} % generates "blind" text in stated positions
-\usepackage[style=authoryear]{biblatex} % bibliography & quotation style
-%\usepackage[authordate,backend=biber]{biblatex-chicago} % If needed, then use instead of biblatex. Not sure whats changing?
+\usepackage[authordate,backend=biber]{biblatex-chicago} % If needed, then use instead of biblatex. Not sure whats changing?
 \usepackage{csquotes} % german style quotation
 \usepackage{amsmath, mathtools} % math equations - https://en.wikibooks.org/wiki/LaTeX/Mathematics
 \usepackage{microtype} % takes care of microtypography
@@ -84,7 +83,7 @@ Folgender LaTeX Code...
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.1\textwidth]{favicon.png}
-	\caption{Favicon}
+	\caption[Favicon]{Favicon (\cite{iconika})}
 	\label{fig:favicon} % labels are needed to refer in text to a figure
 \end{figure}
 
@@ -107,7 +106,7 @@ Folgender LaTeX Code...
 		Die & vierte & Zeile \\
 		\bottomrule
 	\end{tabular}
-	\caption{Beispiel}
+	\caption{Beispiel (eigene Darstellung)}
 	\label{tab:beispiel}
 \end{table}
 
@@ -132,7 +131,9 @@ Im Text kann man auf Tabelle \ref{tab:beispiel} verweisen.
 
 ... kompiliert folgendes Dokument:
 
-<embed src="wissenschaft/template.pdf" type="application/pdf" width="100%" height="800">
+<object data="wissenschaft/template.pdf" type="application/pdf" width="100%" height="900">
+   <p><b>Fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="wissenschaft/template.pdf">Download PDF</a>.</p>
+</object>
 
 Das dazugehörige Bibfile enthält:
 
@@ -147,4 +148,16 @@ title = {Akallabeth - The Downfall of Numenor},
 year = {2014},
 tags = "MasterThesis"
 }
+@ONLINE {iconika,
+    author = "ICONIKA",
+    title  = "Earth",
+    url    = "https://www.shareicon.net/space-earth-planet-863624"
+}
 ```
+
+Aus der BibTeX-Datei wird das Literaturverzeichnis generiert. Die BibTeX-Datei enthält Informationen über das zu zitierende Werk. BibTeX-Dateien sind weit verbreitet und können z.Bsp. über HEIDI oder Google Scholar runter geladen werden. Ansonsten gibt es BibTeX-Datei Generatoren und Editoren.
+
+**Bibtex - Editor**
+- http://truben.no/latex/bibtex/
+**Bibtex - Generator**
+- http://www.literatur-generator.de/
