@@ -3,3 +3,4 @@
 - [Hydrologie und Hydrogeographie](hydrogeographie/01-hydrologie.md)
 - [Wasser](hydrogeographie/02-wasser.md)
 - [Wasserkreislauf](hydrogeographie/03-wasserkreislauf.md)
+- [Einzugsgebiete](hydrogeographie/04-einzugsgebiete.md)
