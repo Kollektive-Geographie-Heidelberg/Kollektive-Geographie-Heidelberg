@@ -2,7 +2,7 @@
 
 ## Globaler Wasserkreislauf
 
-Der globale Wasserkreislauf ist ein geschlossenes dynamisches System
+Der globale Wasserkreislauf ist ein geschlossenes dynamisches System.
 
 ![feuerwehr-strengelbach-wasserkreislauf](http://www.feuerwehr-strengelbach.ch/images/praevention/kinder_feuer/wasser/wasserkreislauf.jpg)
 
@@ -14,7 +14,7 @@ Der globale Wasserkreislauf ist ein geschlossenes dynamisches System
 
 **kontinentale Wasserbilanzgleichung**
 - Niederschlag = Verdunstung + Abfluss
-  - $N=V+Q$
+- $N=V+Q$
 
 **allgemeine Wasserbilanzgleichung**
 Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
@@ -24,10 +24,10 @@ Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
   - Wasserspeicher sind berücksichtigt (Speicheränderungen sind berücksichtigt)
 
 
-## Regionaler Wasserkreislauf 
+## Regionaler Wasserkreislauf (work in progress)
 
 
-## Systemanalytische Betrachtung
+## Systemanalytische Betrachtung (work in progress)
 
 
 ## Skalen
@@ -37,18 +37,12 @@ Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
   - hydrologisch ähnlich reagierende Flächen
 
 **Mesoskala**
-- 
+- ...
 
 **Makroskala**
-
-
-## Einzugsgebiete
-
-**oberirdische Einzugsgebiete**
-
-**unterirdische Einzugsgebiete**
-
+- ...
 
 ## weiterführende Links
 
 **BMBF - Alles im Fluss**
+- http://www.bmbf-alles-im-fluss.de/

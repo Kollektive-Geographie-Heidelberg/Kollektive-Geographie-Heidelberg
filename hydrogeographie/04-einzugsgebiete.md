@@ -1,4 +1,10 @@
-# Charakterisierung von Einzugsgebieten
+# Einzugsgebiete
+
+**oberirdische Einzugsgebiete**
+
+**unterirdische Einzugsgebiete**
+
+## Charakterisierung von Einzugsgebieten
 
 Zur Beschreibung von Einzugsgebieten werden verschiedene Größen herangezogen:
 - Einzugsgebietsfläche $A_Eo$ in km²
@@ -8,11 +14,11 @@ Zur Beschreibung von Einzugsgebieten werden verschiedene Größen herangezogen:
 - hypsometrische Kurve
 - Gewässernetz, Flußdichte, Laufmuster
 
-## Gebietsform
+### Gebietsform
 
-## hypsometrische Kurve
+### hypsometrische Kurve
 
-## Gewässernetz, Flußdichte, Laufmuster
+### Gewässernetz, Flußdichte, Laufmuster
 
 Unter der Flußdichte wird das Verhältnis der Gesamtlänge in [km] sämtlicher Flußabschnitte zur Einzugsgebietsfläche in [km²] eines Flusses verstanden Gewässernetz, Flußdichte
 
@@ -22,7 +28,7 @@ Je undurchlässiger der Untergrund und je größer die Niederschlagshöhe ist, u
 
 Die Flußdichte kann sich unter Umständen auf kurzer räumlicher Distanz drastisch ändern
 
-## Wasserführung
+### Wasserführung
 
 Unterscheidung nach Wasserläufen
 - perennierenden

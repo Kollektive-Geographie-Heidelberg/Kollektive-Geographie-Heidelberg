@@ -1,18 +1,11 @@
 # Definitionen
 
 **endorheic**
+
 **exorheic**
 
 **Flussdichte**
-<br/>
 
-------
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/00-definitionen.pdf) herunter
-
-Lade die ganze Rubrik *hydrogeographie* als [PDF](http://kollektive-geographie-heidelberg.de/hydrogeographie/hydrogeographie.pdf) herunter
-
-------
 **Flussordnungszahl**
 
 **großer Staudaum**
