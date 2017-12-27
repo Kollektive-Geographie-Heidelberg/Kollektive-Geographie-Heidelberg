@@ -24,23 +24,39 @@ Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
   - Wasserspeicher sind berücksichtigt (Speicheränderungen sind berücksichtigt)
 
 
-## Regionaler Wasserkreislauf (work in progress)
+## Bewegung des Wassers
 
+Die Bewegung des Wassers erfolgt in Form von Flüssen zwischen Speichern.
 
-## Systemanalytische Betrachtung (work in progress)
+| Speicher | Flüsse |
+| -------- | ------ |
+| Atmosphäre | Verdunstung |
+| Ozeane | Abfluß |
+| Seen | Versickerung |
+| Bodenfeuchte | GW-Strömung | 
+| Schnee und Eis | | 
+| Grundwasser | | 
+
+Grundlage für die Flüsse zwischen den Speichern ist immer die Zufuhr von Energie in Form von:
+- Wärme
+- Strahlung
+- Auftrieb
+- Höhenunterschiede (Gravitation)
 
 
 ## Skalen
 
 **Mikroskala**
-- Hydrotope
-  - hydrologisch ähnlich reagierende Flächen
+- elementare Flüsse
+- räumliche Homogenität
 
 **Mesoskala**
-- ...
+- komplexe Flüsse
+- räumliche Heterogenität
 
 **Makroskala**
-- ...
+- komplexe regionale und globale Flüsse
+- hohe räumliche Heterogenität
 
 ## weiterführende Links
 

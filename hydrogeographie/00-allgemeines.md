@@ -1,7 +1,7 @@
 # Allgemeines
 
 **Vorlesung**
-- Hydrogeogrpahie
+- Hydrogeographie
 - 4 LP
 
 **Semester**
@@ -9,11 +9,6 @@
 
 **Dozent**
 - Menzel
-
-**Tutorium**
-- Freitag 14 tägig
-- erster Termin: 03.11.17
-- 09:00 - 11:00 Uhr
 
 **Literatur**
 - Fohrer, Nicola (2016): Hydrologie. UTB. 

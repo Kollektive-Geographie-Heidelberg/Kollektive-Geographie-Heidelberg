@@ -4,6 +4,27 @@
 
 **unterirdische Einzugsgebiete**
 
+**allochthoner Fluss**
+- auch: Fremdlingsfluss, diarheischer Fluss
+- durchfließen mindestens zwei Klimazonen
+- entspringt üblicherweise in humiden Regionen und durchfließt als "Fremdlingsfluss" ein arides Gebiet
+
+**autochthonen Flüssen**
+- das Einzugsgebiet des Flusses erstreckt sich lediglich über eine Klimazone
+
+**Endorheisch**
+- Einzugsgebiete, die keinen Abfluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
+
+![Wikipedia-endorheic_basins](https://upload.wikimedia.org/wikipedia/commons/d/de/Major_endorheic_basins.png)
+
+**Exorheisch**
+- Einzugsgebiete, die eine Abluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
+
+**Wasserscheide**
+- Grenze zwischen den Einzugsgebieten des abfließenden Niederschlagswassers von zwei Flüssen ([Wikipedia](https://de.wikipedia.org/wiki/Wasserscheide))
+
+![Wikipedia-Wasserscheide](https://upload.wikimedia.org/wikipedia/commons/b/b1/Ocean_drainage.png)
+
 ## Charakterisierung von Einzugsgebieten
 
 Zur Beschreibung von Einzugsgebieten werden verschiedene Größen herangezogen:
@@ -20,13 +41,10 @@ Zur Beschreibung von Einzugsgebieten werden verschiedene Größen herangezogen:
 
 ### Gewässernetz, Flußdichte, Laufmuster
 
-Unter der Flußdichte wird das Verhältnis der Gesamtlänge in [km] sämtlicher Flußabschnitte zur Einzugsgebietsfläche in [km²] eines Flusses verstanden Gewässernetz, Flußdichte
-
-Die Flußdichte charakterisiert die Entwässerungsfähigkeit eines Gebietes
-
-Je undurchlässiger der Untergrund und je größer die Niederschlagshöhe ist, um so größer wird die Flußdichte
-
-Die Flußdichte kann sich unter Umständen auf kurzer räumlicher Distanz drastisch ändern
+**Flußdichte**
+- das Verhältnis der Gesamtlänge (in km) sämtlicher Flußabschnitte zur Einzugsgebietsfläche (in km²) eines Flusses
+- Die Flußdichte charakterisiert die Entwässerungsfähigkeit eines Gebietes
+- Je undurchlässiger der Untergrund und je größer die Niederschlagshöhe ist, um so größer wird die Flußdichte
 
 ### Wasserführung
 
