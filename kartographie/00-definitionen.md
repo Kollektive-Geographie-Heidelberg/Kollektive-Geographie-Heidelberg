@@ -434,3 +434,66 @@
 **windrose**
 - Windrose
 
+**canopy coverage**
+- Kronenschluss
+
+**cartographic symbol**
+- Kartenzeichen
+- kartographisches Zeichen
+
+**basic map**
+- Grundlagenkarte
+
+**basic spatial data**
+- Geobasisdaten
+
+**cadastral subdistrict**
+- Gemarkung
+
+**cadastral map**
+- Liegenschaftskarte
+- Flurkarte
+- eine maßstäbliche Darstellung aller Liegenschaften ([Wikipedia](https://de.wikipedia.org/wiki/Flurkarte))
+
+**census of population**
+- Volkszählung
+
+**height mark**
+- Höhenfestpunkt
+- geodätischer Festpunkt, welcher speziell als Ausgangspunkt für die Höhenmessung dient ([Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6henfestpunkt))
+
+**fixed point**
+- Lagefestpunkt
+- geodätischer Festpunkt
+
+**land survey**
+- topographische Landesaufnahme
+
+**land registry**
+- Liegenschaftsbuch
+
+**official map series**
+- Amtliches Kartenwerk
+
+**plain**
+- Flur
+- zusammenhängende Flurstücke umfassender Teil einer Gemarkung
+
+**plot**
+- Flurstück
+- Grundstück
+- amtlich vermessener und in der Regel örtlich abgemarkter Teil der Erdoberfläche ([Wikipedia](https://de.wikipedia.org/wiki/Flurst%C3%BCck))
+
+**real estate**
+- Liegenschaft
+
+**sheet line system**
+- Blattschnitt
+
+**system of regerence**
+- Lagebezugssystem
+
+**topographic survey**
+- topographische Landesaufnahme
+
+
