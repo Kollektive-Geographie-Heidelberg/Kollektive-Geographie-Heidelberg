@@ -18,8 +18,8 @@ Der globale Wasserkreislauf ist ein geschlossenes dynamisches System.
 
 **allgemeine Wasserbilanzgleichung**
 Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
-- $N = V + Q + \delta S$
-  - $R - B = \delta S$
+- $N = V + Q + \Delta S$
+  - $R - B = \Delta S$
 - kürze Zeiträume (30-50 Jahre)
   - Wasserspeicher sind berücksichtigt (Speicheränderungen sind berücksichtigt)
 
