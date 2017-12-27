@@ -1,5 +1,5 @@
 - [Allgemeines](hydrogeographie/00-allgemeines.md)
 - [Definitionen](hydrogeographie/00-definitionen.md)
-- [Hydrologie und Hydrogeographie.md](hydrogeographie/01-hydrologie.md)
+- [Hydrologie und Hydrogeographie](hydrogeographie/01-hydrologie.md)
 - [Wasser](hydrogeographie/02-wasser.md)
 - [Wasserkreislauf](hydrogeographie/03-wasserkreislauf.md)
