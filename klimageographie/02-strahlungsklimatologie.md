@@ -130,7 +130,7 @@ Der Einfluss atmosphärischer und ozeanischer Zirkulation auf das Klima wird nic
 
 - Abrupte Wechsel von **Absorption** bzw. **Transmission** in unterschiedlichen Wellenlängenbereichen
 
-####Treibhauseffekt
+### Treibhauseffekt
 
 - natürlicher Vorgang der Absorption und Gegenstrahlung von Energie im langwelligen Bereich
 - Ermöglicht einen Temperaturbereich , welcher die Entwicklung des Lebens auf der Erde ermöglicht hat

@@ -15,6 +15,9 @@
 **Lotrecht**
 - ...
 
+**Hydrosphäre**
+- ober- und unterirdische Wasservorkommen
+
 **Verweilzeit**
 - die mittlere Zeitdauer die ein Teilchen oder Molekül (Wasser) in einem System verbleibt (Atmosphäre, Grundwasser, ...)
 

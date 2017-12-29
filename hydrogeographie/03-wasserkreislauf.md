@@ -1,10 +1,54 @@
 # Wasserkreislauf
 
-## Globaler Wasserkreislauf
+## Prozesse und Antrieb
 
-Der globale Wasserkreislauf ist ein geschlossenes dynamisches System.
+**Prozesse**
+- Verdunstung
+- atmosphärischer Wassertransport
+- Niederschlag
+- Abfluss
 
 ![feuerwehr-strengelbach-wasserkreislauf](http://www.feuerwehr-strengelbach.ch/images/praevention/kinder_feuer/wasser/wasserkreislauf.jpg)
+
+**Antrieb**
+- Sonnenstrahlung (Strahlungsbilanz)
+  - Verdunstung
+  - Umverteilung von Wasser
+- Gravitation
+  - Niederschlag
+  - Abfluss
+
+
+## Transport und Speicher
+
+Langfristig ist alles Wasser in Bewegung.
+
+Zwischenzeitlich ist Wasser über ein variablen Zeitraum *gespeichert*.
+
+Die Dauer, die das Wasser in einem Speicher verbringt wird als Verweilzeit bezeichnet.
+
+**mittlere Verweilzeit**
+- $\bar{t} = \frac{V_s}{Q}$
+- $V_s$
+  - Speichervolumen [m³]
+- $Q$
+  - Abfluss [m³/d]
+- $\bar{t}$
+  - mittlere Verweilzeit [d]
+
+Die Bewegung des Wassers in Form von *Flüssen* zwischen *Speichern*:
+
+| Speicher | Flüsse |
+| -------- | ------ |
+| Atmosphäre | Verdunstung |
+| Ozeane | Abfluß |
+| Seen | Versickerung |
+| Bodenfeuchte | GW-Strömung | 
+| Schnee und Eis | | 
+| Grundwasser | | 
+
+
+## Wasserbilanz
 
 **globale Wasserbilanzgleichung (Ozeane + Landfläche)**
 - Niederschlag = Verdunstung
@@ -24,26 +68,6 @@ Niederschlag = Verdunstung + Ablfuss + Speicherveränderungen
   - Wasserspeicher sind berücksichtigt (Speicheränderungen sind berücksichtigt)
 
 
-## Bewegung des Wassers
-
-Die Bewegung des Wassers erfolgt in Form von Flüssen zwischen Speichern.
-
-| Speicher | Flüsse |
-| -------- | ------ |
-| Atmosphäre | Verdunstung |
-| Ozeane | Abfluß |
-| Seen | Versickerung |
-| Bodenfeuchte | GW-Strömung | 
-| Schnee und Eis | | 
-| Grundwasser | | 
-
-Grundlage für die Flüsse zwischen den Speichern ist immer die Zufuhr von Energie in Form von:
-- Wärme
-- Strahlung
-- Auftrieb
-- Höhenunterschiede (Gravitation)
-
-
 ## Skalen
 
 **Mikroskala**
@@ -57,6 +81,7 @@ Grundlage für die Flüsse zwischen den Speichern ist immer die Zufuhr von Energ
 **Makroskala**
 - komplexe regionale und globale Flüsse
 - hohe räumliche Heterogenität
+
 
 ## weiterführende Links
 
