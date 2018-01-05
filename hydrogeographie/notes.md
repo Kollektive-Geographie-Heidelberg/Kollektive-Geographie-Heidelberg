@@ -25,4 +25,11 @@
 - Flächenabhängig
 - l pro m² 
 
+---
+
+Gebietsniederschlag mittels radar
+
+schneeniederschlag
+
+höhengradient bei niederschlag
 

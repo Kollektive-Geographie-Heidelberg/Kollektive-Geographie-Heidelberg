@@ -17,6 +17,7 @@ Das Einzugsgebiet ist durch die Wasserscheide begrenzt.
 - kann sich vom oberirdischen Einzugsgebiet unterscheiden
 - schwer zu bestimmen
 
+
 ## Termini
 
 **allochthoner Fluss**
@@ -53,12 +54,14 @@ Zur Beschreibung von Einzugsgebieten werden verschiedene Größen herangezogen:
 - hypsometrische Kurve
 - Gewässernetz, Flußdichte, Laufmuster
 
+
 ### Gewässernetz, Flußdichte, Laufmuster
 
 **Flußdichte**
 - das Verhältnis der Gesamtlänge (in km) sämtlicher Flußabschnitte zur Einzugsgebietsfläche (in km²) eines Flusses
 - Die Flußdichte charakterisiert die Entwässerungsfähigkeit eines Gebietes
 - Je undurchlässiger der Untergrund und je größer die Niederschlagshöhe ist, um so größer wird die Flußdichte
+
 
 ## Wasserführung
 

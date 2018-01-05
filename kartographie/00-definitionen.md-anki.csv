@@ -31,8 +31,25 @@
 "barometric altimetry
 ","- Barometrische Höhenmessung
 "
+"basic map
+","- Grundlagenkarte
+"
+"basic spatial data
+","- Geobasisdaten
+"
 "bearing
 ","- Richtung
+"
+"cadastral map
+","- Liegenschaftskarte
+<br>- Flurkarte
+<br>- eine maßstäbliche Darstellung aller Liegenschaften ([Wikipedia](https://de.wikipedia.org/wiki/Flurkarte))
+"
+"cadastral subdistrict
+","- Gemarkung
+"
+"canopy coverage
+","- Kronenschluss
 "
 "Cape of Good Hope
 ","- Kap der guten Hoffnung
@@ -46,6 +63,13 @@
 "
 "Cartesian coordinates 
 ","- Kartesische Koordinaten
+"
+"cartographic symbol
+","- Kartenzeichen
+<br>- kartographisches Zeichen
+"
+"census of population
+","- Volkszählung
 "
 "chart
 ","- bestimmte Art von Kartendarstellung,
@@ -120,6 +144,10 @@
 ","- Schwarzplan
 <br>- Darstellung von Gebäuden in einem ausgewählten Planausschnitt. Alle anderen Planelemente wie beispielsweise Straßen, Vegetation oder Gewässer werden ausgeblendet. [Wikipedia](https://de.wikipedia.org/wiki/Schwarzplan)
 "
+"fixed point
+","- Lagefestpunkt
+<br>- geodätischer Festpunkt
+"
 "footprint (of a building)
 ","- Grundriß
 "
@@ -184,6 +212,10 @@
 "half-wind
 ","- Halb-Wind (einer Windrose)
 "
+"height mark
+","- Höhenfestpunkt
+<br>- geodätischer Festpunkt, welcher speziell als Ausgangspunkt für die Höhenmessung dient ([Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6henfestpunkt))
+"
 "interval scale
 ","- Intervallskala
 <br>- ist Teil der Kardinalskala
@@ -193,6 +225,12 @@
 "
 "isohypse
 ","- Höhenlinie, Isohypse
+"
+"land registry
+","- Liegenschaftsbuch
+"
+"land survey
+","- topographische Landesaufnahme
 "
 "land surveying
 ","- Landesvermessung
@@ -281,12 +319,15 @@
 ","- Abplattung
 <br>- Verformung eines Planeten durch seine Rotation [Wikipedia](https://de.wikipedia.org/wiki/Abplattung)
 <br>-  relative Unterschied der großen Halbachse (a) am Äquator und der kleine Halbachse (b) an den Polen
-<br>  - $$f=(a-b)/a=1-(b/a)$$
+<br>  - $f=(a-b)/a=1-(b/a)$
 "
 "oblique aspect
 ","- schiefachsige Lage
 <br>- schiefständige Lage
 <br>- zwischenständige Lage
+"
+"official map series
+","- Amtliches Kartenwerk
 "
 "offset printing
 ","- Offsetdruck
@@ -299,6 +340,10 @@
 "perpendicular to
 ","- senkrecht auf
 "
+"plain
+","- Flur
+<br>- zusammenhängende Flurstücke umfassender Teil einer Gemarkung
+"
 "planar representation
 ","- planare Darstellung
 "
@@ -307,6 +352,11 @@
 "
 "planimetric representation
 ","- Grundrißdarstellung
+"
+"plot
+","- Flurstück
+<br>- Grundstück
+<br>- amtlich vermessener und in der Regel örtlich abgemarkter Teil der Erdoberfläche ([Wikipedia](https://de.wikipedia.org/wiki/Flurst%C3%BCck))
 "
 "polar aspect
 ","- polständige Lage
@@ -334,6 +384,9 @@
 "
 "quarter-wind
 ","- Viertel-Wind (einer Windrose)
+"
+"real estate
+","- Liegenschaft
 "
 "reference ellipsoid
 ","- Bezugsellipsoid
@@ -387,6 +440,9 @@
 "shading hachures
 ","- Schattenschraffen
 "
+"sheet line system
+","- Blattschnitt
+"
 "soil
 ","- Boden
 "
@@ -405,6 +461,9 @@
 "surveying
 ","- Landesvermessung
 "
+"system of regerence
+","- Lagebezugssystem
+"
 "tangent
 ","- Tangente
 <br>- eine Gerade, die eine Kurve (Kreis) einen Punkt berührt
@@ -415,6 +474,9 @@
 "Tissot’s indicatrix
 ","- Tissotsche Indikatrix
 <br>- Verzerrungsellipsen, mit deren Hilfe Kartennetzentwürfe auf ihre Verzerrungseigenschaften hin überprüft werden können ([Wikipedia](https://de.wikipedia.org/wiki/Tissotsche_Indikatrix))
+"
+"topographic survey
+","- topographische Landesaufnahme
 "
 "transverse aspect
 ","- transversale Lage

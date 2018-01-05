@@ -1,5 +1,24 @@
 # Niederschlag
 
+## Termini
+
+**Kondensationsniveau**
+- Die Höhe, in der die Lufttemperatur = Taupunkttemperatur
+- Sättigungsfeuchte ist erreicht
+- Kondensationsniveau = Wolkenuntergrenze
+
+**Konvektion**
+- vertikaler Aufstieg von warmen Luftmassen
+  - Bewegung von Luftmassen mit ihren Eigenschaften (Lufttemperatur & Luftfeuchte)
+
+**Advektion**
+- horizontales Aufgleiten von warmen Luftmassen über kalte Luftmassen
+  - Bewegung von Luftmassen mit ihren Eigenschaften (Lufttemperatur & Luftfeuchte)
+
+**Entstehungsbedingungen von Kondensation & Resublimation von Wasserdampf**
+- Vorhandensein von Kondensations- und Gefrierkernen
+- Abkühlung auf Taupunkttemperatur oder erreichen der Wasserdampfsättigung
+
 
 ## Niederschlagsentstehung
 
@@ -17,9 +36,9 @@ Die Sättigung der Luft mit Wasserdampf resultiert aus der Abkühlung aufsteigen
 
 ## Niederschlagsarten
 
-Kondensation(gas -> flüssig) + Resublimation (gas -> fest)
+Kondensation(gas -> flüssig) + Resublimation (gas -> fest).
 
-Unterscheidung verschiedener Niederschlagsarten nach Form und Entstehungsprozeß (5 - Folie 8)
+Unterscheidung verschiedener Niederschlagsarten nach Form und Entstehungsprozeß:
 
 | Bezeichnung | Form: flüssig | fest |
 | ----------- | --------------| -----|
@@ -35,6 +54,7 @@ Unterscheidung verschiedener Niederschlagsarten nach Form und Entstehungsprozeß
 
 **Auffangsfläche**
 - genormt auf 200 cm² 
+
 
 ### Regenmesser
 
@@ -65,7 +85,7 @@ Entwickelt sich zum Standard
   - Ablesung in der Regel nur zwei Mal pro Jahr
 
 
-### Fehler bbei der Niederschlagsmessung
+### Fehler bei der Niederschlagsmessung
 
 $N = k * (N_G + \delta N_B + \delta N_M)$
 
@@ -73,7 +93,6 @@ $N = k * (N_G + \delta N_B + \delta N_M)$
 - Wind
 - Benetzung
 - Verdunstung
-
 
 
 ## Niederschlagsmeßnetz

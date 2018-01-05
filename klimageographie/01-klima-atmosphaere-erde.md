@@ -159,7 +159,7 @@ trockener (wasserdampffreier) und reiner (ohne Aerosole) Luft in Bodennähe
 
 ### Wasser
 
-Siehe [Wasserdampf und Lufttemperatur](http://kollektive-geographie-heidelberg.de/klimageographie/03-wasserdampf-lufttemperatur.html)
+Siehe [Wasserdampf und Lufttemperatur](klimageographie/03-wasserdampf-lufttemperatur.html)
 
 - 90% des Wasser in der Atmosphäre sind Wasserdampf 
 - kommt in allen 3 Aggregatzuständen vor (Einzigartig)

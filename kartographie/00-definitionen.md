@@ -33,8 +33,25 @@
 **barometric altimetry**
 - Barometrische Höhenmessung
 
+**basic map**
+- Grundlagenkarte
+
+**basic spatial data**
+- Geobasisdaten
+
 **bearing**
 - Richtung
+
+**cadastral map**
+- Liegenschaftskarte
+- Flurkarte
+- eine maßstäbliche Darstellung aller Liegenschaften ([Wikipedia](https://de.wikipedia.org/wiki/Flurkarte))
+
+**cadastral subdistrict**
+- Gemarkung
+
+**canopy coverage**
+- Kronenschluss
 
 **Cape of Good Hope**
 - Kap der guten Hoffnung
@@ -48,6 +65,13 @@
 
 **Cartesian coordinates** 
 - Kartesische Koordinaten
+
+**cartographic symbol**
+- Kartenzeichen
+- kartographisches Zeichen
+
+**census of population**
+- Volkszählung
 
 **chart**
 - bestimmte Art von Kartendarstellung,
@@ -122,6 +146,10 @@
 - Schwarzplan
 - Darstellung von Gebäuden in einem ausgewählten Planausschnitt. Alle anderen Planelemente wie beispielsweise Straßen, Vegetation oder Gewässer werden ausgeblendet. [Wikipedia](https://de.wikipedia.org/wiki/Schwarzplan)
 
+**fixed point**
+- Lagefestpunkt
+- geodätischer Festpunkt
+
 **footprint (of a building)**
 - Grundriß
 
@@ -186,6 +214,10 @@
 **half-wind**
 - Halb-Wind (einer Windrose)
 
+**height mark**
+- Höhenfestpunkt
+- geodätischer Festpunkt, welcher speziell als Ausgangspunkt für die Höhenmessung dient ([Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6henfestpunkt))
+
 **interval scale**
 - Intervallskala
 - ist Teil der Kardinalskala
@@ -195,6 +227,12 @@
 
 **isohypse**
 - Höhenlinie, Isohypse
+
+**land registry**
+- Liegenschaftsbuch
+
+**land survey**
+- topographische Landesaufnahme
 
 **land surveying**
 - Landesvermessung
@@ -290,6 +328,9 @@
 - schiefständige Lage
 - zwischenständige Lage
 
+**official map series**
+- Amtliches Kartenwerk
+
 **offset printing**
 - Offsetdruck
 
@@ -301,6 +342,10 @@
 **perpendicular to**
 - senkrecht auf
 
+**plain**
+- Flur
+- zusammenhängende Flurstücke umfassender Teil einer Gemarkung
+
 **planar representation**
 - planare Darstellung
 
@@ -309,6 +354,11 @@
 
 **planimetric representation**
 - Grundrißdarstellung
+
+**plot**
+- Flurstück
+- Grundstück
+- amtlich vermessener und in der Regel örtlich abgemarkter Teil der Erdoberfläche ([Wikipedia](https://de.wikipedia.org/wiki/Flurst%C3%BCck))
 
 **polar aspect**
 - polständige Lage
@@ -336,6 +386,9 @@
 
 **quarter-wind**
 - Viertel-Wind (einer Windrose)
+
+**real estate**
+- Liegenschaft
 
 **reference ellipsoid**
 - Bezugsellipsoid
@@ -389,6 +442,9 @@
 **shading hachures**
 - Schattenschraffen
 
+**sheet line system**
+- Blattschnitt
+
 **soil**
 - Boden
 
@@ -407,6 +463,9 @@
 **surveying**
 - Landesvermessung
 
+**system of regerence**
+- Lagebezugssystem
+
 **tangent**
 - Tangente
 - eine Gerade, die eine Kurve (Kreis) einen Punkt berührt
@@ -417,6 +476,10 @@
 **Tissot’s indicatrix**
 - Tissotsche Indikatrix
 - Verzerrungsellipsen, mit deren Hilfe Kartennetzentwürfe auf ihre Verzerrungseigenschaften hin überprüft werden können ([Wikipedia](https://de.wikipedia.org/wiki/Tissotsche_Indikatrix))
+
+**topographic survey**
+- topographische Landesaufnahme
+
 
 **transverse aspect**
 - transversale Lage
@@ -433,67 +496,4 @@
 
 **windrose**
 - Windrose
-
-**canopy coverage**
-- Kronenschluss
-
-**cartographic symbol**
-- Kartenzeichen
-- kartographisches Zeichen
-
-**basic map**
-- Grundlagenkarte
-
-**basic spatial data**
-- Geobasisdaten
-
-**cadastral subdistrict**
-- Gemarkung
-
-**cadastral map**
-- Liegenschaftskarte
-- Flurkarte
-- eine maßstäbliche Darstellung aller Liegenschaften ([Wikipedia](https://de.wikipedia.org/wiki/Flurkarte))
-
-**census of population**
-- Volkszählung
-
-**height mark**
-- Höhenfestpunkt
-- geodätischer Festpunkt, welcher speziell als Ausgangspunkt für die Höhenmessung dient ([Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6henfestpunkt))
-
-**fixed point**
-- Lagefestpunkt
-- geodätischer Festpunkt
-
-**land survey**
-- topographische Landesaufnahme
-
-**land registry**
-- Liegenschaftsbuch
-
-**official map series**
-- Amtliches Kartenwerk
-
-**plain**
-- Flur
-- zusammenhängende Flurstücke umfassender Teil einer Gemarkung
-
-**plot**
-- Flurstück
-- Grundstück
-- amtlich vermessener und in der Regel örtlich abgemarkter Teil der Erdoberfläche ([Wikipedia](https://de.wikipedia.org/wiki/Flurst%C3%BCck))
-
-**real estate**
-- Liegenschaft
-
-**sheet line system**
-- Blattschnitt
-
-**system of regerence**
-- Lagebezugssystem
-
-**topographic survey**
-- topographische Landesaufnahme
-
 

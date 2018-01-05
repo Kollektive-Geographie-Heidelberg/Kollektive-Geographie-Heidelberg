@@ -1,5 +1,25 @@
 # Definitionen
 
+**allochthoner Fluss**
+- auch: Fremdlingsfluss, diarheischer Fluss
+- durchfließen mindestens zwei Klimazonen
+- entspringt üblicherweise in humiden Regionen und durchfließt als "Fremdlingsfluss" ein arides Gebiet
+
+**autochthonen Flüssen**
+- das Einzugsgebiet des Flusses erstreckt sich lediglich über eine Klimazone
+
+**Endorheisch**
+- auch: Endorheische Becken
+- Einzugsgebiete, die keinen Abfluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
+
+**endorheischer Fluss**
+- Ein Fluss ohne oberirdischen Abfluss ins Meer
+
+**Exorheisch**
+- Einzugsgebiete, die eine Abluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
+**exorheischer Fluss**
+- Ein Fluss, der selbst oder als Teil eines Flusssystems als Oberflächenwasser ins Meer mündet ([Wikipedia](https://de.wikipedia.org/wiki/Exorheischer_Fluss))
+
 **Flussdichte**
 - ...
 
@@ -9,14 +29,14 @@
 **großer Staudaum**
 - Dammhöhe min. 15 meter
 
+**Hydrosphäre**
+- ober- und unterirdische Wasservorkommen
+
 **Isohypsen**
 - ...
 
 **Lotrecht**
 - ...
-
-**Hydrosphäre**
-- ober- und unterirdische Wasservorkommen
 
 **Verweilzeit**
 - die mittlere Zeitdauer die ein Teilchen oder Molekül (Wasser) in einem System verbleibt (Atmosphäre, Grundwasser, ...)
@@ -36,23 +56,3 @@
 
 **Wasserverfügbarkeit**
 
-**allochthoner Fluss**
-- auch: Fremdlingsfluss, diarheischer Fluss
-- durchfließen mindestens zwei Klimazonen
-- entspringt üblicherweise in humiden Regionen und durchfließt als "Fremdlingsfluss" ein arides Gebiet
-
-**autochthonen Flüssen**
-- das Einzugsgebiet des Flusses erstreckt sich lediglich über eine Klimazone
-
-**exorheischer Fluss**
-- Ein Fluss, der selbst oder als Teil eines Flusssystems als Oberflächenwasser ins Meer mündet ([Wikipedia](https://de.wikipedia.org/wiki/Exorheischer_Fluss))
-
-**endorheischer Fluss**
-- Ein Fluss ohne oberirdischen Abfluss ins Meer
-
-**Endorheisch**
-- auch: Endorheische Becken
-- Einzugsgebiete, die keinen Abfluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
-
-**Exorheisch**
-- Einzugsgebiete, die eine Abluss ins Meer besitzen ([Wikipedia](https://de.wikipedia.org/wiki/Endorheisch))
