@@ -5,3 +5,6 @@
 - [Cartographic Projections](kartographie/03-cartographic-projections.md)
 - [Coordinate Systems](kartographie/04-coordinate-systems.md)
 - [Visual Perception](kartographie/05-visual-perception.md)
+- [Cartographic Signs](kartographie/06-cartographic-signs.md)
+- [Official Maps](kartographie/07-official-maps.md)
+- [Klausur](kartographie/10-klausur.md)

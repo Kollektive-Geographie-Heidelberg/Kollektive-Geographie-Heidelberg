@@ -55,20 +55,8 @@ The fundamental principle of gestalt perception is the law of prägnanz, which s
 
 ## Visual Variables
 
-- ocation
-- size
-- colour brightness
-- colour saturation
-- colour hue
-- texture
-- orientation
-- arrangement
-- shape
-- fuzziness
-- resolution
-- transparence
-
 ![visual-variables](kartographie/visual-variables.png)
+
 
 ## Preattentive processing
 
