@@ -79,5 +79,6 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 
 **Jason Davies - Maps**
 - https://www.jasondavies.com/maps/
-<br/>
 
+**Compare Map Projections**
+- https://map-projections.net/index.php

@@ -77,7 +77,7 @@ Scales of measurement refer to ways in which variables/numbers are defined and c
 ### Mental analogies and associativity
 
 **symbolic sign**
-- meaning by visual associativity, though only to a part of the meaning of one feature or a class of features
+- meaning by visual & mental associativity to a class of features or only one feature
 
 **indexical sign**
 - meaning by context
@@ -86,9 +86,9 @@ Scales of measurement refer to ways in which variables/numbers are defined and c
 - meaning by convention
 
 **assigned sign**
-- meaning by visual associativity, though only to a part of the 
+- meaning by explicit assignment, e.g, in a legend
 
-**(structural referencing)**
+**structural referencing**
 - relation between objections correlates to relations between map symbols
 
 

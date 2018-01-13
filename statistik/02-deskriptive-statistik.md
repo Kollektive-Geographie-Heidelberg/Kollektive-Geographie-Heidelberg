@@ -2,6 +2,8 @@
 
 Ziel der deskriptiven Statistik (auch: beschreibende Statistik) ist es, empirische Daten durch Tabellen, Kennzahlen (auch: Maßzahlen oder Parameter) und Grafiken übersichtlich darzustellen und zu ordnen ([Wikipedia](https://de.wikipedia.org/wiki/Deskriptive_Statistik))
 
+**Matehbibel**
+- https://www.mathebibel.de/deskriptive-statistik
 
 ## Häufigkeit
 

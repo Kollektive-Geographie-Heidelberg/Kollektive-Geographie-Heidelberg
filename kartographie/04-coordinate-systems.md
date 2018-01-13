@@ -125,7 +125,7 @@ For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we 
 - the northing on the southern hemisphere is shifted by 10.000.000 meters
 - eliminates negative numbers
 
-![utm-zone](kartographie/utm-zone-css.png)
+![utm-zone](utm-zone-css.png)
 
 **example 1**
 
@@ -160,7 +160,7 @@ For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we 
 - indicates geographical latitude
 - 8° hight
 
-![utm-grid](kartographie/utm-grid.png)
+![utm-grid](utm-grid.png)
 
 ![Wikipedia-UTM-Grid](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
 

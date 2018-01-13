@@ -28,6 +28,15 @@ harmonisches Mitte
 - Der Quartilsabstand beschreibt den Abstand zwischen dem 1. und 3. Quartil.
 - (Streuungsmaße für ordinales Datenniveau)
 
+**Quartil**
+https://upload.wikimedia.org/wikipedia/commons/1/1a/Boxplot_vs_PDF.svg
+
+**Interquartilsabstand**
+https://www.mathebibel.de/interquartilsabstand
+
+**Spannweite**
+https://www.mathebibel.de/spannweite
+
 Streuungsmaße ... beschreiben die Lage der
 Einzelwerte um das Zentrum einer Verteilung
 • Quantile (Quartile, Quintile, Dezentile, Perzentile)

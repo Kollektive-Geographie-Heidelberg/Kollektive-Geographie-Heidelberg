@@ -4,6 +4,8 @@
 - auch: Lageparameter
 - Maße der zentralen Tendenz einer Häufigkeitsverteilung
 - beschreiben das Zentrum (die Mitte) einer Verteilung
+
+**Mathebibel**
 - https://www.mathebibel.de/lageparameter
 
 
@@ -13,6 +15,9 @@
 - auch: Modalwert
 - häufigster Wert in einer Datenreihe
 - ab nominalem Datenniveau möglich
+- https://www.mathebibel.de/modus
+
+**Mathebibel**
 - https://www.mathebibel.de/modus
 
 
@@ -26,10 +31,12 @@
   - $(x_{(n/2)} + x_{(n/2)+1})/2$
 - ab ordinalem Datenniveau möglich
 - robust gegenüber Extremwerten
-- https://www.mathebibel.de/median
 
 **Median bei klassierten Daten**
-- 
+- ...
+
+**Mathebibel**
+- https://www.mathebibel.de/deskriptive-statistik
 
 
 ## Arithmetisches Mittel
@@ -39,11 +46,9 @@
 - $\bar{x} = \frac{x_1 + x_2 + \ldots + x\_n}{n} = \frac{1}{n} \cdot \sum_{i=1}^{n} x_i$
 - anfällig gegenüber Extremwerten
 - ab metrischem Datenniveau möglich
-- https://www.mathebibel.de/arithmetisches-mittel
 
 **gewogenes arithmetisches Mittel**
 - $\bar{x} = \frac{x_1 H_1 + x_2 H_2 + \ldots + x_m H\_m}{n} = \frac{1}{n} \cdot \sum_{i=1}^{m} x_i H_i$
-- https://www.mathebibel.de/arithmetisches-mittel
 
 **Arithmetisches Mittel bei klassierten Daten (absolute Häufigkeit)**
 - $\bar{x} = \frac{1}{n} \cdot \sum_{i=1}^{n} m_i*n_i$
@@ -61,6 +66,9 @@
 - $h_i$
   - relative Häufigkeit der i-ten Klasse
 
+**Mathebibel**
+- https://www.mathebibel.de/arithmetisches-mittel
+
 
 ## Schiefe/ Steilheit
 
@@ -68,6 +76,7 @@
 - Ist der Modalwert kleiner als Median und arithmetisches Mittel, hat die Verteilung viele niedrige Werte und wenige hohe Werte
 
 **negativ schief (links schief, rechts steil)**
+- ...
 
 
 ## Quartile und Quantile
@@ -84,6 +93,7 @@
 ## Geometrisches Mittel
 
 $\bar{x}_{geom} = \sqrt[n]{x_1 * x_2 \dots x_n}$
+
 
 ## Harmonisches Mittel
 

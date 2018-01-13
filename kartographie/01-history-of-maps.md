@@ -30,7 +30,7 @@
   - planimetric
 
 **map-related representations**
-- …
+- maps without one or more characteristics of the map definition of Wolfgang Scharfe
 
 
 ## Protohistory (prehistroy - 600 BC)

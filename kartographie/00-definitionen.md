@@ -26,6 +26,9 @@
 **authalic projection**
 - flächentreu Projektion
 
+**auxiliary map**
+- Nebenkarte
+
 **azimuthal projection**
 - azimutale Projektion
 - Entfernung und Richtung jedes Punktes zum Kartenmittelpunkt wird exakt wiedergegebem ([Wikipedia](https://de.wikipedia.org/wiki/Mittabstandstreue_Azimutalprojektion))
@@ -94,6 +97,9 @@
 
 **colour saturation**
 - Farbsättigung
+
+**compound elements of a map**
+- Kartenbestandteile
 
 **compromise projection**
 - vermittelnde/aphylaktische Projektion
@@ -288,6 +294,30 @@
 - Kursgleiche, Winkelgleiche oder Kurve konstanten Kurses
 - eine Kurve, welche auf einer Kugeloberfläche – z. B. der Erdoberfläche –, die die Meridiane im geographischen Koordinatensystem immer unter dem gleichen Winkel schneidet ([Wikipedia](https://de.wikipedia.org/wiki/Loxodrome))
 
+**map border**
+- Kartenrahmen
+
+**map composition**
+- Kartengestaltung
+
+**map face**
+- Kartenfeld, -spiegel, -bild
+
+**map margin**
+- Kartenrand
+
+**map series**
+- Kartenwerk
+
+**map sheet**
+- Kartenblatt
+
+**map surface**
+- Kartenfeld, -spiegel, -bild
+
+**map title**
+- Kartentitel
+
 **map-related representation**
 - kartenverwandte/ kartenähnliche Darstellung
 
@@ -308,6 +338,9 @@
 
 **nautical chart**
 - Seekarte
+
+**neatline**
+- Blattrandlinie
 
 **Northern Celestial Hemisphere**
 - Nordhimmel
@@ -442,8 +475,30 @@
 **shading hachures**
 - Schattenschraffen
 
+**sheet corner values**
+- Blatteckenwerte
+
+**sheet designation**
+- Kartenblattbezeichnung
+
+**sheet index**
+- Blattübersicht
+
 **sheet line system**
 - Blattschnitt
+
+**sheet margin**
+- Blattrand
+
+**sheet name**
+- Blattname
+
+**sheet number**
+- Blattnummer
+
+**slope diagram**
+- Neigungsmaßstab
+- böschungsdiagramm
 
 **soil**
 - Boden
@@ -488,6 +543,9 @@
 **triangulation**
 - Triangulation
 
+**verbal scale**
+- verbaler Maßstab
+  - 1 cm der Karte entspricht 250 m der Natur
 **visual variables**
 - Graphische Variablen
 
@@ -496,4 +554,7 @@
 
 **windrose**
 - Windrose
+
+**semiotics**
+- beschäftigt sich damit, wie wir Objekte in der Realität mit Symbolen auf der Karte in Verbindung setzen/ Symbole auf mit Objekten in der Realität assozieren
 
