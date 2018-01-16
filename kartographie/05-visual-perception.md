@@ -83,3 +83,6 @@ https://learnforeverlearn.com/preattentive/
 
 **Visuelle Wahrnehmung - TheSimpleBiology**
 - https://www.youtube.com/watch?v=XJGQT9ZD77Y&list=PLuymEAjSJZ2OcujuhN1GYrhiPSA7crK2z
+
+**ColorBrewer - color advice for cartography**
+- http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3

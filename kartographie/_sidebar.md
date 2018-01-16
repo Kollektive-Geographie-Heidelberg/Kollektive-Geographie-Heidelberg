@@ -7,4 +7,5 @@
 - [Visual Perception](kartographie/05-visual-perception.md)
 - [Cartographic Signs](kartographie/06-cartographic-signs.md)
 - [Official Maps](kartographie/07-official-maps.md)
-- [Klausur](kartographie/10-klausur.md)
+- [Tools](kartographie/20-tools.md)
+- [Klausur](kartographie/20-klausur.md)

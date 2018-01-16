@@ -30,6 +30,9 @@
 - Putting the World's Vulnerable People on the Map
 - http://www.missingmaps.org/
 
+**Map in Seconds**
+- http://www.mapinseconds.com/
+
 ## Politische Geographie
 
 **Sicherheitspolitik Blog**
