@@ -25,9 +25,23 @@
   - $Q=\text{Durchfluß/Abfluß}$
   - $A_{Eo}=\text{Fläche des Einzugsgebietes}$
 
+
 ## Schema
 
 ![abflussprozesse_und_komponente-schema](abflussprozesse_und_komponente-schema.png)
+
+
+## Ermittlung der Infiltration im Feld
+
+### Meßverfahren
+
+**Doppelringinfiltrometer**
+![Doppelringinfiltrometer](https://upload.wikimedia.org/wikipedia/commons/e/e9/Double_ring.JPG)
+
+**Mini-Disk-Infiltrometer**
+![Mini-Disk-Infiltrometer](https://en.wikipedia.org/wiki/Disc_permeameter)
+
+**Beregnung von Versuchflächen**
 
 
 ## Fragen
