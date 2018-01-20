@@ -49,38 +49,30 @@ Unterscheidung verschiedener Niederschlagsarten nach Form und Entstehungsprozeß
 
 ## Niederschlagsmessung
 
-**Wo wird der Messer aufgestellt werden**
+**Wo wird der Messer aufgestellt?**
 - min. Entfernung von Hindernissen ist die 4-fache Hindernishöhe
 
 **Auffangsfläche**
 - genormt auf 200 cm² 
 
 
-### Regenmesser
+### Niederschlagsmesser
 
-- Standard Niederschlagsmesser des Deutschen Wetterdienstes
-- 1 Meter über der Geländeoberfläche aufstellen
-- kann nicht die Niederschlagsintesität erfassen
-
-
-### Niederschlagswaage
-
-- Messung über Gewichtsveränderungen
-- die Niederschlagsintensität kann erfasst werden
-
-Entwickelt sich zum Standard
-
-
-### Weitere Niederschlagsmessgeräte
-
-- Niederschlagswippe
-- Distrometer
-  - elektronisches Gerät
-  - Messung mithilfe eines Laserstrahls
+- **Regenmesser**
+  - Standard Niederschlagsmesser des Deutschen Wetterdienstes
+  - 1 Meter über der Geländeoberfläche aufstellen
+  - kann nicht die Niederschlagsintesität erfassen
+- **Niederschlagswaage**
+  - Messung über Gewichtsveränderungen
+  - die Niederschlagsintensität kann erfasst werden
+  - entwickelt sich zum Standard
+- **Niederschlagswippe**
+- **Distrometer**
+  - Laserstrahl Messung
   - Sehr genau
   - braucht Strom
-- Totalisator
-  - ohne Strom
+- **Totalisator**
+  - braucht ohne Strom
   - das Total des Niederschlags wird über einen langen Zeitraum gemessen (1/2 - 1 Jahr)
   - Ablesung in der Regel nur zwei Mal pro Jahr
 
@@ -105,6 +97,19 @@ $N = k * (N_G + \delta N_B + \delta N_M)$
 
 
 ## Bestimmung des Gebietsniederschlages
+
+> Zur Ergänzung der konventionellen Niederschlagsmessungen werden seit über 30 Jahren Methoden der Fernerkundung eingesetzt. Der Schwerpunkt hierfür ist die Erfassung der Atmosphäre durch Wetterradarsysteme (RADAR = RAdio Detecting And Ranging). [...]
+>
+> Konventionelle Niederschlagsmessungen liefern punktuelle Informationen in einem flächenhaften und zeitlich ausgedehnten Niederschlagsereignis. Wetterradare hingegen stellen flächendeckende dreidimensionale Informationen zur Verfügung. Die seit 2013 modernisierten Systeme liefern Daten mit hoher räumlicher und zeitlicher Auflösung über Niederschlagsart und -verteilung sowie den (Radial-)Wind. Die horizontale Reichweite dieser atmosphärischen Überwachung beträgt mehr als 150 km. Vertikal reicht sie von den bodennahen Luftschichten bis in die obere Troposphäre.
+>
+> Je besser die Datenqualität der gemessenen Daten ist, desto zuverlässiger kann der DWD seine gesetzlichen Aufgaben wahrnehmen. Daher ist es wichtig, Störungen der Messungen durch Frequenzstörer (WLAN-Sender) und Festziele (massive Gebäude, Fernsehtürme) zu vermeiden. Auch Windenergieanlagen können Störungen hervorrufen.
+>
+> Wetterradarsysteme sind für die Meteorologie und im speziellen für das Warnmanagement und den Katastrophenschutz unverzichtbar. Um vor (Un-)Wetter zu warnen, werden anhand von Wetterradarsystemen Flächenniederschläge gemessen, Gewitter erkannt und von Meteorologen die Entwicklung und Verlagerung der Niederschlagsgebiete beobachtet. Die Daten werden daher zum Beispiel auch für die Hochwasservorhersage der Länder genutzt. Ebenso werden die hoch aufgelösten Radardaten zur Analyse des Anfangszustands der numerischen Wettervorhersage verwendet und erhöhen so die Güte der Wettervorhersage des DWD.
+>
+> ~ [Deutscher Wetterdienst](https://www.dwd.de/DE/derdwd/messnetz/atmosphaerenbeobachtung/_functions/Teasergroup/radarverbund_teaser5.html)
+
+![Wikipedia](https://www.dwd.de/DE/derdwd/messnetz/atmosphaerenbeobachtung/_functions/Teasergroup/radarverbund_Karte.jpg;jsessionid=D52DCFFE822CCAB7AFCE76F8940DB498.live11044?__blob=normal&v=7)
+
 
 ### arithmetisches Mittel
 
@@ -131,24 +136,27 @@ $N = k * (N_G + \delta N_B + \delta N_M)$
 **b) nur stationen * 23,5 = 65 mm**
 
 
-### Thiessen-Polygon
+### Thiessen-Polygon-Methode
 
-### Inverses Distanzverfahren (IDW)
+Thiessen-Polygone werden unter anderem bei der kartographischen Darstellung von Messwerten eingesetzt. Die Polygon-Methode ist ein nichtstatistisches (d. h. vergleichsweise einfaches) Interpolationsverfahren der Geostatistik zur einfachen Darstellung der räumlichen Verteilung georeferenzierter Messdaten. ([Wikipedia](https://de.wikipedia.org/wiki/Voronoi-Diagramm#Polygon-Methode)) 
 
-### Höhenregression
+![Thoessen-Polygon-Wikipedia](https://de.wikipedia.org/wiki/Voronoi-Diagramm#/media/File:Thiessen-Polygon.svg)
 
-häufige Kombination ist IDW + Höhenregression
+
+### Inverses Distanzverfahren
+
+Inverse Distance Weighting (IDW) bezeichnet eine Interpolationsmethde, der die Annahme zugrunde liegt, dass die punktuell gemessenen raumbezogenen Daten in Abhängigkeit von der Distanz im Raum gewissen Ähnlichkeiten in den Werten aufweisen. Bei der IDW wird der Wert an einem nicht beobachteten Punkt z(u0) durch ein gewichtetes Mittel der benachbarten gemessenen Werte der Beobachtungsvariable geschätzt. Die Gewichte des dabei verwendeten linearen Schätzers sind proportional zu den Inversen des Abstands di zwischen dem unbekannten Punkt und dem verwendeten gemessenen Punkt. ([Geoinformatik - Uni Rostock](http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=-1611270911))
+
+Das Inverse Distanzverfahren wird häufig in Kombination mit der Höhenregression verwendet.
+
 
 ### Isohyetenmethode
 
 **Isohyeten**
-- Linien gleichen Niederschlages
-
-Sehr genau
-
+- Linien gleicher Niederschlagsmenge
 
 ### Kriging (optimal interpolation)
 
 Überbegriff für ein Set von verschiedenen Methoden. 
 
-Minimierung des Schätzfehlers
+http://wiki.gis.com/wiki/index.php/Kriging
