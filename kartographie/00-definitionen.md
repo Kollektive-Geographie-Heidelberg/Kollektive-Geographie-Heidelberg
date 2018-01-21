@@ -469,6 +469,9 @@
 - kleine Halbachse [Wikipedia](https://de.wikipedia.org/wiki/Halbachsen_der_Ellipse)
 - halbe Länge des kleinsten Durchmessers einer Ellipse
 
+**semiotics**
+- beschäftigt sich damit, wie wir Objekte in der Realität mit Symbolen auf der Karte in Verbindung setzen/ Symbole auf mit Objekten in der Realität assozieren
+
 **shaded relief**
 - Schummerung, Reliefschummerung
 
@@ -554,7 +557,4 @@
 
 **windrose**
 - Windrose
-
-**semiotics**
-- beschäftigt sich damit, wie wir Objekte in der Realität mit Symbolen auf der Karte in Verbindung setzen/ Symbole auf mit Objekten in der Realität assozieren
 
