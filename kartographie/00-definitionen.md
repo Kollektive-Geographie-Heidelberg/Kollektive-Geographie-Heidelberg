@@ -499,9 +499,10 @@
 **sheet number**
 - Blattnummer
 
-**slope diagram**
+**slope diagram/ slope scale bar**
+- Böschungsdiagramm
 - Neigungsmaßstab
-- böschungsdiagramm
+- Diagramm, aus dem sich der Neigungswinkel des Geländes mit Hilfe eines in beliebiger Richtung gemessenen Abstandes zweier Höhenlinien in Grad oder Prozent ermitteln lässt. Ist der Neigungsmaßstab ein Böschungswinkel, so dient der Neigungsmaßstab als Böschungsmaßstab. ([Uni Rostock - Geoinformatik Lexikon](http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=448545527))
 
 **soil**
 - Boden

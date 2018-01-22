@@ -32,6 +32,9 @@
 **Hydrosphäre**
 - ober- und unterirdische Wasservorkommen
 
+**Hypodermischer Abfluß**
+- auch: Zwischenabfluss
+
 **Isohypsen**
 - ...
 
@@ -55,4 +58,17 @@
 - bezieht sich auf die Fähigkeit einer Region menschlichen und ökologischen Bedarfs an Wasser zu decken
 
 **Wasserverfügbarkeit**
+
+**Zwischenabfluss**
+- Menge abfließenden Wassers einer Hochwasserwelle, das den Vorfluter nach dem Fallen des Regens verzögert erreicht [Glossar - Uni Halle](http://mars.geographie.uni-halle.de/mlucampus/geoglossar/terme_datenblatt.php?terme=Zwischenabfluss&typ=)
+
+**zz..**
+- Evaporation
+- Interzeption
+- Transpiration
+- Infiltraion
+- zwischenabfluss (Interflow)
+- Adsorptionswasser
+- Kapillarkräfte (Kapillar- wasser, aufstieg)
+- Muldenrückhalt
 

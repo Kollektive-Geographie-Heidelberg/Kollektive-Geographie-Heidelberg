@@ -97,3 +97,9 @@
 - Douglas-Peucker algorithm
 - Minimum dimensions and Töpfer’s radical law
 
+
+## Further Reading
+
+**Cartographic Generalization - Wiki GIS**
+- http://www.wiki.gis.com/wiki/index.php/Cartographic_generalization#cite_note-13
+
