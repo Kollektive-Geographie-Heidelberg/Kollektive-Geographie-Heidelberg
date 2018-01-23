@@ -9,6 +9,7 @@
 - [Official Maps](kartographie/07-official-maps.md)
 - [Scale and Generalization](kartographie/08-scale-and-generalization.md)
 - [Elevation Models](kartographie/09-elevation-models.md)
+- [Typography](kartographie/11-typographie.md)
 ---
 - [Tools](kartographie/20-tools.md)
 - [Klausur](kartographie/20-klausur.md)
