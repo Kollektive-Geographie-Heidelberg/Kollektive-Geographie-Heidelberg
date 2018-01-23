@@ -33,7 +33,7 @@
 
 In mathematics and computational geometry, a Delaunay triangulation for a set P of points in a plane is a triangulation DT(P) such that no point in P is inside the circumcircle of any triangle in DT(P). Delaunay triangulations maximize the minimum angle of all the angles of the triangles in the triangulation; they tend to avoid sliver triangles. ([Wikipedia](https://en.wikipedia.org/wiki/Delaunay_triangulation))
 
-Animation (Voronoi Diagram and Delaunay Triangulation) from [miyu](https://github.com/miyu/voronoi)
+**Animation (Voronoi Diagram and Delaunay Triangulation)** from [miyu](https://github.com/miyu/voronoi)
 ![Voronoi-Delaunay-miyu](https://github.com/miyu/voronoi/blob/master/images/result.gif?raw=true)
 
 **intercept theorem**
