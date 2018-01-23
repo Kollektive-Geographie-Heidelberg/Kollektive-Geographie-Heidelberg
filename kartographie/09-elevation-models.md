@@ -7,7 +7,8 @@
 - shaded relief
 - contour lines
 
-![colour-coding-and-shading-wikipedia](kartogeographie/colour-coding-and-shading-wikipedia.png)
+![colour-coding-and-shading-wikipedia](kartographie/colour-coding-and-shading-wikipedia.png)
+
 - colorized by altitude
 - shaded relief (levels of gray), just to indicate relative slopes, mountain ridges, not absolute height ([Example from Wikipedia](https://wiki.openstreetmap.org/wiki/Relief_maps)
 

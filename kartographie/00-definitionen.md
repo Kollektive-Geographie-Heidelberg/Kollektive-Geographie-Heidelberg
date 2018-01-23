@@ -559,3 +559,35 @@
 **windrose**
 - Windrose
 
+**align**
+- ausrichten
+
+**ascender**
+- Oberlänge
+
+**caligraphy**
+- Kalligraphie
+- die  Kunst des „Schönschreibens“. Die Kalligrafie steht im Gegensatz zur Typografie, dem Setzen mit vorgefertigten Formen. ([Wikipedia](https://de.wikipedia.org/wiki/Kalligrafie))
+
+**font**
+- Schriftschnitt
+
+**kerning**
+- Unterschneidung
+
+**label**
+- Beschriftung
+
+**serif**
+- Antiqua (Schriftgattung)
+- Serife (Teil eines Buchstabens)
+
+**sans serif**
+- Grotesk
+
+**typography**
+- Typographie
+- Der Gestaltungsprozess, der mittels Schrift, Bildern, Linien, Flächen und typografischem Raum auf Druckwerke und elektronische Medien angewandt wird ([Wikipedia](https://de.wikipedia.org/wiki/Typografie))
+  - Layout
+  - Satzschriften
+  - etc.
