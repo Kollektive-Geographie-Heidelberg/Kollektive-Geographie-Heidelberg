@@ -29,29 +29,6 @@
 
 **Tipps**
 - Wenn die Vorlesungsfreien zu lange brauchen um geladen zu werden, dann hilft es diese zu komprimieren
-  - Wenn du Linux benutzt ist folgendes bash script sehr effektive
+  - Wenn du Linux benutzt, ist folgendes Bash/Shell Script sehr effektiv
 
-```bash
-#!/bin/bash
-# ./compress-pdf.sh                to compress all pdf in current folder
-# ./compress-pdf.sh example.pdf    to compress only given pdf
-
-# Ghostscript (gs) code is taken from
-# http://tuxdiary.com/2015/04/07/compress-pdf-files-linux/
-
-if [ $# -eq 0 ] # The $# variable = number of input arguments
-then
-	list=$(find . -name '*.pdf')
-	for i in $list
-	do
-		new_filename=$(basename "$i" .pdf) # filename stript of path and ext
-		new_filename+="-compressed.pdf"
-		gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=$new_filename $i
-		echo $i
-	done
-else
-	new_filename=$(basename "$1" .pdf) # filename stript of path and ext
-	new_filename+="-compressed.pdf"
-	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=$new_filename $1
-fi
-```
+<script src="https://gist.github.com/Kollektive-Geographie-Heidelberg/bf5d5d69619451c97992ca410789a720.js"></script>

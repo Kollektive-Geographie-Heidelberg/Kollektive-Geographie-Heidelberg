@@ -33,3 +33,15 @@ schneeniederschlag
 
 höhengradient bei niederschlag
 
+
+### Abflussregime (24.01)
+
+**Abflussregime**
+- charakteristischer Gang des Abflusses eines Fließgewässers
+
+**Parde Koeffizient**
+- $S_{mon}=\frac{MQ_{mon}}{MQ_a}
+  - mittlerer monatlicher abfluss ...
+  - ...
+
+

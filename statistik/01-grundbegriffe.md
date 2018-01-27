@@ -23,7 +23,7 @@
 - Ziel ist es durch Schätzung von Parametern der Stichprobe auf die Parametern der Grundgesamtheit zu schließen
 
 **Prüf-/Teststatistik**
-- ??
+- ...
 
 
 ## Methoden

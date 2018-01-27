@@ -16,38 +16,43 @@
 
 ## Official Maps and Data in Germany
 
-**ATKIS**
-- ?
 
-**AAA model**
-- all topographic maps derived from ATKIS
+### Organizational Structure in Germany
 
-**Organisational Structure in Germany today**
+**16 State Survey Authorites (Landesvermessungsämter)**
+- Autonomous
+- Coordination: Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV)
+- Cadastral and topographic maps, data and other products witch scales down to 1:100.000
+- Consistent laws in federal states
 
-Institutions:
-- Landesamt für Geoinformation und Landentwicklung (B.-W.)
-- Landesamt für Digitalisierung, Breitband und Vermessung (Bayern)
-- Landesvermessung und Geobasisinformation Brandenburg (BB)
-- Bundesamt für Kartographie und Geodäsie (BKG)
-  - provides geodetic reference systems and basic information
-  - Topographic maps, data and other products with scales 1:200.000 and smaller
+**Bundesamt für Kartographie und Geodäsie (BKG)**
+- provides geodetic reference systems and basic information
+- Topographic maps, data and other products with scales 1:200.000 and smaller
 
 
 ### AFIS-ALKIS-ATKIS-Model (AAA Model)
 
+> http://www.adv-online.de/AAA-Modell/
+
 **AFIS**
 - **A**mtliches **F**estpunkt**i**nformations**s**ystem
-- Didital management of all fixed points of:
+- Digital management of all fixed points of:
   - Position
   - Elevation (also: height marks)
   - Gravity
+- http://www.adv-online.de/AAA-Modell/AFIS/
 
 **ALKIS**
 - **A**mtliches **L**iegenschafts**k**ataster**i**nformations**s**ystem
 - Consists of
-  - cadastral map: geomeries of plots and buildings
+  - cadastral map: geometries of plots and buildings
   - land registry: number, ownership, area, legal status, etc.
   - Unique reference by combination of plot number, plain number, and cadastral subdistrict
+- http://www.adv-online.de/AAA-Modell/ALKIS/
+
+**ATKIS**
+- see below
+- http://www.adv-online.de/AAA-Modell/ATKIS/
 
 
 #### ATKIS
@@ -77,14 +82,9 @@ Institutions:
   - DLM1000 (1:1.000.000)
   - Attributes -> catalog
 - Objects are organized by object types -> "Objektartenkatalog"
-  - Grafik (Folie 25)
-
-Spektrum :
-- "Resultat einer strukturierten konsistenten und maßstabsbezogenen Aufbereitung der wesentlichen aktuellen Informationen über die natürlichen und anthropogenen Landschaftsbestandteile in GIS- kompatibler Form"
-- "Es dominieren hierbei konkrete Objekte gegenüber abstrakten und zeitlich relativ invariante gegenüber variablen."
 
 
-### Siignature Catalogues
+### Signature Catalogues
 
 
 ### Official Topographic Maps Series in Germany: federal states
@@ -122,3 +122,9 @@ Projection and datum (position and elevation) still differ between federal state
   - Centralized structure of surveying
   - Hierarchical series of scales
   - All products available free of charge
+
+
+## Further Readings
+
+**Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) - AAA-Model**
+- http://www.adv-online.de/AAA-Modell/

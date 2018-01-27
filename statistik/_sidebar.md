@@ -3,3 +3,5 @@
 - [1. Deskriptive Statistik](statistik/02-deskriptive-statistik.md)
 - [1.1 Lagemaße](statistik/03-lagemaße.md)
 - [1.2 Streuungsmaße](statistik/04-streuungsmaße.md)
+- [2 Schätzstatistik](statistik/05-schätzstatistik.md)
+- [3 Teststatistik](statistik/06-teststatistik.md)

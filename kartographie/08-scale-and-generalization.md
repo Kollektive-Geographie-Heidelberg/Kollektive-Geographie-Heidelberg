@@ -5,6 +5,9 @@
 **cartographic scale**
 - ratio between distances on the map and distances in reality
 
+**verbal scale**
+- 1 centimeter equals 10 kilometer
+
 **lexical scale**
 - SCALE 1:2000000
 

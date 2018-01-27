@@ -4,9 +4,6 @@ Induktionsschluss (Schätzung), mit gewisser Unsicherheit belastet;
 Unsicherheitsfaktor mit Wahrscheinlichkeitsrechnung zu bestimmen.
 
 
-**Gesetz der großen Zahl**
-
-
 **Theoretische Wahrscheinlichkeit**
 
 $W=\frac{Anzahl der günstigen Fälle}{Anzahl der möglichen Fälle}$
@@ -29,6 +26,3 @@ Alle Wahrscheinlichkeit liegen zwischen Null und Eins. Wahrscheinlichkeiten werd
 **sicheres Ereigniss**
 - Ereignis tritt immer ein
 - $W(E)=0$
-
-**Komplementärereignis**
-- 

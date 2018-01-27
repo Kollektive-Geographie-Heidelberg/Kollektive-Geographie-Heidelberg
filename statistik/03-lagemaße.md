@@ -32,9 +32,6 @@
 - ab ordinalem Datenniveau möglich
 - robust gegenüber Extremwerten
 
-**Median bei klassierten Daten**
-- ...
-
 **Mathebibel**
 - https://www.mathebibel.de/deskriptive-statistik
 

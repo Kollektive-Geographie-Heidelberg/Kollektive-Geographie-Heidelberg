@@ -82,3 +82,6 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 
 **Compare Map Projections**
 - https://map-projections.net/index.php
+
+**USGS - Map Projections**
+- https://egsc.usgs.gov/isb//pubs/MapProjections/projections.html

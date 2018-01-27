@@ -11,9 +11,6 @@ Streuungsmaße beschreiben die Lage der Einzelwerte um das Zentrum einer Verteil
 - https://www.mathebibel.de/interquartilsabstand
 
 
-## Quartilsabstand, mittlerer Quartilsabstand
-
-
 ## Spannweite 
 
 **Spannweite**

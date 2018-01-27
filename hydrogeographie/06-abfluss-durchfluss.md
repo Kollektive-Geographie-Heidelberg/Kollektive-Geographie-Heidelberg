@@ -10,6 +10,14 @@
 
 ## Termini
 
+**Pegel**
+- Ein Pegel ist eine Pegellatte zur Feststellung des Wasserstandes in Flüssen, Kanälen und anderen Gerinnen, in Seen und im Meer ([Wikipedia](https://de.wikipedia.org/wiki/Pegel#Geschichte)
+- Im erweiterten Sinne bezeichnet „Pegel“ auch die Messstelle als Ganzes
+- Die genaue Definition ist für Deutschland in der Pegelvorschrift der Bund/Länder-Arbeitsgemeinschaft Wasser (LAWA) festgelegt
+
+**Ganglinie**
+Wasserstand oder Durchfluss an einem Pegel
+
 **Hortonscher Oberflächenabfluss**
 - Infiltrationsüberschuß
 - Erdoberfläche ist für den Niederschlag schwer durchlässig
@@ -27,6 +35,11 @@
 
 
 ## Bildung
+
+- $Q=V*A$
+  - $Q=\text{Durchfluß/Abfluß}$
+  - $A=\text{Querschnittsfläche}$
+  - $V=\text{Fließgeschwindigkeit}$
 
 - $q=\frac{Q}{A_{Eo}}\ [\frac{l}{\frac{s}{km}}$
   - $q=\text{Abflußspende}$
