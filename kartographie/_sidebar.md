@@ -10,7 +10,7 @@
 - [Scale and Generalization](kartographie/08-scale-and-generalization.md)
 - [Elevation Models](kartographie/09-elevation-models.md)
 - [Thematic Cartography](kartographie/10-thematic-cartography.md)
-- [kartographie](kartographie/11-interactivity.md)
+- [Interactivity](kartographie/11-interactivity.md)
 - [Typography](kartographie/12-micro-typographie.md)
 - [Label Placement](kartographie/13-lable-placement.md)
 ---
