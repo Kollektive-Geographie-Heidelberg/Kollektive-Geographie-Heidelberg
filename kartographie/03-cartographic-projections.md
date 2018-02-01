@@ -8,19 +8,43 @@
 
 ## Which structures to preserve?
 
-- **distances**
-  - equidistant projection
-- **areas**
-  - equal-area projection
+**structures**
+- distances
+- areas
+- angles (locally) / shapes
+- directions
+
+**equidistant projection**
+- preserve distance from some point or line
+
+**equal-area projection**
+- also called: 
   - equivalent projection
   - authalic projection
-- **angles (locally) / shapes**
-  - conformal projection
+- shows the Earth with correct areal relationships
+
+**conformal projection**
+- also called: 
   - orthomorphic projection
-- **directions**
+- any two lines in the map follow the same angle as the corresponding original lines on Earth
 
 There is no equidistant, equal-area, conformal projection!
 A projection onto a (flat) plane can only have one of these properties! 
+
+
+## The Concept of Map “Projection”
+
+![Geographic_Information_System_Basic-Projection](https://2012books.lardbucket.org/books/geographic-information-system-basics/section_06/11a481ddad3c88286544391d041cf800.jpg)
+
+
+## Map Projection Surfaces
+![Geographic_Information_System_Basics-Projections_Surface](https://2012books.lardbucket.org/books/geographic-information-system-basics/section_06/8c5c63aacfa3743ed4962745a77d782c.jpg)
+taken out of section 2.2 from the book Geographic Information System Basics (Campbell & Shin)
+
+
+## Geometrical Construction
+
+![wikipedia-projections](kartographie/wikipedia-projections.png)
 
 
 ## How to construct a map projection?
@@ -39,6 +63,7 @@ A projection onto a (flat) plane can only have one of these properties!
   - stereographic
   - orthographic
 5. Cartographic scale
+
 
 ## Rule of thumb
 
@@ -72,7 +97,19 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 ![Wikipedia-Tissots-Indicatrix-2](https://upload.wikimedia.org/wikipedia/commons/8/87/Tissot_mercator.png)
 
 
+## Example of Distortion
+
+![ucgis-CV-06-Map_Projections](http://gistbok.ucgis.org/sites/default/files/figure3-projections.png)
+
+
 ## further readings
+
+
+**Map Projections - Basics**
+- https://map-projections.net/basics.php
+
+**Map Projections - Thematic Cartographic Cartography Guide**
+- http://axismaps.github.io/thematic-cartography/articles/projections.html
 
 **The True Size**
 - https://www.thetruesize.com
@@ -85,3 +122,6 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 
 **USGS - Map Projections**
 - https://egsc.usgs.gov/isb//pubs/MapProjections/projections.html
+
+**Map Scale, Coordinate Systems, and Map Projections**
+- https://2012books.lardbucket.org/books/geographic-information-system-basics/s06-02-map-scale-coordinate-systems-a.html

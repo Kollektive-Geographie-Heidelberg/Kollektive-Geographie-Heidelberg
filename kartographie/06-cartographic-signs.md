@@ -20,6 +20,7 @@
   - <font color="#009933">machine readable</font> ([Wolf](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04930-9_65.pdf))
   - <font color="#0033cc">concepts, properties relations, functions, constrains, axioms, are explicitly defined</font> ([Wolf](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04930-9_65.pdf))
   - <font color="#cc00cc">abstract model and simplified view of some phenomenon in the world tat we want to represent</font> ([Wolf](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04930-9_65.pdf))
+  - -
   - classes
   - relations
 

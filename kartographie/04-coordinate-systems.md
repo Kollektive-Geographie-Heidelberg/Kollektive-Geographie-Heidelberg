@@ -1,7 +1,8 @@
 # Geodetic and Coordinate Reference Systems
 
 **reference frame**
-- reference points on the Earth and their corresponding coordinates
+- consists of
+  1. reference points (min 3) on the Earth and their corresponding coordinates
 
 **geodetic reference system (GRS)**
 - consists of
@@ -67,9 +68,12 @@ For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we 
 - the meridian through Greenwich
 
 **great circles**
-- sections through the center of the ellipsoid
+- also called: orthodrome
+- the intersection of the sphere and a plane that passes through the center point of the sphere ([Wikipedia](https://en.wikipedia.org/wiki/Great_circle)
+- the largest circle that can be drawn on any given sphere
 - 1° on a great circle corresponds to about 111 km
   - 360° correspond to 40073 km ≈ 2π ∙ 6378 km
+- represents the shortest distance between two points
 
 ![Wikipedia-Geographic-Coordinates](https://upload.wikimedia.org/wikipedia/commons/7/7b/ECEF.svg)
 
@@ -84,8 +88,9 @@ For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we 
 
 **projection**
 - universal transversal Mercator projection
-- conformal transversal cylindrical projection
-  - intersection at poles
+  - conformal
+  - transversal 
+  - cylindrical
 
 **reference ellipsoid**
 - many different reference ellipsoids are used
@@ -185,7 +190,9 @@ For the projection of a spherical or ellipsoid onto a flat surface (e.g map) we 
 
 **projection**
 - transversal Mercator projection
-- conformal transversal cylindrical projection
+  - conformal
+  - transversal 
+  - cylindrical
 
 **reference ellipsoid**
 - B.W. Bessel

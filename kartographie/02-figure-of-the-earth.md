@@ -29,8 +29,15 @@
 
 **reference ellipsoid**
 - a mathematically defined surface that approximates the geoid ([Wikipedia](https://en.wikipedia.org/wiki/Reference_ellipsoid))
+
+**most common refrence ellipsiods**
 - World Geodetic System 1984 (WGS 84)
+  -  used in the context of the Global Positioning System (GPS)
 - Bessel 1841
+  - currently used by several countries for their national geodetic surveys
+  - will be replaced in the next decades by modern ellipsoids of satellite geodesy (e.g. WGS 84) ([Wikipedia](https://en.wikipedia.org/wiki/Bessel_ellipsoid)
+  - 
+
 
 **flattening**
 - measure of how much the symmetry axis is compressed relative to the equatorial radius

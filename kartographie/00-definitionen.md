@@ -591,3 +591,6 @@
   - Layout
   - Satzschriften
   - etc.
+
+**interpolation**
+- process of estimating an unknown value by using the values around it

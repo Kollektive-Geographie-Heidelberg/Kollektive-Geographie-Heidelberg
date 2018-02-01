@@ -25,13 +25,17 @@ Thematic maps are very diverse, even for maps of the same scales in respect to:
   - static vs dynamic maps
 - number and interrelation of the visualized phenomena
   - analytic map
+    - 1 variable
   - complex map
+    - \> 1 causally related variables
+      - e.g. evaporation and temperature
   - synthetic map
+    - use f more than 1 possibly not causally related variables
 - scale
-- basis map 
+- basis map vs derived map 
   - thematic information included during its collection 
-  - vs. 
-  - derived map thematic information already stored in some database
+  - vs.
+  - thematic information already stored in some database
 
 ## Mapping Method's
 
@@ -40,26 +44,38 @@ Thematic maps are very diverse, even for maps of the same scales in respect to:
 -  dot distribution map, or dot density map
 -  map type that uses a dot symbol to show the presence of a feature or a phenomenon. Dot maps rely on a visual scatter to show spatial pattern. ([Wikipedia](https://en.wikipedia.org/wiki/Dot_distribution_map#cite_note-1)
 
-![Wikipedia-Dot-Map](https://upload.wikimedia.org/wikipedia/commons/e/e6/Carte_Philosophique_figurant_la_Population_de_la_France.jpg)
-
+![DePaul-Geog_258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap_files/image008.jpg)
+taken from [DePaul - Geog 258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap.htm)
 
 ### choropleth map
 
--  areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income ([Wikipedia](https://en.wikipedia.org/wiki/Choropleth_map))
-- Choropleth maps provide an easy way to visualize how a measurement varies across a geographic area or show the level of variability within a region ([Wikipedia](https://en.wikipedia.org/wiki/Choropleth_map))
+- Choro + pleth = area + value
+- Value applied to area
 
-![Wikipedia-Choropleth-Map](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg/500px-Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg.png)
+![DePaul-Geog_258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap_files/image012.jpg)
+taken from [DePaul - Geog 258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap.htm)
 
+
+### isoline map
+
+- shows continuous surface
+- interpolation is applied to points of known values to create lines of eqaul attribute values
+
+![DePaul-Geog_258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap_files/image014.jpg)
+taken from [DePaul - Geog 258](http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap.htm)
 
 ### cartogram
 
--  map in which some thematic mapping variable – such as travel time, population, or Gross National Product – is substituted for land area or distance. The geometry or space of the map is distorted in order to convey the information of this alternate variable. ([Wikipedia](https://en.wikipedia.org/wiki/Cartogram))
+- Varies areal size in proportion to magnitude of values
+- The geometry or space of the map is distorted in order to convey the information of this alternate variable ([Wikipedia](https://en.wikipedia.org/wiki/Cartogram))
 ![Wikipedia-Cartogram](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PaullHennig2016WorldMap.OAha.CC-BY-4.0.jpg/1280px-PaullHennig2016WorldMap.OAha.CC-BY-4.0.jpg)
+
+### areal distribution map
+
+- shows how areas with certain features (values) are distributed over a larger area (map)
 
 
 ### Other Mapping Method's
-- areal distribution map
-- isoline map
 - vector map
 - diagram map
 - etc.
@@ -86,3 +102,8 @@ Thematic maps are very diverse, even for maps of the same scales in respect to:
 - Visualization techniques
 - Tools
 - Information visualization
+
+## Further Readings
+
+**Geog 258: Maps and GIS - Quantitative thematic maps**
+- http://gis.depaul.edu/shwang/teaching/geog258/QuantitativeThematicMap.htm
