@@ -35,6 +35,7 @@ A projection onto a (flat) plane can only have one of these properties!
 ## The Concept of Map “Projection”
 
 ![Geographic_Information_System_Basic-Projection](https://2012books.lardbucket.org/books/geographic-information-system-basics/section_06/11a481ddad3c88286544391d041cf800.jpg)
+taken out of section 2.2 from the book Geographic Information System Basics (Campbell & Shin)
 
 
 ## Map Projection Surfaces
@@ -78,16 +79,46 @@ https://www.youtube.com/watch?v=CPQZ7NcQ6YQ
 
 ## Some projections
 
-**Mercator projection**
-- https://en.wikipedia.org/wiki/Mercator_projection
 
-**Transverse Mercator projection**
-- https://en.wikipedia.org/wiki/Transverse_Mercator_projection
+### Mercator projection
+
+**properties**
+- angle (*shape*)
+  - Conformal. Small shapes are maintained. Larger shapes are increasingly distorted away from the central meridian ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Mercator/003r00000038000000/))
+- area
+  - Distortion increases with distance from the central meridian ([ArcGis Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Mercator/003r00000038000000/))
+- direction
+  - Local angles are accurate everywhere ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Mercator/003r00000038000000/))
+
+**limitations**
+- The poles cannot be represented on the Mercator projection ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Mercator/003r00000038000000/))
+
+**uses**
+- Standard sea navigation charts (direction) ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Mercator/003r00000038000000/))
+
+
+### Transverse Mercator projection
+
+Also known as Gauss-Krüger
+![Wikipedia-Tansverse-Mercator](https://upload.wikimedia.org/wikipedia/commons/b/b9/Usgs_map_traverse_mercator.PNG)
+
+**properties**
+- angles (shape)
+  - Conformal. Small shapes are maintained. Larger shapes are increasingly distorted away from the central meridian. ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Transverse_Mercator/003r00000046000000/))
+- area
+  - Distortion increases with distance from the central meridian ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Transverse_Mercator/003r00000046000000/))
+- direction
+  - Local angles are accurate everywhere ([ArcGIS Help](https://resources.arcgis.com/en/help/main/10.1/index.html#/Transverse_Mercator/003r00000046000000/))
+
+### More Projections
 
 **Web Mercator projection**
+- compromise of all properties
 - https://en.wikipedia.org/wiki/Web_Mercator
 
 **Albers projection**
+- conic
+- equal area
 - https://en.wikipedia.org/wiki/Albers_projection
 
 

@@ -36,7 +36,6 @@
 - Bessel 1841
   - currently used by several countries for their national geodetic surveys
   - will be replaced in the next decades by modern ellipsoids of satellite geodesy (e.g. WGS 84) ([Wikipedia](https://en.wikipedia.org/wiki/Bessel_ellipsoid)
-  - 
 
 
 **flattening**

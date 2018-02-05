@@ -2,6 +2,7 @@
 
 > On the website [Thinking with Type](http://thinkingwithtype.com/) everything you need to know is represented clearly! Nearly all pictures following are taken from this site.
 
+
 ## Typefaces
 
 **Introduction to Typographic Terms**
