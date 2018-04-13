@@ -163,7 +163,7 @@ Siehe [Wasserdampf und Lufttemperatur](klimageographie/03-wasserdampf-lufttemper
 
 - 90% des Wasser in der Atmosphäre sind Wasserdampf 
 - kommt in allen 3 Aggregatzuständen vor (Einzigartig)
-- Wasserstofftransport = Energietransport (vertikal & horizontal)
+- Wassersdampf = Energietransport (vertikal & horizontal)
   - latente Energie
     - potentielle Energie
     - in einem Phasenübergang gespeicherte Energie (z. Bsp. Wasserdampf)

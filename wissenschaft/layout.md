@@ -25,3 +25,20 @@ Anforderungen an das Layout kann sich je nach Dozent verändern.
 - Schriftart: Times New Roman
 - Schriftgröße: 12
 - Seitenzahlen: An
+
+
+## Aufbau
+
+```
+- > Titelblatt <
+- Kurzfassung (Abstract)
+- > Inhaltsverzeichnis <
+- Abbildungsverzeichnis
+- Tabellenverzeichnis
+- Abkürzungsverzeichnis
+- Vorwort
+- > Komplex aus Einleitung, Hauptteil und Schluss <
+- > Literaturverzeichnis <
+- Stichwortregister
+- Anhang
+```

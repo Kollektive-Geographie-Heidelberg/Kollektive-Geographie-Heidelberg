@@ -59,14 +59,6 @@
   - großräumige vertikale und horizontale Luftbewegungen
 - Entstehung aufgrund ungleicher Verteilung von solarer Einstrahlung
 
-**atmosphärische Zirkulation**
-
-- planetarische Zirkulation
-- globale Zirkulation
-- globale Windsysteme
-  - großräumige vertikale und horizontale Luftbewegungen
-- Entstehung aufgrund ungleicher Verteilung von solarer Einstrahlung
-
 **Autochthon**
 
 - von hier (antizyklonal, Hochdruck, lokale Witterungphänomene)

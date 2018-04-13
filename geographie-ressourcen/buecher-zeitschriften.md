@@ -1,5 +1,15 @@
 # Bücher und Zeitschriften
 
+## Bücher
+
+### Vegetationsgeographie
+
+**Vegetation Mitteleuropas mit den Alpen**
+- http://www.utb-shop.de/vegetation-mitteleuropas-mit-den-alpen.html
+- Das Zusatzkapitel "Zeigerwerte der Pflanzen Mitteleuropas" kann kostenlos heruntergeladen werden
+    - http://www.utb-shop.de/downloads/dl/file/id/27/zusatzkapitel_zeigerwerte_der_pflanzen_mitteleuropas.pdf
+
+
 ## Zeitschriften
 
 **Entgrenzt**

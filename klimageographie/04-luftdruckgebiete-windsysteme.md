@@ -257,7 +257,7 @@
 
 ## Makroskalige Windsysteme
 
-**Mesoskalig**
+**Makroskalig**
 
 - Größenordnung: über 1000 Kilometer
 
