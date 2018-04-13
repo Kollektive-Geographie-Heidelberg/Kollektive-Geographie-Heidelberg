@@ -141,7 +141,7 @@
 
 - Druckgradientkraft
 
-![wind-ageostrophisch](klimageographie/wind-ageostrophisch.png)
+![wind-ageostrophisch](wind-ageostrophisch.png)
 
 - Druckausgleich findet direkt vom Hoch zum Tief statt
 
@@ -152,7 +152,7 @@
 - Druckgradientkraft
 - Reibungskraft
 
-![wind-antitriptisch](klimageographie/wind-antitriptisch.png)
+![wind-antitriptisch](wind-antitriptisch.png)
 
 - Druckausgleich findet statt
 
@@ -163,7 +163,7 @@
 - Druckgradientkraft
 - Corioliskraft
 
-![wind-geostrophisch](klimageographie/wind-geostrophisch.png)
+![wind-geostrophisch](wind-geostrophisch.png)
 
 - kein Druckausgleich findet statt
 
@@ -175,7 +175,7 @@
 - Corioliskraft
 - Zentrifugalkraft
 
-![wind-zyklostrophisch](klimageographie/wind-zyklostrophisch.png)
+![wind-zyklostrophisch](wind-zyklostrophisch.png)
 
 - kein Druckausgleich findet statt
 
@@ -187,7 +187,7 @@
 - Corioliskraft
 - Reibungskraft
 
-![wind-geotriptisch](klimageographie/wind-geotriptisch.png)
+![wind-geotriptisch](wind-geotriptisch.png)
 
 - Boden-Hoch -> Höhen-Tief
 - Druckausgleich findet statt
@@ -201,7 +201,7 @@
 - Reibungskraft
 - Zentrifugalkraft
 
-![wind-geotriptisch-zyklostrophischer](klimageographie/wind-geotriptisch-zyklostrophischer.png)
+![wind-geotriptisch-zyklostrophischer](wind-geotriptisch-zyklostrophischer.png)
 
 - Druckausgleich findet statt
 
@@ -210,7 +210,7 @@
 - Massendefizit in H-Druckgebieten bzw. der Massenüberschuß in T-Druckgebieten muss ausgeglichen werden
 - Entstehung einer Verbindung von Bodenzirkulation zur reibungsfreien Höhenzirkulation
 
-![wind-geotriptisch-geostrophisch-zyklostrophischer](klimageographie/wind-geotriptisch-geostrophisch-zyklostrophischer.png)
+![wind-geotriptisch-geostrophisch-zyklostrophischer](wind-geotriptisch-geostrophisch-zyklostrophischer.png)
 
 ## Mesoskalige Windsysteme
 

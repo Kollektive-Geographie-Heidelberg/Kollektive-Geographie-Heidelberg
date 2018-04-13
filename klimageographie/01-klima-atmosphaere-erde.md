@@ -159,7 +159,7 @@ trockener (wasserdampffreier) und reiner (ohne Aerosole) Luft in Bodennähe
 
 ### Wasser
 
-Siehe [Wasserdampf und Lufttemperatur](klimageographie/03-wasserdampf-lufttemperatur.html)
+Siehe [Wasserdampf und Lufttemperatur](03-wasserdampf-lufttemperatur.html)
 
 - 90% des Wasser in der Atmosphäre sind Wasserdampf 
 - kommt in allen 3 Aggregatzuständen vor (Einzigartig)
@@ -263,9 +263,3 @@ Oberfläche = ~500 * 10 hoch 6
   - $(90 - q)\pm 23,5$
 - Äquinoktium: 
   - $90 - q$
-
----
-
-Lade dieses Kapitel als [PDF](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.pdf) herunter
-
-Lade die ganze Rubrik als [PDF](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.pdf) herunter
