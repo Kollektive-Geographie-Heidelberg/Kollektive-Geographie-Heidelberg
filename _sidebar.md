@@ -17,6 +17,9 @@
   - [Vorlage](wissenschaft/vorlage.md)
   - [LaTeX](wissenschaft/latex.md)
 
+- Wissenschaftsphilosophie
+  - [A dream of socrates](wissenschaftsphilosophie/a-dream-of-scrates.md)
+
 - Vorlesungen
   - [Klimageographie](klimageographie/00-allgemeines.md)
   - [Hydrogeographie](hydrogeographie/00-allgemeines.md)

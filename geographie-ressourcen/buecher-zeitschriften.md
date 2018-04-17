@@ -10,6 +10,12 @@
     - http://www.utb-shop.de/downloads/dl/file/id/27/zusatzkapitel_zeigerwerte_der_pflanzen_mitteleuropas.pdf
 
 
+### Klimageographie
+
+**Klimatologie - Wilhelm Kuttler**
+- ISBN: 978-3-8252-4059-2
+
+
 ## Zeitschriften
 
 **Entgrenzt**
