@@ -27,3 +27,4 @@
   - [Wirtschaftsgeographie](wirtschaftsgeographie/00-allgemeines.md)
   - [Kartographie](kartographie/00-allgemeines.md)
   - [Statistik](statistik/00-allgemeines.md)
+  - [Geographische Informationssysteme](gis/00-allgemeines.md)
