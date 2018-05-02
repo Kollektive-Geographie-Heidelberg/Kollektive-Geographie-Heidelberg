@@ -29,3 +29,6 @@
 
 **Geog 258: Maps and GIS - University Washington (Winter 2006)**
 - http://gis.depaul.edu/shwang/teaching/geog258/
+
+**GISWIKI**
+- http://www.giswiki.org/wiki/Geoinformatik_-_Veranstaltungen_-_News_-_Informationen

@@ -1,1 +1,2 @@
 - [Allgemeines](gis/00-allgemeines.md)
+- [Analysemethoden](gis/01-analysemethoden.md)
