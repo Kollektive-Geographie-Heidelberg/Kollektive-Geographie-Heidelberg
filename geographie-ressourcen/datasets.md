@@ -6,7 +6,7 @@
 - This server has data extracts from the OpenStreetMap project which are normally updated every day
 - https://download.geofabrik.de/
 
-**http://www.naturalearthdata.com/**
+**Natural Erth Data**
 - Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. 
 - http://www.naturalearthdata.com/
 
