@@ -145,7 +145,7 @@ Thiessen-Polygone werden unter anderem bei der kartographischen Darstellung von 
 
 ### Inverses Distanzverfahren
 
-Inverse Distance Weighting (IDW) bezeichnet eine Interpolationsmethde, der die Annahme zugrunde liegt, dass die punktuell gemessenen raumbezogenen Daten in Abhängigkeit von der Distanz im Raum gewissen Ähnlichkeiten in den Werten aufweisen. Bei der IDW wird der Wert an einem nicht beobachteten Punkt z(u0) durch ein gewichtetes Mittel der benachbarten gemessenen Werte der Beobachtungsvariable geschätzt. Die Gewichte des dabei verwendeten linearen Schätzers sind proportional zu den Inversen des Abstands di zwischen dem unbekannten Punkt und dem verwendeten gemessenen Punkt. ([Geoinformatik - Uni Rostock](http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=-1611270911))
+Inverse Distance Weighting (IDW) bezeichnet eine Interpolationsmethode, der die Annahme zugrunde liegt, dass die punktuell gemessenen raumbezogenen Daten in Abhängigkeit von der Distanz im Raum gewissen Ähnlichkeiten in den Werten aufweisen. Bei der IDW wird der Wert an einem nicht beobachteten Punkt z(u0) durch ein gewichtetes Mittel der benachbarten gemessenen Werte der Beobachtungsvariable geschätzt. Die Gewichte des dabei verwendeten linearen Schätzers sind proportional zu den Inversen des Abstands die zwischen dem unbekannten Punkt und dem verwendeten gemessenen Punkt. ([Geoinformatik - Uni Rostock](http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=-1611270911))
 
 Das Inverse Distanzverfahren wird häufig in Kombination mit der Höhenregression verwendet.
 

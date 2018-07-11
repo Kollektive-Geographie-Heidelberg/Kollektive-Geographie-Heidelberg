@@ -46,4 +46,8 @@
 
 ## weiterführende Materialien
 
+**OpenStreetMap Wiki**
 - http://wiki.openstreetmap.org/
+
+**European Handbook of Crowdsourced Geographic Information**
+- https://www.ubiquitypress.com/site/books/10.5334/bax/

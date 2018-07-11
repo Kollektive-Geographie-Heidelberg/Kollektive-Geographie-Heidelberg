@@ -2,4 +2,3 @@
 - [Analysemethoden](gis/01-analysemethoden.md)
 - [Geodatenbanken](gis/03-geodatenbanken.md)
 - [OpenStreetMap](gis/04-osm.md)
-

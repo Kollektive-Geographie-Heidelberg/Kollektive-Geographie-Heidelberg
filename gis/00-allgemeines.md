@@ -32,3 +32,7 @@
 
 **GISWIKI**
 - http://www.giswiki.org/wiki/Geoinformatik_-_Veranstaltungen_-_News_-_Informationen
+
+**GEOFABRIK**
+- Die Geofabrik extrahiert, filtert und verarbeitet freie Geodaten (Downloadportal)
+- http://www.geofabrik.de/
