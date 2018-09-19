@@ -6,6 +6,10 @@
 - real-time group collaboration of text documents. Accessible by anyone who has the address (URL) to this pad.
 - https://pad.riseup.net/
 
+**bw Sync & Share**
+- Der bwSync&Share-Dienst steht Studierenden und Beschäftigten der Hochschulen in Baden-Württemberg zur Verfügung, um Daten zwischen verschiedenen Nutzern, Desktop-Computern und mobilen Endgeräten zu synchronisieren und am Karlsruher Institut für Technologie (KIT) zu speichern.
+- https://bwsyncandshare.kit.edu/login
+
 **Filesharing - RiseUp Share**
 - https://share.riseup.net/
 

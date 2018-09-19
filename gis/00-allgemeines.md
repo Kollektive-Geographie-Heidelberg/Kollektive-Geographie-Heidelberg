@@ -36,3 +36,6 @@
 **GEOFABRIK**
 - Die Geofabrik extrahiert, filtert und verarbeitet freie Geodaten (Downloadportal)
 - http://www.geofabrik.de/
+
+**QGIS Tutorials and Tips**
+- http://www.qgistutorials.com/en/index.html

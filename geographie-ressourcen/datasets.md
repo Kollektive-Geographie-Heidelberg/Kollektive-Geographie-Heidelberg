@@ -20,6 +20,20 @@
 
 ## Germany
 
+**BGR - Geologische Informationen**
+- Bundesanstalt für Geowissenschaften und Rohstoffe
+- WMS, Geoviewer, Druck
+- Raster & Vektor
+- https://www.deutsche-rohstoffagentur.de/DE/Themen/Sammlungen-Grundlagen/GG_geol_Info/Produkte/produkte_inhalt.html
+
+**LUBW - Open Data**
+- Landesanstalt für Umwelt Baden-Württemberg
+- The data for temperature and pollution is quite good
+- https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml
+
+**Statistische Daten innerhalb der EU und Verwaltungsgrenzen (inkl. Kreis- und Bundeslandsgrenzen)**
+- http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units
+
 **Many data sets about mobility, result/project of the Germany ministry of mobility and infrastructure**
 - https://www.mcloud.de/ 
 
@@ -35,11 +49,6 @@
 
 **"All" open data sets provided by the Deutsche Bahn**
 - https://data.deutschebahn.com/
-
-**Open Data provided by the LUBW**
-- there exists an API somewhere...
-- The data for temperature and pollution is quite good
-- https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml
 
 **The official German weather service**
 - https://www.dwd.de
