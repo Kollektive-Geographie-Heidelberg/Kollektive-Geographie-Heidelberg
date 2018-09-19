@@ -1,9 +1,8 @@
 prose:
-  rooturl: '/'
+  rooturl: ''
   siteurl: 'http://kollektive-geographie-heidelberg.de'
   ignore:
     - index.md
     - index.html
     - _config.yml
     - _coverpage
-    - .nojekyll
