@@ -1,26 +1,26 @@
-- Über
+- **Über**
   - [Lies mich](README.md)
   - [Ziele und Motivation](about/ziele-motivation.md)
   - [Mitmachen](about/mitmachen.md)
   - [Inhalte bearbeiten](about/contribute.md)
   - [Kontakt](about/kontakt.md)
 
-- Geographie und Geographie in Heidelberg
+- **Geographie und Geographie in Heidelberg**
   - [Gemeinsames studieren](gemeinsames-studieren/alternativer-messenger.md)
   - [Geographie Ressourcen](geographie-ressourcen/geographie-heidelberg.md)
   - [Altklausuren](altklausuren/altklausuren.md)
 
-- Wissenschaftliches Arbeiten
+- **Wissenschaftliches Arbeiten**
   - [Layout](wissenschaft/layout.md)
   - [Zitieren, Tabellen und Abbildungen](wissenschaft/zitieren-tabellen-abbildungen.md)
   - [Bibliographie & Verzeichnisse](wissenschaft/bibliographie.md)
   - [Vorlage](wissenschaft/vorlage.md)
   - [LaTeX](wissenschaft/latex.md)
 
-- Wissenschaftsphilosophie
+- **Wissenschaftsphilosophie**
   - [A dream of socrates](wissenschaftsphilosophie/a-dream-of-scrates.md)
 
-- Vorlesungen
+- **Vorlesungen**
   - [Klimageographie](klimageographie/00-allgemeines.md)
   - [Hydrogeographie](hydrogeographie/00-allgemeines.md)
   - [Politische Geographie](politische-geographie/00-allgemeines.md)
