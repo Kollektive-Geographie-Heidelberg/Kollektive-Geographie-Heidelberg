@@ -6,3 +6,5 @@ prose:
     - index.html
     - _config.yml
     - _coverpage
+    - CNAME
+    - .nojekyll
