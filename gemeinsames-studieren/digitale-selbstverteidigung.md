@@ -1,8 +1,9 @@
 # Digitale Selbstverteidigung
-<!-- toc -->
+
 Auf dieser Seite werden Alternativen zum Schutz der Privatsphäre zu häufig genutzten Diesten vorgeschlagen. Diese Alternative sollen eine *digitale Selbstverteidigung* ermöglichen.
 
 Der Begriff der *Digitale Selbstverteilung* ist geprägt von [Digitalourage e.V.](https://digitalcourage.de/digitale-selbstverteidigung), welcher sich seit 1987 für Grundrechte und Datenschutzt einsetzen.
+
 
 ## Warum braucht es Dienste zur Digitalen Selbstverteidigung?
 
@@ -25,6 +26,7 @@ Hinzu kommt die Datensammelwut der Staaten. Stichwörter sind die [Voratsdatensp
 > Verletzung unserer Grundrechte
 
 Es folgt eine Auflistung von Diensten, welche es ermöglichen sich im digitalen Raum gegen die oben genannten Punkte zu "verteidigen". Die Auflistung ist bei weitem nicht vollständig und verzichtet bewusst auf Wertung. Sie soll ledeglich als Anregung dienen. Am Ende der Seite sind einige Artikeln und Webseiten verlinkt, wenn man tiefer in die Thematik einsteigen möchte.
+
 
 ## Alternativen zu häufig genutzten Diensten
 
@@ -84,6 +86,7 @@ Es folgt eine Auflistung von Diensten, welche es ermöglichen sich im digitalen 
   - [elementaryOS](https://elementary.io/)
   - etc.
 
+
 ## Hilfreiche Dienste
 
 **Werbeblocker für dein Browser** 
@@ -99,6 +102,7 @@ Es folgt eine Auflistung von Diensten, welche es ermöglichen sich im digitalen 
 - Free client-side encryption for your cloud files
 - https://cryptomator.org/
 
+
 ## Webseiten & Blogs zum Thema
 
 **Netzpolitik**
@@ -112,6 +116,7 @@ Es folgt eine Auflistung von Diensten, welche es ermöglichen sich im digitalen 
 **Kuketz It-Security Blog**
 
 - https://www.kuketz-blog.de
+
 
 ## Lesenswerte Artikel
 
@@ -134,6 +139,7 @@ Es folgt eine Auflistung von Diensten, welche es ermöglichen sich im digitalen 
 **Kriterien eine Messengers**
 
 - https://www.kuketz-blog.de/messenger-kriterien-an-sicherheit-und-datenschutz/
+
 
 ## Ein sicheres Passwort...
 

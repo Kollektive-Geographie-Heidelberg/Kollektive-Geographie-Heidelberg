@@ -14,5 +14,4 @@
 - [Typography](kartographie/12-micro-typographie.md)
 - [Label Placement](kartographie/13-lable-placement.md)
 ---
-- [Tools](kartographie/20-tools.md)
-- [Klausur](kartographie/20-klausur.md)
+- [Inspiration](kartographie/20-inspiration.md)

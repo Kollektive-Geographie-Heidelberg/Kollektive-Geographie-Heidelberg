@@ -165,7 +165,7 @@ Folgender LaTeX Code...
 \end{document}
 ```
 
-Kompiliert zu folgendem Dokument:
+... wird zu folgendem Dokument kompiliert:
 
 <object data="wissenschaft/template.pdf" type="application/pdf" width="100%" height="900">
    <p><b>Fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="wissenschaft/template.pdf">Download PDF</a>.</p>
@@ -173,10 +173,14 @@ Kompiliert zu folgendem Dokument:
 
 Aus der BibTeX-Datei wird das Literaturverzeichnis generiert. Die BibTeX-Datei enthält Informationen über das zu zitierende Werk. BibTeX-Dateien sind weit verbreitet und können z.Bsp. über HEIDI oder Google Scholar runter geladen werden. Ansonsten gibt es BibTeX-Datei Generatoren und Editoren.
 
+
 **Bibtex - Editor**
+
 - http://truben.no/latex/bibtex/
 
+
 **Bibtex - Generator**
+
 - http://www.literatur-generator.de/
 
 Folgende BibTeX-Datei wurde im vorherigen Dokument benutzt:

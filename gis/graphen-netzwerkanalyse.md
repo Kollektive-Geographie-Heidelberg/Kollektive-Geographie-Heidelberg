@@ -3,28 +3,22 @@
 ## Topologie
 
 **Topologie**
-
 - Beschreibt die gegenseitige Lage und Anordnung geometrischer Gebilde im Raum
+    - Beschreibung der Relationen zwischen elementaren Objekten (Knoten, Kante, Masche)
 - charakterisiert nichtmetrische, räumliche Beziehungen zwischen Geoobjekten (Nachbarschaftsbeziehungen)
-
-- Ermöglicht die koordinatenfreie Speicherung von Objekten
+    - Ermöglicht die koordinatenfreie Speicherung von Objekten
 - Invarianz bzgl. Transformationen (Bsp. Luftballon)
-- Beschreibung der Relationen zwischen elementaren Objekten (Knoten, Kante, Masche)
-
 
 **Topologische Invarianten**
-
 - Ein Knoten ist Endpunkt einer Kante
 - Zwei Kanten kreuzen sich/ sind kreuzungsfrei
 - Ein Punkt liegt im Inneren einer Fläche
 - Ein Punkt liegt auf dem Rand einer Fläche
 - Eine Fläche hat ein Loch
-- Eine Fläche ist zusammenängend/ nicht zusammenhängend
+- Eine Fläche ist zusammenhängend/ nicht zusammenhängend
 - Zwei Flächen sind benachbart
 
-
 **Nicht-topologische Eigenschaften**
-
 - Abstand
 - Fläche
 - Winkel
@@ -43,6 +37,10 @@ A covers B
 A is covered by B
 A overlaps B
 
+![Egenhofer Relationen](bilder/egenhofer.png)
+
+Quelle: https://github.com/rugbyprof/4553-Spatial-DS/wiki/Topological-Relationships
+
 
 ## Graphentheorie
 
@@ -51,42 +49,36 @@ A overlaps B
 - Konnektivität ist eine topologische Eigenschaft
 
 **Graph**
-
 - Ein Graph ist ein Gebilde aus Knoten (nodes) und Kanten (edges)
 	- Eine Kante verbindet immer 2 Knoten
 	- Diese Knoten sind die Endpunkte der Kante
 
-
 **Adjazenz**
-	
 - Aneinandergrenzen gleichartiger Primitive
 	- Z.B. 2 Knoten über eine Kante, 2 Kanten über einen Knoten
-	- Inzidenz
 - Aneinandergrenzen unterschiedlicher Elemente
 	- Z.B. Knote und Kante
 
-
 **Adjazenmatrix**
-
 - ...
 
-
-- Ein Graph heißt zusammenhängend, wenn für zwei beliebige Knoten (mindestens) ein Weg besteht
-- Ein vollständiger Graph liegt vor, wenn alle Knotenpaare adjazent sind Schleife eine gerichtete Kante in einem gerichteten Graph, die einen Knoten mit sich selbst verbindet
-- Baum Ein schleifenloser, zusammenhängender Graph, in dem je zwei beliebige verschiedene Knoten durch genau einen Weg verbunden sind
-
-
 **ungerichteter Graph**
-
 - Es werden lediglich die Verbindungen zwischen den Knoten dargestellt (Verbindungsschema)
 
 **gerichteter Graph**
-
 - Es wird zusätzlich dargestellt, in welcher Richtung Verbindungen zwischen den Knoten bestehen
 
 **gewichteter Graph** (bewerteter)
-
 - Graph, dessen Kanten mit Gewichten bewertet sind (z.B. den Kantenlängen)
+
+**zusammenhängender Graph**
+- wenn für zwei beliebige Knoten (mindestens) ein Weg besteht
+
+**vollständiger Graph**
+- wenn alle Knotenpaare adjazent sind Schleife eine gerichtete Kante in einem gerichteten Graph, die einen Knoten mit sich selbst verbindet
+
+**Baum**
+- schleifenloser, zusammenhängender Graph, in dem je zwei beliebige verschiedene Knoten durch genau einen Weg verbunden sind
 
 
 ## Netzwerkanalyse

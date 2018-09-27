@@ -13,4 +13,4 @@ Die Webseite und ihr Inhalt ist auf [GitHub](https://github.com/Kollektive-Geogr
 **Du willst ein Teil der Seite übernehmen?**
 - Wenn du Lust hast eine komplette Vorlesung auf dieser Webseite zu repräsentieren (Definitionen und Zusammenfassung schreiben und hochzuladen), schreibt mich an! :)
 
-**Danke an alle, die die *Kollektive Geographie Heidelberg* in irgendeiner Weise unterstützen, unterstützt haben und unterstützen werden! :)**
+**Danke** an alle, die die *Kollektive Geographie Heidelberg* in irgendeiner Weise unterstützen, unterstützt haben und unterstützen werden! :)

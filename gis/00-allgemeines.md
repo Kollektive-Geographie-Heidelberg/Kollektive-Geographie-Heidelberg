@@ -27,15 +27,12 @@
 **Geographic Information System Basics** (kostenlos)
 - https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html
 
-**Geog 258: Maps and GIS - University Washington (Winter 2006)**
-- http://gis.depaul.edu/shwang/teaching/geog258/
+**ArcGIS - Hilfe**
+- Durchsuche die Hilfe nach Begriffe (Fachwörter, Konzepte, etc.)
+- https://desktop.arcgis.com/de/arcmap/
 
-**GISWIKI**
-- http://www.giswiki.org/wiki/Geoinformatik_-_Veranstaltungen_-_News_-_Informationen
 
-**GEOFABRIK**
-- Die Geofabrik extrahiert, filtert und verarbeitet freie Geodaten (Downloadportal)
-- http://www.geofabrik.de/
+## Tools
 
-**QGIS Tutorials and Tips**
-- http://www.qgistutorials.com/en/index.html
+**Siehe:**
+- http://kollektive-geographie-heidelberg.de/#/geographie-ressourcen/tools

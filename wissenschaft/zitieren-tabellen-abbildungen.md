@@ -1,7 +1,6 @@
 # Zitieren, Tabellen und Abbildungen
 
-**Gestaltungsrichtlinie (Styleguide)**
-- [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)
+**Gestaltungsrichtlinie (Styleguide):** [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)
 
 ## Zitierweise
 
@@ -47,11 +46,11 @@
 
 **Auslassen**
 - eckige Klammern mit drei Punkten
-  - [...]
+  - `[...]`
 
 **Hinzufügen**
 - eckige Klammer mit Ergänzungen
-  - [hinzugefügter text]
+  - `[hinzugefügter text]`
 
 **längere Textpassagen**
 - das wörtliche Zitieren längerer Textpassagen wird durch andersartige Formatierung hervorgehoben
@@ -61,26 +60,26 @@
 
 **mehrere Seiten**
 - eine Folgeseite
-  - f. = folgende
+  - `f`. = folgende
 - mehrere Folgeseiten
-  - ff. = fortfolgende
+  - `ff.` = fortfolgende
 
 **mehrere Werke eines Autors im gleichem Jahr**
 - Ordnungsbuchstaben hinter die Jahreszahl 
-  - 2017a, 2017b, 2017c
+  - `2017a, 2017b, 2017c`
 
 **mehrere AutorInnen**
   - zwei AutorInnen
-    - &
+    - `&`
   - ab drei AutorInnen
     - Angabe des ersten Autor 
-    - et al.
+    - `et al.`
   - im Literaturverzeichnis alle AutorInnen nennen
 
 **Angaben fehlen**
-  - o. V. = ohne VerfasserIn
-  - o. J. = ohne Jahresangabe
-  - o. O. = ohne Ortsangabe
+  - `o. V.` = ohne VerfasserIn
+  - `o. J.` = ohne Jahresangabe
+  - `o. O.` = ohne Ortsangabe
 
 
 ## Abbildungen und Tabellen

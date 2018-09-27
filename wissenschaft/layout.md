@@ -29,16 +29,15 @@ Anforderungen an das Layout kann sich je nach Dozent verändern.
 
 ## Aufbau
 
-```
-- > Titelblatt <
+- **Titelblatt**
 - Kurzfassung (Abstract)
-- > Inhaltsverzeichnis <
+- **Inhaltsverzeichnis**
 - Abbildungsverzeichnis
 - Tabellenverzeichnis
 - Abkürzungsverzeichnis
 - Vorwort
-- > Komplex aus Einleitung, Hauptteil und Schluss <
-- > Literaturverzeichnis <
+- **Komplex aus Einleitung, Hauptteil und Schluss**
+- **Literaturverzeichnis**
 - Stichwortregister
 - Anhang
 ```
