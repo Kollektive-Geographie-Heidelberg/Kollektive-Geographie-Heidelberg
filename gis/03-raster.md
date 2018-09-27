@@ -84,14 +84,15 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 
 ## Nachbarschaften
 
-Nachbarschaften im allgemeinen sind größere Zonen auf Basis von Distanzen und/oder Richtungen.
+**Definition**
+- größere Zonen auf Basis von Distanzen und/oder Richtungen.
 
 - N4-Nachbarschaft 
     - Lateraler Nachbar *oder* Diagonaler Nachbar
 - N8-Nachbarschaft
     - Lateraler Nachbar *und* Diagonaler Nachbar
 
-**Minesweeper**
+**Beispiel: Minesweeper**
 - als klassisches Beispiel einer 3 x 3- Zellen Nachbarschaftsanalyse: Jeder Zellwert (Nummer) gibt die Anzahl der Bomben innerhalb einer 3-Zellen-Nachbarschaft an.
 
 

@@ -2,7 +2,7 @@
 - [Einführung](gis/01-einfuehrung.md)
 - [Analysemethoden](gis/02-analysemethoden.md)
 - [Raster](gis/03-raster.md)
-- [Vector](gis/04-vector.md)
+- [Vektor](gis/04-vektor.md)
 - [Geodatenbanken](gis/05-geodatenbanken.md)
 - [Klausur](gis/klausur.md)
 - [Klausur - Fragen](gis/klausur-fragen.md)

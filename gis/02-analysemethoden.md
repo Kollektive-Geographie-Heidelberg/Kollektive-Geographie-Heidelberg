@@ -38,7 +38,7 @@
 
 Verschneidung auf binärer Informationsebene (wahr/falsch).
 
-| Operator | Beschreibung | Beispiel |
+| Operator | Operatorname | Beschreibung | Beispiel |
 | --- | --- | --- |
 | AND |	Schnittmenge | Ergibt „wahr“ für alle Gebiete, die sowohl das erste als auch das zweite Kriterium erfüllen. | „Welche Gebiete sind bewaldet und steil?“ |
 | OR | Vereinigung | Ergibt „wahr“ für alle Gebiete, die entweder das erste oder das zweite Kriterium erfüllen, unabhängig davon, ob sich die Gebiete überlagern oder nicht. Anders ausgedrückt, muss mindestens eines der beiden Kriterien „wahr“ sein. | „Welche Gebiete sind bewaldet oder steil?“ |
