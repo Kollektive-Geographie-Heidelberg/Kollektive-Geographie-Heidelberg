@@ -30,7 +30,7 @@ The final advantage of vector data is that topology is inherent in the vector mo
 
 **Vergleichende Operatoren**
 - = (gleicht)
-- > (größer)
+- \> (größer)
 - < (kleiner)
 - <> (ungleich)
 
