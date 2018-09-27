@@ -1,5 +1,9 @@
 # Analysemethoden
 
+Dieses Kapitel ist unabhängig von den Datenmodellen (Rasterdatenmodell und Vektrodatenmodell).
+Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-raster.md) oder [Vektordaten](gis/04-vektor).
+
+
 ## Abfragevarianten
 
 **Thematische Abfragen**
@@ -28,6 +32,29 @@
     - Gemeint ist die Modellierung von Raumszenarien (z.B. Simulation von Hochwasserereignissen).
 
 
+## Auswahloperatoren
+
+**Vergleichende Operatoren**
+- = (gleicht)
+- \> (größer)
+- < (kleiner)
+- <> (ungleich)
+
+**Arithmetische Operatoren**
+- * (Multiplikation)
+- / (Division)
+- + (Addition)
+- - (Subtraktion)
+- exp (Exponent)
+- % (Modulo)
+
+**Logische Operatoren**
+- AND ∧ (Schnittmenge)
+- OR ∨ (Vereinigungsmenge)
+- XOR (ausschließende (exklusive) Vereinigungsmenge)
+- NOT ¬ (Negation)
+
+
 ## Verschneidung
 
 **Verschneidung**
@@ -51,12 +78,12 @@ Quelle: http://gitta.info/Suitability/de/html/BoolOverlay_learningObject2.html
 ### Geometrische Verschneidung
 
 **Operationen der Mengenlehre**
-- Vereinigung (union)
-- Schnitt (intersection)
-- Mengen Differenz (set minus)
-- Symmetrische Differenz
+- Vereinigung (Union) = OR
+- Schnitt (Intersection) = AND
+- Symmetrische Differenz (Symmetrical difference) = XOR
+- Mengen Differenz (Identity)
 
-**Arten der Verschneidung** (unabhängig von der Verwendung von Vektor- oder Rastermodell)
+**Arten der Verschneidung** 
 - Punkt-Fläche
 - Linie-Fläche
 - Fläche-Fläche

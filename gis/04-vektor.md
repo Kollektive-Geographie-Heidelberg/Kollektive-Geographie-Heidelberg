@@ -26,35 +26,24 @@
 The final advantage of vector data is that topology is inherent in the vector model. This topological information results in simplified spatial analysis (e.g., error detection, network analysis, proximity analysis, and spatial transformation) when using a vector model ([geographic information system basics](https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html)).
 
 
-## Auswahloperatoren
-
-**Vergleichende Operatoren**
-- = (gleicht)
-- \> (größer)
-- < (kleiner)
-- <> (ungleich)
-
-**Arithmetische Operatoren**
-- * (Multiplikation)
-- / (Division)
-- + (Addition)
-- - (Subtraktion)
-- exp (Exponent)
-- % (Modulo)
-
-**Logische Operatoren**
-- AND ∧ (Schnittmenge)
-- OR ∨ (Vereinigungsmenge)
-- XOR (ausschließende (exklusive) Vereinigungsmenge)
-- NOT ¬ (Negation)
-
-
 ## Analysemethoden
 
 - Geometrisch
     - Manipulation und Nutzung der Form, Lage und Größe der Vektorfeatures
 - Topologisch
     - Analyse der gegenseitigen Lagebeziehungen der Vektorfeatures
+
+
+### Geometrische Verschneidung (Overlay Operations)
+
+- Vereinigung (Union) = OR
+- Schnitt (Intersection) = AND
+- Symmetrische Differenz (Symmetrical difference) = XOR
+- Mengen Differenz (Identity)
+
+![Overlay Operationen](bilder/vector-overlay-methods.png)
+
+Quelle: https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html
 
 
 ### Geoprozessierung
@@ -100,19 +89,10 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 - Serie von konzentrischen Pufferzonen (wie eine Zielscheibe) um ein Objekt.
 
 
-### Overlay Operationen
-
-- Vereinigung (Union) = OR
-- Überschneidung (Intersection) = AND
-- Symmetrische Differenz (Symmetrical difference) = XOR
-- Verschneidung (Identity)
-
-![Overlay Operationen](bilder/vector-overlay-methods.png)
-
-Quelle: https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html
-
 
 ---
+
+
 
 **Work in Progress**
 
