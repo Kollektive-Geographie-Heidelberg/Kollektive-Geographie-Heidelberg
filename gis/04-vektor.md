@@ -37,7 +37,7 @@ The final advantage of vector data is that topology is inherent in the vector mo
 ### Geometrische Verschneidung (Overlay Operations)
 
 - Vereinigung (Union) = OR
-- Schnitt (Intersection) = AND
+- Überschneidung (Intersection) = AND
 - Symmetrische Differenz (Symmetrical difference) = XOR
 - Mengen Differenz (Identity)
 
@@ -50,15 +50,15 @@ Quelle: https://2012books.lardbucket.org/books/geographic-information-system-bas
 
 Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 
-- Dissolve
+- Auflösen (Dissolve)
     - Kombiniert mehrere Polygonobjekte zu einem Polygonobjekt, basierend auf einem bestimmten Attributen
-- Select
+- Auswählen (Select)
     - Erstellung eines Ausgabelayers basierend auf einer benutzerdefinierten Abfrage, welche bestimmte Objekte des Eingabelayers auswählt. (Siehe oben: Auswahloperatoren)
 - Merge
     - Verbindet gleiche Objekte aus unterschiedlichen Eingabelayern in einem neuen Ausgabelayer
 - Append
     - Zusammenführen von Layer mit existierenden Überschneidungsbereichen
-- Clip
+- Differenz (Clip)
     - Extrahiert die Objekte eines Eingabelayers (Punkt, Linie oder Polygon), welche in die räumliches Ausdehnung (spatial extent) ein Clip Layers fällt
 - Erase
     - Gegenteil von Clip
@@ -89,7 +89,9 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 - Serie von konzentrischen Pufferzonen (wie eine Zielscheibe) um ein Objekt.
 
 
+### Nächste-Nachbar-Analyse
 
+k-Nächste-Nachbar-Analyse (euklidische Distanz)
 ---
 
 
@@ -97,9 +99,7 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 **Work in Progress**
 
 
-### Geometrisch: Nächste-Nachbar-Analyse
 
-k-Nächste-Nachbar-Analyse
 
 
 ### Geometrisch: Geometrien vereinfachen

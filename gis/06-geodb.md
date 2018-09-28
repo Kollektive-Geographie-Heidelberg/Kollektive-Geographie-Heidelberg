@@ -1,34 +1,8 @@
 # Geodatenbanken
 
-## Datenmodell
-
-- Abbildung der realen Welt in abstrahierter, vereinfachter, strukturierter Weise
-- Ein Datenmodell wird durch die Abstraktion von einzelnen Objekten (Entitäten), [deren Beziehungen zueinander (Relationen)] und deren Eigenschaften (Attribute) gebildet ([http://geoinformatik.lehrewelt.de](http://geoinformatik.lehrewelt.de/raumliche-datenmodelle-zur-digitalen-abbildung-der-echtwelt/))
-
-
-### Phasen der Datenmodellierung
-
-1. Konzeptionelles Datenmodell (Datenbankschema)
-    - Bestimmung und Benennung der wichtigsten Objekte (Entitäten)
-    - Bestimmung der wichtigsten Beziehungen zwischen Objekten (Relationen)
-2. Logisches Datenmodell (Datenbankschema)
-    - Bestimmung der relevanten Eigenschaften von Objekten (Attribute)
-    - Beschreibung des Verhaltens von Objekten (Methoden)
-3. Physisches Datenmodell (Datenbankschema)
-    - Definition der Datentypen für Objekte und deren Eigenschaften
-    - Definition wie Beziehungen implementiert werden sollen (Kardinalitäten)
-    - Beschreibung der Operationen und deren Parameter (Methodendefinition/-deklaration)
-
-
-## Entity-Relationship Modell (ERM)
-
-[...]
-
-
 ## Datentypen
 
 **Datentypen von relationalen Datenbanken** (PostgreSQL)
-
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -41,14 +15,13 @@
 | boolean | Boolsche Variable (TRUE/FALSE) |
 
 **Problem**
-
 - Geometrien mithilfe von atomaren Datentypen in einer DB abzuspeichern ist aufgrund der Eigenschaften von Geometrien nicht effizient
-- Lösung:
-    - Geodatenbanken besitzen spezielle Datentypen für Geometrien
+
+**Lösung**
+- Geodatenbanken (z.Bsp. PostGis) besitzen spezielle Datentypen für Geometrien
 
 
 ## OpenGIS Simple Feature Specification (OGC)
-
 
 Simple Feature Access ist eine Spezifikation des Open Geospatial Consortium, welche eine allgemein gültige Architektur für geografische Daten und deren Geometrien definiert.
 

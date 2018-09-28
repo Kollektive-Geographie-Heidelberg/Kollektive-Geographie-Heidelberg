@@ -21,16 +21,23 @@
 - Modellierung
 - Visualisierung
 
-**Geodaten**
-- Geodaten sind Daten, die reale, räumliche Strukturen und Prozesse nachbilden
-- Merkmale
+**Geodaten (Spatial Data)**
+- Geographische Daten
+- Informationen über die Lage und Form (Geometriedaten) einer Erscheinung (Objekt) auf der Erdoberfläche und über die (nicht geometrischen) Eigenschaften (Attributdaten) dieser Erscheinung ([Spektrum](https://www.spektrum.de/lexikon/geographie/geographische-daten/2928)).
+- Geodaten beschreiben folgende Merkmale von Geoobjekten:
     - Geometrie
     - Topologie
     - Thematik
     - Dynamik
 
-**Geoobjekt** (Features)
-- _
+**Geoobjekt (Features)**
+- Ein auf der Erde vorhandenes Objekt, das mittels Geodaten eindeutig referenzierbar ist ([Wikipedia](https://de.wikipedia.org/wiki/Geoobjekt)).
+
+**Attributdaten**
+- Eigenschaften eines Geoobjekte
+- Daten ohne spezifischen Raumbezug ([Spektrum](https://www.spektrum.de/lexikon/geographie/attributdaten/558))
+	- Bei Vektordaten in der Regel in konventionellen Datenbanken gespeichert
+	- Bei Rasterdaten entspricht der Wert des Attributs dem gespeicherten Wert der Rasterzelle
 
 **Layerprinzip**
 - Verschiedene Objekt-klassen oder Variablen in Schichtmodell (Layer) miteinander verknüpft
