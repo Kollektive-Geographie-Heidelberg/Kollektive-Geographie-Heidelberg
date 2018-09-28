@@ -50,15 +50,29 @@ Quelle: https://de.wikipedia.org/wiki/Datenbank
 
 ## Datenunabhängigkeit
 
-- Datenunabhängigkeit
-    - User interagiert nicht mit direkt mit Daten, sondern mit Repräsentation der Daten über standardisierte Datenbanksprache
+**Datenunabhängigkeit**
+- Der Grad den ein Benutzer auf die Daten eines Datenbanksystems zugreifen kann, ohne Details der systemtechnischen Realisierung der Datenspeicherung und des Datenzugriffs zu kennen ([Wikipedia](https://de.wikipedia.org/wiki/Datenunabh%C3%A4ngigkeit))
+- Benutzer interagiert nicht direkt mit Daten, sondern mit Repräsentation der Daten über standardisierte Datenbanksprache
+
+Es wird unterschieden in:
+
 - Physische Datenunabhängigkeit
     - Änderungen auf der physischen Ebene haben keinen Einfluss auf die logische Struktur
 - Logische Datenunabhängigkeit
-    - Änderungen auf der logischen Ebene haben keinen Einfluss auf Anwendungen+
+    - Änderungen auf der logischen Ebene haben keinen Einfluss auf Anwendungen
 
 
 ## Relationale Datenbanksysteme
+
+Eine relationale Datenbank beruht auf einem tabellenbasierten relationalen Datenbankmodell. 
+
+Eine relationale Datenbank kann man sich als eine Sammlung von *Tabellen (Relationen)* vorstellen. 
+Jede *Zeile (Tupel)* in einer Tabelle ist ein **Datensatz (Record)**. 
+Jede *Spalte (Attribute)* besteht aus einer Reihe von **Attributwerten (Attribute)**
+. ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)).
+
+Datenbanksprache ist meistens SQL ()
+
 
 ### Datentypen 
 
@@ -71,3 +85,6 @@ Quelle: https://de.wikipedia.org/wiki/Datenbank
 | date | Datum |
 | timestamp | Datum und Zeit |
 | boolean | Boolsche Variable (TRUE/FALSE) |
+
+
+> SQL-Introduktion: https://sqlbolt.com/
