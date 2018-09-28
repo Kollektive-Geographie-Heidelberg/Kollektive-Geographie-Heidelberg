@@ -1,19 +1,5 @@
 # Geodatenbanken
 
-## Datentypen
-
-**Datentypen von relationalen Datenbanken** (PostgreSQL)
-
-| Name | Beschreibung |
-| ---- | ------------ |
-| integer | Ganzzahlen |
-| double precision (float8) | Gleitkommazahl |
-| character varying (varchar)| Zeichenkette (variable Länge) |
-| text | Zeichenkette |
-| date | Datum |
-| timestamp | Datum und Zeit |
-| boolean | Boolsche Variable (TRUE/FALSE) |
-
 **Problem**
 - Geometrien mithilfe von atomaren Datentypen in einer DB abzuspeichern ist aufgrund der Eigenschaften von Geometrien nicht effizient
 
@@ -75,3 +61,4 @@ zwei Polygone
 zwei Polygone, erstes Polygon mit Loch:
 
 `MultiPolygon(((0 0, 0 20, 20 20, 20 0, 0 0),(5 5, 5 15, 15 15, 15 5, 5 5)),((30 30, 30 40, 40 40, 40 30, 30 30)))`
+

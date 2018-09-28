@@ -1,9 +1,10 @@
 # Datenmodellierung
 
-## Datenmodell
-
+**Datenmodell**
 - Abbildung der realen Welt in abstrahierter, vereinfachter, strukturierter Weise
-- Ein Datenmodell wird durch die Abstraktion von einzelnen Objekten (Entitäten), [deren Beziehungen zueinander (Relationen)] und deren Eigenschaften (Attribute) gebildet ([http://geoinformatik.lehrewelt.de](http://geoinformatik.lehrewelt.de/raumliche-datenmodelle-zur-digitalen-abbildung-der-echtwelt/))
+- Ein (relationales) Datenmodell wird durch die Abstraktion von einzelnen Objekten (Entitäten), [deren Beziehungen zueinander (Relationen)] und deren Eigenschaften (Attribute) gebildet ([http://geoinformatik.lehrewelt.de](http://geoinformatik.lehrewelt.de/raumliche-datenmodelle-zur-digitalen-abbildung-der-echtwelt/))
+
+![https://upload.wikimedia.org/wikipedia/de/f/f3/Datenbanksystem.svg](https://upload.wikimedia.org/wikipedia/de/f/f3/Datenbanksystem.svg)
 
 
 ### Phasen der Datenmodellierung
