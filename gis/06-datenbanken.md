@@ -64,12 +64,12 @@ Es wird unterschieden in:
 
 ## Relationale Datenbanksysteme
 
-Eine relationale Datenbank beruht auf einem tabellenbasierten relationalen Datenbankmodell. 
+Eine **relationale Datenbank** beruht auf einem **tabellenbasierten relationalen Datenbankmodell** ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)):
 
-Eine relationale Datenbank kann man sich als eine Sammlung von *Tabellen (Relationen)* vorstellen. 
-Jede *Zeile (Tupel)* in einer Tabelle ist ein **Datensatz (Record)**. 
-Jede *Spalte (Attribute)* besteht aus einer Reihe von **Attributwerten (Attribute)**
-. ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)).
+- Eine relationale Datenbank kann man sich als eine Sammlung von **Tabellen (Relationen)** vorstellen.
+- Jede **Zeile (Tupel)** in einer Tabelle ist ein **Datensatz (Record)**. 
+- Jede **Spalte (Attribute)**besteht aus einer Reihe von **Attributwerten (Attribute)**
+.
 
 Datenbanksprache ist meistens SQL ()
 
