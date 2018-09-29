@@ -53,7 +53,7 @@ Das ERM besteht aus einer Grafik (ER-Diagramm) und einer Beschreibung der darin 
     - Typisierung gleichartiger Eigenschaften
     - z. B. Nachname, Vorname und Eintrittsdatum im Entitätstyp Angestellter.
 
-![https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg](https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg ':size=75%')
+![https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg](https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg ':size=50%')
 
 
 **Kardinalitäten**
