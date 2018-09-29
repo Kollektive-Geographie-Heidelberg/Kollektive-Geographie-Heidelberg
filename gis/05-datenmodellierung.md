@@ -4,8 +4,6 @@
 - Abbildung der realen Welt in abstrahierter, vereinfachter, strukturierter Weise
 - Ein (relationales) Datenmodell wird durch die Abstraktion von einzelnen Objekten (Entitäten), [deren Beziehungen zueinander (Relationen)] und deren Eigenschaften (Attribute) gebildet ([http://geoinformatik.lehrewelt.de](http://geoinformatik.lehrewelt.de/raumliche-datenmodelle-zur-digitalen-abbildung-der-echtwelt/))
 
-![https://upload.wikimedia.org/wikipedia/de/f/f3/Datenbanksystem.svg](https://upload.wikimedia.org/wikipedia/de/f/f3/Datenbanksystem.svg)
-
 
 ### Phasen der Datenmodellierung
 
@@ -55,7 +53,7 @@ Das ERM besteht aus einer Grafik (ER-Diagramm) und einer Beschreibung der darin 
     - Typisierung gleichartiger Eigenschaften
     - z. B. Nachname, Vorname und Eintrittsdatum im Entitätstyp Angestellter.
 
-![https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg](https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg)
+![https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg](https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg ':size=75%')
 
 
 **Kardinalitäten**

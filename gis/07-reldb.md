@@ -12,6 +12,18 @@ Eine **relationale Datenbank** beruht auf einem **tabellenbasierten relationalen
     - Dadurch ist es möglich bei Abfragen, Daten aus mehreren Tabellen zu kombinieren
 - Ein Datensatz muss eindeutig identifizierbar sein. Das geschieht über einen oder mehrere Schlüssel.
 
+| relationales Modell | informeller Begriff | Erklärung |
+| --- | --- | --- | 
+| Relation, Entitätstyp, Entitätsklasse | (table) | Eine Tabelle in einer Datenbank |
+| Tupel, Entität (tuple, entity) | Zeile (row) | Ein horizontaler Datensatz einer Tabelle in der Datenbank |
+| Beziehung (relationship) | | Beziehung einzelner Tupel zueinander |
+| Kardinalität (cardinality) | | Mengenangabe zur Beziehung einzelner Tupel (z. B. 1:1, 1:n, n:m) |
+| Attribut (attribute) | Spalte (column) | vertikaler Spaltenindex einer Tabelle |
+| Primärschlüssel (primary key)| | eindeutiger Identifikator |
+| Fremdschlüssel (foreign key) | | Schlüssel aus einer anderen Tabelle, um eine Beziehung herstellen zu können |
+
+Quelle: https://de.wikipedia.org/wiki/Relation_(Datenbank)
+
 
 ## Beziehungen
 
