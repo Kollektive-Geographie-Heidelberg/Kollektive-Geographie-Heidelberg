@@ -9,7 +9,6 @@
 - Linie oder Weg (Way)
 - Attribut (Tag)
 
-
 **Elemente**
 - Nodes
     - Punkt oder Knoten

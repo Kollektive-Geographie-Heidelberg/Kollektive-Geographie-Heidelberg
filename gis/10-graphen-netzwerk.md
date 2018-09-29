@@ -92,7 +92,7 @@ Quelle: https://github.com/rugbyprof/4553-Spatial-DS/wiki/Topological-Relationsh
 
 ## Distanzen in Netzwerken
 
-WIP
+> Work in Progress
 
 **Distanzfunktionen (Geometrische)**
 

@@ -7,6 +7,8 @@
 - [Datenbanken](gis/06-datenbanken.md)
 - [Relationale Datenbanken](gis/07-reldb.md)
 - [Geodatenbanken](gis/08-geodb.md)
+- [Graphen- und Netzwerkanalysen](gis/10-graphen-netzwerk.md)
+- [Exkurs - OpenStreetMap](gis/exkurs-osm.md)
 - [Klausur](gis/klausur.md)
 - [Klausur - Fragen](gis/klausur-fragen.md)
 - [Klausur - Antworten](gis/klausur-antworten.md)
