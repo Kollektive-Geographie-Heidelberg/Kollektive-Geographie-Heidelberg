@@ -11,7 +11,7 @@
 - organisiert intern die strukturierte Speicherung der Daten und kontrolliert alle lesenden und schreibenden Zugriffe auf die Datenbank ([Wikipedia](https://de.wikipedia.org/wiki/Datenbank))
 
 **Datenbanksystem (DBS)**
-- DB + DBS
+- DB + DBMS
 - Zur Abfrage und Verwaltung der Daten bietet ein Datenbanksystem eine Datenbanksprache an ([Wikipedia](https://de.wikipedia.org/wiki/Datenbank))
 
 **Datenbankmodell**
