@@ -103,49 +103,60 @@ Quelle: https://de.wikipedia.org/wiki/Adjazenzmatrix
 
 ## GIS Funktionen für Netzwerke
 
-- Werkzeuge zur Erstellung korrekter Netztopologien
-- Unterstützung von Kantengewichten
-- Katenübergänge (Turns)
+GIS beinhalten Werkzeuge zur Erstellung korrekter **Netztopologien**.
+
+- Unterstützung von **Kantengewichten**
+- **Katenübergänge (Turns)**
     - An Knoten bestehen mehrere Möglichkeiten, von einer Kante zur anderen zu wechseln
     - Modellierung von Abbiegevorschriften und Stops
-- Einzugsgebiet (Service Area)
-- Erreichbarkeitsanalyse (Isochronen)
+- **Einzugsgebiet (Service Area)**
+- **Erreichbarkeitsanalyse (Isochronen)**
     - Berrechnung eines Polygons, das das innerhalb einer vorgegeben Zeit zu erreichende Gebiet repräsentiert
-- Lokation-Allokation-Modellierung
+- **Lokation-Allokation-Modellierung**
     - Location-allocation refers to algorithms used primarily in a geographic information system to determine an optimal location for one or more facilities that will service demand from a given set of points ([Wikipedia](https://en.wikipedia.org/wiki/Location-allocation))
     - Wenn Einrichtungen, die Waren und Services bereitstellen, und verschiedene Bedarfspunkte, welche diese nutzen, gegeben sind, dann besteht das Ziel der Location-Allocation darin, diejenigen Einrichtungen zu suchen, die die Bedarfspunkte am effizientesten bedienen. Wie der Name bereits sagt, bezeichnet Location-Allocation eine Problemstellung mit zwei Aspekten, wobei gleichzeitig Einrichtungen gesucht und Bedarfspunkte den Einrichtungen zugeordnet werden. ([ArcMap Hilfe](https://desktop.arcgis.com/de/arcmap/latest/extensions/network-analyst/location-allocation.htm))
     - z.Bsp: Viele Einzelhandelsgeschäfte beziehen ihre Güter von Industriebetrieben. Gleichgültig, ob Autos, Küchengeräte oder Nahrungsmittel produziert werden, können für einen Industriebetrieb große Anteile seines Budgets auf Transportkosten entfallen. Location-Allocation kann die folgende Frage beantworten: Wo sollte sich der Industriebetrieb ansiedeln, um die Gesamttransportkosten zu minimieren? ([ArcMap Hilfe](https://desktop.arcgis.com/de/arcmap/latest/extensions/network-analyst/location-allocation.htm))
 
 
-## Distanzen in Netzwerken
+### Distanzen in Netzwerken
 
-> Work in Progress
-
-**Distanzfunktionen (Geometrische)**
-
+**Geometrische Distanzen**
 - Euklidische Metrik (Satz von Pythagoras)
 - Cityblockmetrik (N4-Nachbarschaftstyp)
 - Schachbrettmetrik (N8-Nachbarschaftstyp)
 
 Was ist die Distanz zwischen 2 Polygonen?
-
 - Minimal
 - Zentroid (Schwerpunkt)
 
-
-Distanzen in Netzwerken (topolog. Graphen)
-
+**Distanzen in Netzwerken (topolog. Graphen)**
 - Anzahl der Knoten eines Weges in einem Graph
 - Summe der Gewichte für Wegkosten auf Kanten zwischen Start- u. Zielknoten
 
 
-Raster vs. Vektor??
+### Routenplanung
 
-## Todo
+**Motivation**
+- ist der Wunsch, optimal im Sinne seiner persönlichen Bedürfnisse und der gewählten Fortbewegungsart von seinem Standort zu einem bestimmten Zielort zu gelangen.  
 
-- Typen von Netzwerkanalysen (bester Weg, beste Standorte (unter Nutzung von Einzugsgebieten), Idee TSP), GIS Funktionen f. Netzwerk e .
-- Distanzfunktionen
-- Adjazenzmatrix, 
-- Kantengewichte
-- Idee der individualisierten Routenplanung
-- Grundlagen Graphentheorie, (Begriffe verstehen und verwenden können ohne jeweils genaue Definition auswendig , diese wird nicht abgefragt
+**Bedüfnisse**
+- anzukommen
+- schnell
+- wenig Energie
+- wenig Gefahrenstellen
+- Zwischenziele
+
+**Fortbewegungsarten (Verkehrsmodalitäten)**
+- Fahrrad
+- Auto
+- zu Fuß
+- Schiff
+- Eisenbahn
+- Flugzeug
+- ...
+
+**Individualisierte Routenplanung**
+- Ermittlung der Kantenkosten mit einer anwenderspezifischen Formel
+- `Kantenkosten = α * Distanz + β * Steigung + γ * Panorama +...`
+    - Für Fahrradbote: α >> β >> γ
+    - Für Tourist: γ >> β >= α
