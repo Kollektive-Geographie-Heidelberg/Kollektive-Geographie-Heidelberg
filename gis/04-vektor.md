@@ -1,20 +1,25 @@
 # Vektordaten
 
+## Vektordatenmodell
+
 **Vektordaten** 
 - Daten entsprechend des Vektordatenmodells zur Abbildung von Punkten, Linien, Flächen und Körpern auf der Basis von Koordinaten. Neben den Koordinaten als Träger geometrischer Informationen können, je nach Datenformat, weitere objektbezogene Informationen in Form von topologischen, graphischen oder Sachdaten in einem Vektordatensatz enthalten sein ([Spektrum](https://www.spektrum.de/lexikon/kartographie-geomatik/vektordaten/5099)).
+
+**Vektordatenmodell**
 - Vektordaten beschreiben raumbezogene Objekte anhand von Punkten
 - Geeignet für diskrete Phänomene
 - Weniger geeignet für kontinuierliche Phänomene 
-
-**Vektordatenmodell** ([Spektrum](https://www.spektrum.de/lexikon/geographie/vektordaten/8542))
 - Im Vektordatenmodell wird ein *Punktobjekt* als einzelnes Koordinatenpaar (x/y) erfasst
     - Linieobjekte werden über Listen von Punkten repräsentiert
     - Polygone sind geschlossenen Linienzügen, sowie den Polygonzentroiden (Zentroid)
 - Jedes Objekt kann neben seiner Geometrie auch Eigenschaften besitzen (Attributdaten).
     - Im Gegensatz zum Rastermodell sind diese sog. Attributdaten mit dem Objekt selbst verknüpft.
 - Im Vektormodell unterscheidet man zwischen topologischen und nichttopologischen Datenstrukturen.
-    - Nichttopologische Datenstrukturen bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. 
+    - Nichttopologische Datenstrukturen (Spaghetti-Datenstrukturen) bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. 
     - Topologische Vektordaten enthalten hingegen zusätzlich Informationen über die räumlichen Beziehungen der Objekte.
+
+Quelle: ([Spektrum](https://www.spektrum.de/lexikon/geographie/vektordaten/8542))
+
 
 | Vorteil | Nachteile |
 | ------- | --------- |
@@ -24,6 +29,17 @@
 | Maßstabsunabhängig (keine Einschränkungen bei Zoom) | |
 
 The final advantage of vector data is that topology is inherent in the vector model. This topological information results in simplified spatial analysis (e.g., error detection, network analysis, proximity analysis, and spatial transformation) when using a vector model ([geographic information system basics](https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html)).
+
+
+### Nichttopologische vs. topologische Vektordatenstrukturen 
+
+**Nichttopologische Datenstrukturen**
+- Reihung von Koordinatenpaaren
+    - Punkte
+    - Linien (Reihe von Punkten, deren erster und letzter ungleiche Koordinaten besitzen)
+    - Polygonen (Reihe von Punkten, deren erste und letzte gleiche Koordinate besitzen)
+
+
 
 
 ## Analysemethoden
@@ -89,17 +105,15 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 - Serie von konzentrischen Pufferzonen (wie eine Zielscheibe) um ein Objekt.
 
 
-### Nächste-Nachbar-Analyse
-
-k-Nächste-Nachbar-Analyse (euklidische Distanz)
 ---
 
 
-
-**Work in Progress**
-
+## Work in Progress
 
 
+### Nächste-Nachbar-Analyse
+
+k-Nächste-Nachbar-Analyse (euklidische Distanz)
 
 
 ### Geometrisch: Geometrien vereinfachen

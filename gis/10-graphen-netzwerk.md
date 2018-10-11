@@ -160,3 +160,5 @@ Was ist die Distanz zwischen 2 Polygonen?
 - `Kantenkosten = α * Distanz + β * Steigung + γ * Panorama +...`
     - Für Fahrradbote: α >> β >> γ
     - Für Tourist: γ >> β >= α
+
+Siehe auch: https://maps.openrouteservice.org/
