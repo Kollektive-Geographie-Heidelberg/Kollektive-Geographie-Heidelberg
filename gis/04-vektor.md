@@ -15,8 +15,8 @@
 - Jedes Objekt kann neben seiner Geometrie auch Eigenschaften besitzen (Attributdaten).
     - Im Gegensatz zum Rastermodell sind diese sog. Attributdaten mit dem Objekt selbst verknüpft.
 - Im Vektormodell unterscheidet man zwischen topologischen und nichttopologischen Datenstrukturen.
-    - Nichttopologische Datenstrukturen (Spaghetti-Datenstrukturen) bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. 
-    - Topologische Vektordaten enthalten hingegen zusätzlich Informationen über die räumlichen Beziehungen der Objekte.
+    - Nichttopologische Datenstrukturen (Spaghetti-Datenstrukturen) bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. (nur Geometrie, keine Topologie)
+    - Topologische Vektordaten enthalten hingegen zusätzlich Informationen über die räumlichen Beziehungen der Objekte. (Geometrie und Topologie)
 
 Quelle: ([Spektrum](https://www.spektrum.de/lexikon/geographie/vektordaten/8542))
 
@@ -31,15 +31,56 @@ Quelle: ([Spektrum](https://www.spektrum.de/lexikon/geographie/vektordaten/8542)
 The final advantage of vector data is that topology is inherent in the vector model. This topological information results in simplified spatial analysis (e.g., error detection, network analysis, proximity analysis, and spatial transformation) when using a vector model ([geographic information system basics](https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html)).
 
 
-### Nichttopologische vs. topologische Vektordatenstrukturen 
+### Nichttopologische Vektordatenstrukturen (Spaghetti Modell)
 
-**Nichttopologische Datenstrukturen**
 - Reihung von Koordinatenpaaren
-    - Punkte
+    - Punkte (XY-Koordinaten)
     - Linien (Reihe von Punkten, deren erster und letzter ungleiche Koordinaten besitzen)
     - Polygonen (Reihe von Punkten, deren erste und letzte gleiche Koordinate besitzen)
 
 
+**Vor- und Nachtteile**
+- Vorteile
+    - einfache Datenstrukture
+- Nachteile
+    - Topologie nur implizit
+    - Fehleranfällig durch Redundanz
+
+![vektordatenmodell-spaghetti-3](bilder/vektordatenmodell-spaghetti-3.png)
+
+Quelle: Vorlesung - Einführung in die Geoinformatik (SS18)
+
+
+### Topologische Vektordatenstrukturen (Knoten- und Kantenstruktur)
+
+Speichert topologischen Beziehungen explizit
+
+- Adjazenz von Knoten und Kanten
+- Adjazenz von Kanten und Maschen
+- Adjazenz von Kanten und Kanten
+- Adjazenz von Maschen und Maschen
+
+Maschen = Polygone
+
+Adjazenz = Berühren, Aneinandergrenzen (Graphentheorie)
+
+Siehe auch [Graphen und Netzwerke](gis/10-graphen-netzwerke.md)
+
+**Knoten- und Kantenstruktur**
+- Knoten (XY-Koordinaten) werden gespeichert
+- Kanten (Knotenpaare und angrenzende Maschen) werden separat von Knoten gespeichert
+
+**Vor- und Nachtteile**
+- Vorteile
+    - Geometrie ist redundanzfrei
+    - Topologie ist explizit
+    - Bei Änderungen können Fehler leichter vermieden werden
+- Nachteil
+    - größere Rechenkapazität im vgl. zu zu nichttopologischen Datenstrukuturen wird gebracht
+
+![vektordatenmodell-topologisch](bilder/vektordatenmodell-topologisch-2.png)
+
+Quelle: Vorlesung - Einführung in die Geoinformatik (SS18)
 
 
 ## Analysemethoden
