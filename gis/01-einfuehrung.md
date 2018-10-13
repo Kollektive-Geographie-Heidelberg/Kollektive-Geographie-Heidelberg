@@ -114,4 +114,9 @@ Term 2 with *inline markup*
     Third paragraph of definition 2.
 
 
-
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+</dl>
