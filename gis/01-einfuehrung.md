@@ -93,30 +93,24 @@ models.
 
 
 
-Term 1
-  ~ Definition 1
+***Term 1***
+~ Definition 1
 
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
+***Term 2***
+~ Definition 2a
+~ Definition 2b
 
+***Term 1***
+    ~ Definition 1
 
-Term 1
-
-:   Definition 1
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
+***Term 2***
+    ~ Definition 2a
+    ~ Definition 2b
 
 
-<dl>
-  <dt>Lower cost</dt>
-  <dd>The new version of this product costs significantly less than the previous one!</dd>
-  <dt>Easier to use</dt>
-  <dd>We've changed the product so that it's much easier to use!</dd>
-</dl>
+Apple:
+  ~ Pomaceous fruit of plants of the genus Malus in the family Rosaceae.
+  ~ An american computer company.
+
+Orange:
+  ~ The fruit of an evergreen tree of the genus Citrus.
