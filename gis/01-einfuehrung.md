@@ -2,10 +2,12 @@
 
 ## Grundbegriffe
 
+
 **GIS**
 - Geographisches Informationssystem
 - a computerized system that can store, retrieve, manipulate, visualize and analyse spatial data
 - ermöglicht die Integration unterschiedlicher Arten von Daten in einem System
+
 
 **Informationssystem**
 - Erfassung
@@ -14,12 +16,14 @@
 - Verarbeitung
 - Wiedergabe
 
+
 **Datenverarbeitung**
 - Erfassung
 - Verwaltung
 - Analyse
 - Modellierung
 - Visualisierung
+
 
 **Geodaten (Spatial Data)**
 - Geographische Daten
@@ -30,8 +34,10 @@
     - Thematik
     - Dynamik
 
+
 **Geoobjekt (Features)**
 - Ein auf der Erde vorhandenes Objekt, das mittels Geodaten eindeutig referenzierbar ist ([Wikipedia](https://de.wikipedia.org/wiki/Geoobjekt)).
+
 
 **Attributdaten**
 - Eigenschaften eines Geoobjekte
@@ -39,15 +45,18 @@
 	- Bei Vektordaten in der Regel in konventionellen Datenbanken gespeichert
 	- Bei Rasterdaten entspricht der Wert des Attributs dem gespeicherten Wert der Rasterzelle
 
+
 **Layerprinzip**
 - Verschiedene Objekt-klassen oder Variablen in Schichtmodell (Layer) miteinander verknüpft
 - jede Geometrietyp (oder Attributklasse) wird in eigener Informationsschicht erfasst
+
 
 **EVAP**
 1. Erfassung
 2. Verwaltung
 3. Analyse
 4. Präsentation
+
 
 **Raumbezogene Datenanalyse**
 1. Geometrische-topologische Verfahren
