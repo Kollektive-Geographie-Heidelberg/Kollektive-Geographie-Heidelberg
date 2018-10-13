@@ -20,7 +20,7 @@ Aggregation und Generalisierung bilden Hierarchien aber:
 1. Aggregation bezieht Objekte aufeinander
 2. Generalisierung bezieht Klassen aufeinander
 
-![Aggregation-Generalisierung](bilder/aggregation-generalisierung-png)
+![Aggregation-Generalisierung](bilder/aggregation-generalisierung.png)
 
 
 **3.**

@@ -7,41 +7,41 @@ Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-r
 
 ## Abfragevarianten
 
-**Thematische Abfragen**
+***Thematische Abfragen***
 - Selektiert die Objekte, deren Eigenschaften (Attribute) die gestellten Bedingungen erfüllen. 
 
-**Geometrische Abfragen**
+***Geometrische Abfragen***
 - Selektiert die Objekte, die bestimmte räumliche Bedingungen erfüllen. 
 
-**Topologische Abfragen**
+***Topologische Abfragen***
 - Selektiert die Objekte, welche die gestellten Bedingungen bezüglich den räumlichen Beziehungen zwischen den Objekten erfüllen.
 
 
 ## Kategorien räumlicher Analyse
 
-- **Location**: Was ist Wo?
+- ***Location***: Was ist Wo?
     - Welche räumlichen (Fläche, Umrisslänge, Mittelpunkt etc.) und nicht-räumlichen Attribute besitzt ein Objekt (z.B. Einwohnerzahl einer Gemeinde).
-- **Condition**: Wo ist Was?
+- ***Condition***: Wo ist Was?
     - Auffinden von räumlichen Objekten mit bestimmten inhaltlichen Voraussetzungen (z.B. Gebäudekataster: Wo befinden sich sanierungsbedürftige Altbauten? ).
-- **Trend**: Zeitl. Entwicklung
+- ***Trend***: Zeitl. Entwicklung
     - Untersuchung von Entwicklungen mit Flächenverschneidungen (z.B. Ausweitung von besiedelter Fläche zu zwei verschiedenen Zeitpunkten).
-- **Pattern**: relevante Muster
+- ***Pattern***: relevante Muster
     - Untersuchung von raumbezogenen Korrelationen mit Flächenverschneidungen (z.B. Häufung bestimmter Erkrankungen in Abhängigkeit von emittierenden Betrieben).
-- **Routing**:
+- ***Routing***:
     - Netzwerkanalysen z.B. bei der Verkehrsplanung (z.B. Auffinden des kürzesten Wegs zwischen zwei Städten unter Benutzung ausschließlich von Bundesstrassen?).
-- **Modelling**: Prozesse ab(nach)bilden
+- ***Modelling***: Prozesse ab(nach)bilden
     - Gemeint ist die Modellierung von Raumszenarien (z.B. Simulation von Hochwasserereignissen).
 
 
 ## Auswahloperatoren
 
-**Vergleichende Operatoren**
+***Vergleichende Operatoren***
 - = (gleicht)
 - \> (größer)
 - < (kleiner)
 - <> (ungleich)
 
-**Arithmetische Operatoren**
+***Arithmetische Operatoren***
 - * (Multiplikation)
 - / (Division)
 - + (Addition)
@@ -49,7 +49,7 @@ Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-r
 - exp (Exponent)
 - % (Modulo)
 
-**Logische Operatoren**
+***Logische Operatoren***
 - AND ∧ (Schnittmenge)
 - OR ∨ (Vereinigungsmenge)
 - XOR (ausschließende (exklusive) Vereinigungsmenge)
@@ -58,7 +58,7 @@ Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-r
 
 ## Verschneidung
 
-**Verschneidung**
+***Verschneidung***
 - Gruppe grundlegender GIS-Funktionen, die ein digitales Zusammenführen (Kombination) von Geo- und Attributdaten mehrerer Themenebenen oder Objektklassen ermöglicht ([Geoinformatik - Uni Rostock](http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=1746))
 
 
@@ -78,13 +78,13 @@ Quelle: http://gitta.info/Suitability/de/html/BoolOverlay_learningObject2.html
 
 ### Geometrische Verschneidung
 
-**Operationen der Mengenlehre**
+***Operationen der Mengenlehre***
 - Vereinigung (Union) = OR
 - Schnitt (Intersection) = AND
 - Symmetrische Differenz (Symmetrical difference) = XOR
 - Mengen Differenz (Identity)
 
-**Arten der Verschneidung** 
+***Arten der Verschneidung*** 
 - Punkt-Fläche
 - Linie-Fläche
 - Fläche-Fläche

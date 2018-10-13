@@ -1,6 +1,6 @@
 # Rasterdaten
 
-**Rasterdatenmodell** 
+***Rasterdatenmodell*** 
 - Ein Datenmodell, in dem Bildinhalte (z.B. Fotos) oder räumliche Objekte als (quadratische) Rasterzellen in einer zweidimensionalen Datenmatrix abgebildet werden. ([Spektrum](https://www.spektrum.de/lexikon/geographie/rasterdaten/6416))
     - Ein Gitter (Grid) aus Zeilen und Spalten ([Wikipedia](https://de.wikipedia.org/wiki/Rasterdaten))
     - Eine Menge von Zellen (Pixel)
@@ -19,8 +19,8 @@
 | Vorteil | Nachteile |
 | ------- | --------- |
 | Technologisch schnelle und günstige Erfassung von Daten | großer Speicherplatzbedarf |
-| Einfache Datenstruktur und resultierend daraus einfache Abfrage- und Analysealgorithmen | Maßstabsabhängig (Einschränkungen bei Zoom) |
-| | Probleme in der Beschreibung linienhafter Objekte |
+| Einfache Datenstruktur | Maßstabsabhängig (Einschränkungen bei Zoom) |
+| einfache Abfrage- und Analysealgorithmen | Probleme in der Beschreibung linienhafter Objekte |
 | | Es gibt keine Information über die Beziehungen zu Nachbarobjekten (Topologie) |
 
 
@@ -59,18 +59,18 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 
 ## Analysemethoden: Karten Algebra (Map Algebra)
 
-**Definition**
+***Definition***
 - Methodengebäude und "Tool-Box" zur Kombination von zwei oder mehr Rasterdatensätzen oder Layern (Rasterdaten). 
 - Map algebra wendet mathematische Operationen auf komplette Rasterdatensätze an, wobei die jeweilige Operation für jede einzelne Rasterzelle in jedem Datensatz durchgeführt wird. 
     - Hierdurch lassen sich die als Zahlenmatrizen gespeicherten Informationsebenen miteinander verrechnen. ([Spektrum](https://www.spektrum.de/lexikon/geographie/map-algebra/4922<Paste>))
 
-**Mathematische Operationen**
+***Mathematische Operationen***
 - Arithmetisch
 - Logarithmisch (Log, ...)
 - Trigonometrisch (Sin, ...)
 - Power (Wurzel, ...)
 
-**Typen der Operatoren**
+***Typen der Operatoren***
 - Lokal
 	- Punktoperationen (Pixel)
 - Fokal
@@ -84,7 +84,7 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 
 ### Nachbarschaften
 
-**Definition**
+***Definition***
 - größere Zonen auf Basis von Distanzen und/oder Richtungen.
 
 - N4-Nachbarschaft 
@@ -92,13 +92,13 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 - N8-Nachbarschaft
     - Lateraler Nachbar *und* Diagonaler Nachbar
 
-**Beispiel: Minesweeper**
+***Beispiel: Minesweeper***
 - als klassisches Beispiel einer 3 x 3- Zellen Nachbarschaftsanalyse: Jeder Zellwert (Nummer) gibt die Anzahl der Bomben innerhalb einer 3-Zellen-Nachbarschaft an.
 
 
 ### Analyse Prinzip
 
-**Verschneidung**
+***Verschneidung***
 
 *Gegeben* sind zwei Raster. Ein thematisches Raster mit Landnutzungsinformationen (Wald, Wasser, Agrar, etc.)) und ein kontinuierliches Raster mit Vegetationsindex.
 

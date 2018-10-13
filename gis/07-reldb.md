@@ -39,7 +39,7 @@ Eine Bibliothekdatenbank könnte damit etwa folgendermaßen mit drei Tabellen im
 
 - Die Attribute wären zum Beispiel: Nutzer-ID, Vorname, Nachname.<Paste>
 
-![Tabellen](gis/relation-table.png)
+![Tabellen](bilder/relation-table.png)
 
 Außerdem braucht man eine dritte *Tabelle Entliehen*, die Informationen über die Verfügbarkeit des Buches enthält.
 

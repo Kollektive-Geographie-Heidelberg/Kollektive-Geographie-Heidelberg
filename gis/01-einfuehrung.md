@@ -2,12 +2,9 @@
 
 ## Grundbegriffe
 
-
 ***GIS***
 - Geographisches Informationssystem
 - a computerized system that can store, retrieve, manipulate, visualize and analyse spatial data
-- ermöglicht die Integration unterschiedlicher Arten von Daten in einem System
-
 
 ***Informationssystem***
 - Erfassung
@@ -15,15 +12,6 @@
 - Aktualisierung
 - Verarbeitung
 - Wiedergabe
-
-
-***Datenverarbeitung***
-- Erfassung
-- Verwaltung
-- Analyse
-- Modellierung
-- Visualisierung
-
 
 ***Geodaten (Spatial Data)***
 - Geographische Daten
@@ -34,34 +22,24 @@
     - Thematik
     - Dynamik
 
-
 ***Geoobjekt (Features)***
 - Ein auf der Erde vorhandenes Objekt, das mittels Geodaten eindeutig referenzierbar ist ([Wikipedia](https://de.wikipedia.org/wiki/Geoobjekt)).
 
-
 ***Attributdaten***
-- Eigenschaften eines Geoobjekte
+- (nicht geometrischen) Eigenschaften eines Geoobjekte
 - Daten ohne spezifischen Raumbezug ([Spektrum](https://www.spektrum.de/lexikon/geographie/attributdaten/558))
-	- Bei Vektordaten in der Regel in konventionellen Datenbanken gespeichert
 	- Bei Rasterdaten entspricht der Wert des Attributs dem gespeicherten Wert der Rasterzelle
-
+	- Bei Vektordaten in der Regel in konventionellen Datenbanken gespeichert
 
 ***Layerprinzip***
 - Verschiedene Objekt-klassen oder Variablen in Schichtmodell (Layer) miteinander verknüpft
 - jede Geometrietyp (oder Attributklasse) wird in eigener Informationsschicht erfasst
-
 
 ***EVAP***
 1. Erfassung
 2. Verwaltung
 3. Analyse
 4. Präsentation
-
-
-***Raumbezogene Datenanalyse***
-1. Geometrische-topologische Verfahren
-2. Statistische Analysen und Mengenoperatoren
-3. Modellierung und Simulation
 
 
 ## Anwendungsfelder und GIS-Typen
@@ -82,20 +60,17 @@ Quelle: http://www.geoinformation.net/lernmodule/folien/Lernmodul_03/Lerneinheit
 
 ## Raummodelle 
 
-In order to visualize natural phenomena, one must first determine how to best
-represent geographic space. Data models are a set of rules and/or constructs used
-to describe and represent aspects of the real world in a computer. Two primary data
-models are available to complete this task: raster data models and vector data
-models.
+In order to visualize natural phenomena, one must first determine how to best represent geographic space.
+Data models are a set of rules and/or constructs used to describe and represent aspects of the real world in a computer.
+Two primary data models are available to complete this task: raster data models and vector data models.
 
 ***Ziel von GIS***
-- rechnergestützte raumbezogene Analysen mit Geodaten erforderlich: digitales Modell der „Wirklichkeit“
+- rechnergestützte raumbezogene Analysen mit Geodaten. Dazu ist erforderlich: Ein digitales Modell der „Wirklichkeit“.
 
 ***Modelle***
-1. Vektormodell
-    - Welt als leerer Raum, der mit diskreten Objekten (Entitäten) angefüllt ist
-    - Vector data models use points and their associated X, Y coordinate pairs to represent the vertices of spatial features,
-    - hree fundamental vector types exist in geographic information systems (GISs): points, lines, and polygons
-2. Rastermodell
+- Rastermodell
     - Welt als Reihe von Variablen, die an jeder Stelle einen Wert annehmen
-    - The raster data model consists of rows and columns of equally sized pixels interconnected to form a planar surface.
+    - Siehe auch Kapitel: [Raster](gis/03-raster.md)
+- Vektormodell
+    - Welt als leerer Raum, der mit diskreten Objekten (Entitäten) angefüllt ist
+    - Siehe auch Kapitel: [Vektor](gis/04-vektor.md)

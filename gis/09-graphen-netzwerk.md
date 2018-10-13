@@ -157,8 +157,8 @@ Was ist die Distanz zwischen 2 Polygonen?
 
 **Individualisierte Routenplanung**
 - Ermittlung der Kantenkosten mit einer anwenderspezifischen Formel
-- `Kantenkosten = α * Distanz + β * Steigung + γ * Panorama +...`
-    - Für Fahrradbote: α >> β >> γ
-    - Für Tourist: γ >> β >= α
+- `Kantenkosten = x * Distanz + y * Steigung + z * Panorama +...`
+    - Für Fahrradbote: x >> y >> z
+    - Für Tourist: z >> y >= x
 
 Siehe auch: https://maps.openrouteservice.org/
