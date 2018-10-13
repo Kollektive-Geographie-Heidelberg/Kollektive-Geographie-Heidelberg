@@ -3,13 +3,13 @@
 ## Grundbegriffe
 
 
-**GIS**
+***GIS***
 - Geographisches Informationssystem
 - a computerized system that can store, retrieve, manipulate, visualize and analyse spatial data
 - ermöglicht die Integration unterschiedlicher Arten von Daten in einem System
 
 
-**Informationssystem**
+***Informationssystem***
 - Erfassung
 - Speicherung
 - Aktualisierung
@@ -17,7 +17,7 @@
 - Wiedergabe
 
 
-**Datenverarbeitung**
+***Datenverarbeitung***
 - Erfassung
 - Verwaltung
 - Analyse
@@ -25,7 +25,7 @@
 - Visualisierung
 
 
-**Geodaten (Spatial Data)**
+***Geodaten (Spatial Data)***
 - Geographische Daten
 - Informationen über die Lage und Form (Geometriedaten) einer Erscheinung (Objekt) auf der Erdoberfläche und über die (nicht geometrischen) Eigenschaften (Attributdaten) dieser Erscheinung ([Spektrum](https://www.spektrum.de/lexikon/geographie/geographische-daten/2928)).
 - Geodaten beschreiben folgende Merkmale von Geoobjekten:
@@ -35,30 +35,30 @@
     - Dynamik
 
 
-**Geoobjekt (Features)**
+***Geoobjekt (Features)***
 - Ein auf der Erde vorhandenes Objekt, das mittels Geodaten eindeutig referenzierbar ist ([Wikipedia](https://de.wikipedia.org/wiki/Geoobjekt)).
 
 
-**Attributdaten**
+***Attributdaten***
 - Eigenschaften eines Geoobjekte
 - Daten ohne spezifischen Raumbezug ([Spektrum](https://www.spektrum.de/lexikon/geographie/attributdaten/558))
 	- Bei Vektordaten in der Regel in konventionellen Datenbanken gespeichert
 	- Bei Rasterdaten entspricht der Wert des Attributs dem gespeicherten Wert der Rasterzelle
 
 
-**Layerprinzip**
+***Layerprinzip***
 - Verschiedene Objekt-klassen oder Variablen in Schichtmodell (Layer) miteinander verknüpft
 - jede Geometrietyp (oder Attributklasse) wird in eigener Informationsschicht erfasst
 
 
-**EVAP**
+***EVAP***
 1. Erfassung
 2. Verwaltung
 3. Analyse
 4. Präsentation
 
 
-**Raumbezogene Datenanalyse**
+***Raumbezogene Datenanalyse***
 1. Geometrische-topologische Verfahren
 2. Statistische Analysen und Mengenoperatoren
 3. Modellierung und Simulation
@@ -88,10 +88,10 @@ to describe and represent aspects of the real world in a computer. Two primary d
 models are available to complete this task: raster data models and vector data
 models.
 
-**Ziel von GIS**
+***Ziel von GIS***
 - rechnergestützte raumbezogene Analysen mit Geodaten erforderlich: digitales Modell der „Wirklichkeit“
 
-**Modelle**
+***Modelle***
 1. Vektormodell
     - Welt als leerer Raum, der mit diskreten Objekten (Entitäten) angefüllt ist
     - Vector data models use points and their associated X, Y coordinate pairs to represent the vertices of spatial features,
