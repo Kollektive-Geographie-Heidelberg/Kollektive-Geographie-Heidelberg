@@ -57,7 +57,7 @@ Pyramiden werden zur Verbesserung der Performance verwendet. Sie sind eine reduz
 Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für die Anzeige erforderlichen Daten in der vorgegebenen Auflösung abgerufen werden.
 
 
-## Karten Algebra (Map Algebra)
+## Analysemethoden: Karten Algebra (Map Algebra)
 
 **Definition**
 - Methodengebäude und "Tool-Box" zur Kombination von zwei oder mehr Rasterdatensätzen oder Layern (Rasterdaten). 
@@ -82,7 +82,7 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 	- Thematisch/ komplette Ebene
 
 
-## Nachbarschaften
+### Nachbarschaften
 
 **Definition**
 - größere Zonen auf Basis von Distanzen und/oder Richtungen.
@@ -96,7 +96,7 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
 - als klassisches Beispiel einer 3 x 3- Zellen Nachbarschaftsanalyse: Jeder Zellwert (Nummer) gibt die Anzahl der Bomben innerhalb einer 3-Zellen-Nachbarschaft an.
 
 
-## Analyse Prinzip
+### Analyse Prinzip
 
 **Verschneidung**
 
@@ -112,5 +112,3 @@ Pyramiden können die Anzeige von Raster-Daten beschleunigen, da nur die für di
     - Setze alle anderen Pixel auf den Wert 0
 - Verschneidung
     - Verschneide beide Raster (logisches AND)
-
-

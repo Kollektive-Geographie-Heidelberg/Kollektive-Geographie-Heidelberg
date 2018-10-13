@@ -57,10 +57,10 @@
 
 ## Anwendungsfelder und GIS-Typen
 
-![Anwendungsfelder](bilder/anwendungen.md)
+![Anwendungsfelder](bilder/anwendungen.png)
 Quelle: http://www.geoinformation.net/lernmodule/folien/Lernmodul_03/Lerneinheit01/index.html
 
-![GIS-Typen](bilder/gis-typen.md)
+![GIS-Typen](bilder/gis-typen.png)
 Quelle: http://www.geoinformation.net/lernmodule/folien/Lernmodul_03/Lerneinheit01/index.html
 
 - LIS = Land(schafts)informationssystem (z.B. zur Naturraumausstattung)
@@ -90,3 +90,14 @@ models.
 2. Rastermodell
     - Welt als Reihe von Variablen, die an jeder Stelle einen Wert annehmen
     - The raster data model consists of rows and columns of equally sized pixels interconnected to form a planar surface.
+
+
+
+Term 1
+  ~ Definition 1
+
+Term 2
+  ~ Definition 2a
+  ~ Definition 2b
+
+

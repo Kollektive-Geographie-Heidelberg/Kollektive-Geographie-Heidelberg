@@ -67,7 +67,7 @@ Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-r
 Verschneidung auf binärer Informationsebene (wahr/falsch).
 
 | Operator | Operatorname | Beschreibung | Beispiel |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | AND |	Schnittmenge | Ergibt „wahr“ für alle Gebiete, die sowohl das erste als auch das zweite Kriterium erfüllen. | „Welche Gebiete sind bewaldet und steil?“ |
 | OR | Vereinigung | Ergibt „wahr“ für alle Gebiete, die entweder das erste oder das zweite Kriterium erfüllen, unabhängig davon, ob sich die Gebiete überlagern oder nicht. Anders ausgedrückt, muss mindestens eines der beiden Kriterien „wahr“ sein. | „Welche Gebiete sind bewaldet oder steil?“ |
 | XOR | exklusive Vereinigung | Ergibt „wahr“ für alle Gebiete, die entweder das erste oder das zweite Kriterium erfüllen, aber nicht beide. | „Welche Gebiete sind entweder bewaldet oder steil, aber nicht beides?“ |

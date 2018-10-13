@@ -146,6 +146,17 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 - Serie von konzentrischen Pufferzonen (wie eine Zielscheibe) um ein Objekt.
 
 
+### Topologische Fehler 
+
+**Sliver Polygone** sind fehlerhaft entstandene Restflächen, die beim räumlichen Verschneiden verschiedener Datenebenen entstehen ([Wikipedia](https://de.wikipedia.org/wiki/Sliver_Polygon)). Zwei Kanten von Polygonen treffen nicht genau aufeinander.
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/3b/Slivers.PNG)
+
+Weitere Fehler sind Offene Polygone, Undershots und Overshots.
+
+![https://2012books.lardbucket.org/books/geographic-information-system-basics/section_08/3ba85e9e19d4d0bd2507b634cc52de46.jpg](https://2012books.lardbucket.org/books/geographic-information-system-basics/section_08/3ba85e9e19d4d0bd2507b634cc52de46.jpg)
+
+
 ---
 
 
@@ -168,12 +179,5 @@ zur geometrischen Vereinfachung.
 
 Änderung des Darstellungsmaßstabes und Einsparung von
 Speicherplatz (weniger Punkte).
-
-
-### Sliver Polygons (Fehlerkorrektur)
-
-Sliver Polygone sind fehlerhaft entstandene Restflächen, die beim räumlichen Verschneiden verschiedener Datenebenen entstehen ([Wikipedia](https://de.wikipedia.org/wiki/Sliver_Polygon))
-
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/3b/Slivers.PNG)
 
 

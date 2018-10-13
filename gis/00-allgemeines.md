@@ -3,6 +3,9 @@
 **Modul**
 - Methoden der Geographie III: Geogr. Informationssysteme (GIS)
 
+**Semester**
+- SS18
+
 
 ## Übung
 
@@ -34,5 +37,4 @@
 
 ## Tools
 
-**Siehe:**
-- http://kollektive-geographie-heidelberg.de/#/geographie-ressourcen/tools
+Siehe: http://kollektive-geographie-heidelberg.de/#/geographie-ressourcen/tools
