@@ -90,19 +90,3 @@ models.
 2. Rastermodell
     - Welt als Reihe von Variablen, die an jeder Stelle einen Wert annehmen
     - The raster data model consists of rows and columns of equally sized pixels interconnected to form a planar surface.
-
-
-
-***Term 1***
-~ Definition 1
-
-***Term 2***
-~ Definition 2a
-~ Definition 2b
-
-***Apple:***
-  ~ Pomaceous fruit of plants of the genus Malus in the family Rosaceae.
-  ~ An american computer company.
-
-***Orange:***
-  ~ The fruit of an evergreen tree of the genus Citrus.
