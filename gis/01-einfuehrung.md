@@ -96,19 +96,13 @@ models.
 ***Term 1***
 ~ Definition 1
 
-
 ***Term 2***
-
 ~ Definition 2a
 ~ Definition 2b
 
-
 ***Apple:***
-
   ~ Pomaceous fruit of plants of the genus Malus in the family Rosaceae.
   ~ An american computer company.
 
-
 ***Orange:***
-
   ~ The fruit of an evergreen tree of the genus Citrus.
