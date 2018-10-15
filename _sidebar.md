@@ -5,10 +5,11 @@
 - [Inhalte bearbeiten](about/contribute.md)
 - [Kontakt](about/kontakt.md)
 
-**Geographie und Geographie in Heidelberg**
-- [Gemeinsames studieren](gemeinsames-studieren/alternativer-messenger.md)
-- [Geographie Ressourcen](geographie-ressourcen/geographie-heidelberg.md)
-- [Altklausuren](altklausuren/altklausuren.md)
+**Geographie Resourcen und Geographie in Heidelberg**
+- [Geographie in Heidelberg](geographie-ressourcen/geographie-heidelberg.md)
+- [Altklausuren](geographie-ressourcen/altklausuren.md)
+- [Tools](geographie-ressourcen/tools.md)
+- [Datasets](geographie-ressourcen/datasets.md)
 
 **Wissenschaftliches Arbeiten**
 - [Layout](wissenschaft/layout.md)
@@ -16,9 +17,6 @@
 - [Bibliographie & Verzeichnisse](wissenschaft/bibliographie.md)
 - [Vorlage](wissenschaft/vorlage.md)
 - [LaTeX](wissenschaft/latex.md)
-
-**Wissenschaftsphilosophie**
-- [A dream of socrates](wissenschaftsphilosophie/a-dream-of-scrates.md)
 
 **Vorlesungen**
 - [Klimageographie](klimageographie/00-allgemeines.md)

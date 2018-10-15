@@ -1,12 +1,12 @@
 **Hallo :)** 
 
-Ich bin Matthias. Ich studiere seit dem Wintersemester 2016/17 Geographie und Informatik an der Universität Heidelberg. Diese Webseite ist mein kleines Projekt während dem Studium. Hier sammel ich Informationen über die Geographie im Allgemeinen und über das Studium der Geographie in Heidelberg. Desweiteren stelle ich hier meine Zusammenfassungen der Vorlesungen zur Verfügung. Mehr zu meiner Motivation findest du [hier](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.html).
+Ich studiere seit dem Wintersemester 2016/17 Geographie und Informatik an der Universität Heidelberg. Diese Webseite ist mein kleines Projekt während dem Studium. Hier trage ich Informationen über die Geographie im Allgemeinen und über das Studium der Geographie in Heidelberg zusammen. Des weiteren stelle ich hier meine Zusammenfassungen der Vorlesungen zur Verfügung. Mehr zu meiner Motivation findest du [hier](http://kollektive-geographie-heidelberg.de/about/ziele-motivation.html).
 
 **Was ist Kollektive Geographie Heidelberg?**
 
 Diese Webseite ist eine [Wissendatenbank](https://de.wikipedia.org/wiki/Wissensdatenbank) (Knowledge Base) für das Studium der Geographie in Heidelberg.
 
-Hier werden [Resourcen](http://kollektive-geographie-heidelberg.de/geographie-ressourcen/altklausuren.html) (Altklausuren, Veranstaltungen und weitereführende Links) rund um die Geographie gesammelt. Außerdem werden hier Definitionen und knappe, stichwortartige Zusammenfassungen der Vorlesungen bereit gestellt.
+Hier werden [Resourcen](http://kollektive-geographie-heidelberg.de/#/geographie-ressourcen/geographie-heidelberg) (Tools, Datasets, Linksammlungen, etc.) rund um die Geographie gesammelt. Außerdem werden hier Definitionen und knappe, stichwortartige Zusammenfassungen der Themen aus den Vorlesungen bereit gestellt.
 
 **Für wen ist diese Webseite?**
 

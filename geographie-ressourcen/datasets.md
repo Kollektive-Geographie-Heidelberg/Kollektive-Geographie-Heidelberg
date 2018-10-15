@@ -109,3 +109,8 @@ https://www.zensus2011.de/DE/Home/home_node.html
 
 **OffeneDaten.de**
 - https://offenedaten.de/
+
+**Terrain Datasets**
+- Our mission for this project is to collect the best available freely-available terrain datasets for the entire world, and developing the cloud-based tools and workflow to process that data. 
+- https://github.com/openterrain/openterrain
+- https://github.com/openterrain/openterrain/wiki/Terrain-Data

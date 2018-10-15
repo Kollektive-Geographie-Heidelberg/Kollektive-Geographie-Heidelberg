@@ -4,7 +4,7 @@
 
 - http://www.geog.uni-heidelberg.de/institut/veranstaltungen.html
 
-**Arbeitskreis *Kritische Geographie Heidelberg***
+**Arbeitskreis: Kritische Geographie Heidelberg**
 
 - https://kritischegeoheidelberg.wordpress.com/
 
@@ -12,7 +12,7 @@
 
 - http://hgg.sai.uni-heidelberg.de/
 
-**Heidelberger Institut für Internationale Konfliktforschung (HIIK) **
+**Heidelberger Institut für Internationale Konfliktforschung (HIIK)**
 
 - http://hiik.de/de/
 
@@ -33,3 +33,16 @@
 
 - Nachhaltige Stadtentwicklung in der Wissensgesellschaft
 - http://www.geog.uni-heidelberg.de/hca/urbanoffice.html
+
+
+## Linksammlung
+
+**Existierende Linksammlungen und Infromationen**
+
+Eine umfangreiche Linksammlung der Universität Heidelberg und der Praktikumsinitiative Geographie findet sich hier:
+- http://www.geog.uni-heidelberg.de/links.html
+
+Informationen zu Auslandsstudium und Praktikum gibt es auf der Webseite des Geographischen Institutes:
+- http://www.geog.uni-heidelberg.de/studium/imstudium/ausland.html
+
+
