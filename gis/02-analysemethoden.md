@@ -2,7 +2,7 @@
 
 Dieses Kapitel ist unabhängig von den Datenmodellen (Rasterdatenmodell und Vektrodatenmodell).
 
-Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-raster.md) oder [Vektordaten](gis/04-vektor).
+Siehe in den jeweiligen Kapiteln für Analysemethoden von [Rasterdaten](gis/03-raster.md) oder [Vektordaten](gis/04-vektor.md).
 
 
 ## Abfragevarianten

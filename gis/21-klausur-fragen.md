@@ -1,8 +1,5 @@
 # Klausur - Fragen
 
-> siehe auch: [Klausur - Antworten](gis/klausur-antworten.md)
-
-
 ## WS 12/13
 
 1. Metadaten werden in syntaktische, semantische und pragmatische Metadaten unterteilt. Nennen sie je zwei explizite geographische Beispiele pro Kategorie.

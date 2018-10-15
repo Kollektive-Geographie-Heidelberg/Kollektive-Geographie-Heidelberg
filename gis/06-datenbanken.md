@@ -21,7 +21,7 @@
     - Netzwerk (Many-to-many)
     - Relational (Tabellenbasiert)
 
-![https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/500px-Datenbanksystem.svg.png](https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/500px-Datenbanksystem.svg.png)
+![https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/274px-Datenbanksystem.svg.png](https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/274px-Datenbanksystem.svg.png)
 
 ***Datenunabhängigkeit***
 - Der Grad den ein Benutzer auf die Daten eines Datenbanksystems zugreifen kann, ohne Details der systemtechnischen Realisierung der Datenspeicherung und des Datenzugriffs zu kennen ([Wikipedia](https://de.wikipedia.org/wiki/Datenunabh%C3%A4ngigkeit))

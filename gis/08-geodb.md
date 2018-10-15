@@ -5,7 +5,7 @@ Geodatenbanken unterstützen in logischer und interner Schicht räumliche...
 - Abfragen
 - Bezugssystemen
 
-Konventionelle Datenbanken können Geodaten nicht effizient verwalten. Daher gibt es für viele Datenbanken Erweiterungen für die Verwaltung von Geodaten.  ([Wikipedia](https://de.wikipedia.org/wiki/Geoinformationssystem#Geodatenbanken))
+Konventionelle Datenbanken können Geodaten nicht effizient verwalten. Daher gibt es für viele Datenbanken Erweiterungen für die Verwaltung von Geodaten ([Wikipedia](https://de.wikipedia.org/wiki/Geoinformationssystem#Geodatenbanken)).
 
 ***Problem***
 1. Geometrien mithilfe von atomaren Datentypen in einer DB abzuspeichern ist aufgrund der Eigenschaften von Geometrien nicht effizient
@@ -37,7 +37,7 @@ Die Spezifikation definiert für DBMS:
 
 ### Geometrie Klassenmodell
 
-Folgende instanziierbare Klassen beinhaltet das Modell ([Wikipedia](https://de.wikipedia.org/wiki/Simple_Feature_Access))
+Folgende instanziierbare Klassen beinhaltet das Modell ([Wikipedia](https://de.wikipedia.org/wiki/Simple_Feature_Access)):
 
 - Punkte (Point)
 - Linien (LineString)
@@ -52,7 +52,7 @@ Folgende instanziierbare Klassen beinhaltet das Modell ([Wikipedia](https://de.w
 
 ### Repräsentation der Geometrie (Well-known Text (WKT))
 
-Die Well-known-Text-Repräsentation wird vor allem dazu verwendet, um die Geometrie alphanumerisch darstellen zu können ([Wikipedia](https://de.wikipedia.org/wiki/Simple_Feature_Access))
+Die Well-known-Text-Repräsentation wird vor allem dazu verwendet, um die Geometrie alphanumerisch darstellen zu können ([Wikipedia](https://de.wikipedia.org/wiki/Simple_Feature_Access)).
 
 
 ***Punkt***

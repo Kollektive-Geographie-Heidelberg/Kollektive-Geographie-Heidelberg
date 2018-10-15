@@ -60,4 +60,4 @@ Das [OGC](http://www.opengeospatial.org/standards) ist ein internationales Konso
     - visualisiert (Zuschneidung und inhaltliche Aufbereitung) Karten aus Rasterdaten oder Vektordaten
     - gibt meist Raster-Grafikformate zurück
 
-![Wikipedia - WFS](https://upload.wikimedia.org/wikipedia/commons/9/9b/WFS.png)
+![Wikipedia - WFS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WFS.png/561px-WFS.png)

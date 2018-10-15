@@ -154,29 +154,3 @@ Das Erzeugen eines Polygonlayers, welcher eine Zone (oder mehrerer Zonen) mit ei
 Weitere Fehler sind Offene Polygone, Undershots und Overshots.
 
 ![https://2012books.lardbucket.org/books/geographic-information-system-basics/section_08/3ba85e9e19d4d0bd2507b634cc52de46.jpg](https://2012books.lardbucket.org/books/geographic-information-system-basics/section_08/3ba85e9e19d4d0bd2507b634cc52de46.jpg)
-
-
----
-
-
-## Work in Progress
-
-
-### Nächste-Nachbar-Analyse
-
-k-Nächste-Nachbar-Analyse (euklidische Distanz)
-
-
-### Geometrisch: Geometrien vereinfachen
-
-Problemstellung:
-Ihre Geometrien sind für einen gewünschten
-kartographischen Darstellungsmaßstab zu detailliert.
-Lösung:
-Vereinfachung über (z.B.) den Douglas-Peucker-Algorithmus
-zur geometrischen Vereinfachung.
-
-Änderung des Darstellungsmaßstabes und Einsparung von
-Speicherplatz (weniger Punkte).
-
-

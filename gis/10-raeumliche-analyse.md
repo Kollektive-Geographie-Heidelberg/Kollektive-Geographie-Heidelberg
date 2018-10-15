@@ -169,11 +169,3 @@ In IDW hängt die Gewichtung λi ausschließlich von der Entfernung zur vorherge
 
 ***Weitere Informationen***
 - https://desktop.arcgis.com/de/arcmap/10.3/tools/3d-analyst-toolbox/how-kriging-works.htm
-
-
----
-
-
-## Work in Progress (wip)
-
-- Bedeutung von Trend und Covariaten für die Interpolation

@@ -1,9 +1,9 @@
 # Allgemeines
 
-**Modul**
+***Modul***
 - Methoden der Geographie III: Geogr. Informationssysteme (GIS)
 
-**Semester**
+***Semester***
 - SS18
 
 
@@ -18,19 +18,19 @@
 
 ## GIS Software
 
-**QGIS**
+***QGIS***
 - https://qgis.org/de/site/
 
-**ArcGIS**
+***ArcGIS***
 - https://www.arcgis.com/features/index.html
 
 
 ## Literatur & weiterführende Materialien
 
-**Geographic Information System Basics** (kostenlos)
+***Geographic Information System Basics*** (kostenlos)
 - https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html
 
-**ArcGIS - Hilfe**
+***ArcGIS - Hilfe***
 - Durchsuche die Hilfe nach Begriffe (Fachwörter, Konzepte, etc.)
 - https://desktop.arcgis.com/de/arcmap/
 
