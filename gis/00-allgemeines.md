@@ -6,6 +6,10 @@
 ***Semester***
 - SS18
 
+***Download***
+- Download die Rubrik "Geographische Informationssysteme" als PDF
+- [gis.pdf](gis/gis.pdf)
+
 
 ## Übung
 
