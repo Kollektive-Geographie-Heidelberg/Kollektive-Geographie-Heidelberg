@@ -5,7 +5,7 @@
 - [Inhalte bearbeiten](about/contribute.md)
 - [Kontakt](about/kontakt.md)
 
-**Geographie Resourcen und Geographie in Heidelberg**
+**Geographie Resourcen**
 - [Geographie in Heidelberg](geographie-ressourcen/geographie-heidelberg.md)
 - [Altklausuren](geographie-ressourcen/altklausuren.md)
 - [Tools](geographie-ressourcen/tools.md)
