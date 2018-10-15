@@ -2,19 +2,19 @@
 
 ## Begriffe
 
-**Datenbank (DB)**
+***Datenbank (DB)***
 - Strukturierte Sammlung von Daten
 - Menge der zu verwaltenden Daten
 
-**Datenbankmanagementsystem (DBMS)**
+***Datenbankmanagementsystem (DBMS)***
 - Verwaltungsoftware
 - organisiert intern die strukturierte Speicherung der Daten und kontrolliert alle lesenden und schreibenden Zugriffe auf die Datenbank ([Wikipedia](https://de.wikipedia.org/wiki/Datenbank))
 
-**Datenbanksystem (DBS)**
+***Datenbanksystem (DBS)***
 - DB + DBMS
 - Zur Abfrage und Verwaltung der Daten bietet ein Datenbanksystem eine Datenbanksprache an ([Wikipedia](https://de.wikipedia.org/wiki/Datenbank))
 
-**Datenbankmodell**
+***Datenbankmodell***
 - Das Datenbankmodell bestimmt, in welcher Struktur Daten in einem Datenbanksystem gespeichert werden ([Wikipedia](https://de.wikipedia.org/wiki/Datenbankmodell))
 - Modelle
     - Hierarchisch (One-to-many association across levels; z.Bsp. Stammbaum)
@@ -23,7 +23,7 @@
 
 ![https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/500px-Datenbanksystem.svg.png](https://upload.wikimedia.org/wikipedia/de/thumb/f/f3/Datenbanksystem.svg/500px-Datenbanksystem.svg.png)
 
-**Datenunabhängigkeit**
+***Datenunabhängigkeit***
 - Der Grad den ein Benutzer auf die Daten eines Datenbanksystems zugreifen kann, ohne Details der systemtechnischen Realisierung der Datenspeicherung und des Datenzugriffs zu kennen ([Wikipedia](https://de.wikipedia.org/wiki/Datenunabh%C3%A4ngigkeit))
 - Benutzer interagiert nicht direkt mit Daten, sondern mit Repräsentation der Daten über standardisierte Datenbanksprache
 - *Physische Datenunabhängigkeit*
@@ -56,11 +56,11 @@ Quelle: https://de.wikipedia.org/wiki/Datenbank
 
 ### Transaktion
 
-**Transaktionen**
+***Transaktionen***
 - Ermöglichung des Mehrbenutzerbetriebs durch das Transaktionskonzept
 - Daten gegen *Race Conditions* durch den parallelen Zugriff mehrerer Benutzer schützten
 
-**Eigenschaften von Transaktionen (ACID)** ([Wikipedia](https://de.wikipedia.org/wiki/ACID))
+***Eigenschaften von Transaktionen (ACID)*** ([Wikipedia](https://de.wikipedia.org/wiki/ACID))
 - atomicity = Atomarität (Abgeschlossenheit)
     - Datenbank-Operationen, die entweder ganz oder gar nicht ausgeführt werden (Alles-oder-nichts-Eigenschaft)
 - consistency = Konsistenzerhaltung

@@ -2,13 +2,13 @@
 
 ## Konzept
 
-Eine **relationale Datenbank** beruht auf einem **tabellenbasierten relationalen Datenbankmodell** ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)):
+Eine ***relationale Datenbank*** beruht auf einem ***tabellenbasierten relationalen Datenbankmodell*** ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)):
 
-- Eine **relationale Datenbank** kann man sich als eine Sammlung von **Tabellen (Relationen)** vorstellen.
-- Jede **Zeile (Tupel)** in einer Tabelle ist ein **Datensatz (Record)**. 
-- Jede **Spalte (Attribute)**besteht aus einer Reihe von **Attributwerten (Attribute)**
+- Eine ***relationale Datenbank*** kann man sich als eine Sammlung von ***Tabellen (Relationen)*** vorstellen.
+- Jede ***Zeile (Tupel)*** in einer Tabelle ist ein ***Datensatz (Record)***. 
+- Jede ***Spalte (Attribute)***besteht aus einer Reihe von ***Attributwerten (Attribute)***
     - Alle Attributwerte eines Attributes (Spalte) ist von einem bestimmten Datentyp
-- Die Tabellen sind durch **Beziehungen (relationships)** miteinander verknüpft
+- Die Tabellen sind durch ***Beziehungen (relationships)*** miteinander verknüpft
     - Dadurch ist es möglich bei Abfragen, Daten aus mehreren Tabellen zu kombinieren
 - Ein Datensatz muss eindeutig identifizierbar sein. Das geschieht über einen oder mehrere Schlüssel.
 
@@ -22,7 +22,7 @@ Eine **relationale Datenbank** beruht auf einem **tabellenbasierten relationalen
 | Primärschlüssel (primary key)| | eindeutiger Identifikator |
 | Fremdschlüssel (foreign key) | | Schlüssel aus einer anderen Tabelle, um eine Beziehung herstellen zu können |
 
-Quelle: https://de.wikipedia.org/wiki/Relation_(Datenbank)
+Quelle: https://de.wikipedia.org/wiki/Relation\_(Datenbank)
 
 
 ## Beziehungen
@@ -49,7 +49,7 @@ Außerdem braucht man eine dritte *Tabelle Entliehen*, die Informationen über d
 Gleichzeitig verbindet die Nutzer-ID jeden Eintrag der Tabelle Entliehen mit einem Eintrag der Tabelle Nutzer, sowie die Buch-ID jeden Eintrag von Entliehen mit einem Eintrag der Tabelle Buch verbindet. Deswegen heißen diese Attribute in diesem Zusammenhang Fremdschlüssel (engl. foreign key).
 
 Der hier benutzte Begriff Relation beschreibt nicht die Beziehung zwischen Entitäten (wie im Entity-Relationship-Modell), sondern die Beziehung der Attribute zum Relationennamen. 
-**Schlüssel (Key)**
+***Schlüssel (Key)***
 - *Primärschlüssel (primary key)*
     - ein Attribut oder Attributkombination einer Relation, die einen Datensatz einer Tabelle eindeutig identifizieren
 - *Fremdschlüssel (foreign key)*

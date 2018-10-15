@@ -2,44 +2,42 @@
 
 ## Vektordatenmodell
 
-**Vektordaten** 
-- Daten entsprechend des Vektordatenmodells zur Abbildung von Punkten, Linien, Flächen und Körpern auf der Basis von Koordinaten. Neben den Koordinaten als Träger geometrischer Informationen können, je nach Datenformat, weitere objektbezogene Informationen in Form von topologischen, graphischen oder Sachdaten in einem Vektordatensatz enthalten sein ([Spektrum](https://www.spektrum.de/lexikon/kartographie-geomatik/vektordaten/5099)).
-
-**Vektordatenmodell**
+***Vektordaten*** 
 - Vektordaten beschreiben raumbezogene Objekte anhand von Punkten
+- Daten entsprechend des Vektordatenmodells zur Abbildung von Punkten, Linien, Flächen und Körpern auf der Basis von Koordinaten. Neben den Koordinaten als Träger geometrischer Informationen können, je nach Datenformat, weitere objektbezogene Informationen in Form von topologischen, graphischen oder Sachdaten in einem Vektordatensatz enthalten sein ([Spektrum](https://www.spektrum.de/lexikon/kartographie-geomatik/vektordaten/5099)).
 - Geeignet für diskrete Phänomene
 - Weniger geeignet für kontinuierliche Phänomene 
+
+***Vektordatenmodell***
 - Im Vektordatenmodell wird ein *Punktobjekt* als einzelnes Koordinatenpaar (x/y) erfasst
     - Linieobjekte werden über Listen von Punkten repräsentiert
     - Polygone sind geschlossenen Linienzügen, sowie den Polygonzentroiden (Zentroid)
 - Jedes Objekt kann neben seiner Geometrie auch Eigenschaften besitzen (Attributdaten).
     - Im Gegensatz zum Rastermodell sind diese sog. Attributdaten mit dem Objekt selbst verknüpft.
 - Im Vektormodell unterscheidet man zwischen topologischen und nichttopologischen Datenstrukturen.
-    - Nichttopologische Datenstrukturen (Spaghetti-Datenstrukturen) bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. (nur Geometrie, keine Topologie)
-    - Topologische Vektordaten enthalten hingegen zusätzlich Informationen über die räumlichen Beziehungen der Objekte. (Geometrie und Topologie)
 
 Quelle: ([Spektrum](https://www.spektrum.de/lexikon/geographie/vektordaten/8542))
 
 
 | Vorteil | Nachteile |
 | ------- | --------- |
-| Scharfe Repräsentation der Geometrie | Komplexität: komplexe Datenstruktur und resultierend daraus komplexe Analysealgorithmen |
-| Beliebige unregelmäßige Formen und Rauminhalte | Schwierig zu bearbeiten |
-| Kompaktheit: Geringerer Speicherplatzbedarf | |
-| Maßstabsunabhängig (keine Einschränkungen bei Zoom) | |
+| Scharfe Repräsentation der Geometrie (Maßstabsunabhängig) | komplexe Datenstruktur |
+| Beliebige unregelmäßige Formen und Rauminhalte | komplexe Analysealgorithmen |
+| Kompaktheit: Geringerer Speicherplatzbedarf | Schwierig zu bearbeiten |
 
 The final advantage of vector data is that topology is inherent in the vector model. This topological information results in simplified spatial analysis (e.g., error detection, network analysis, proximity analysis, and spatial transformation) when using a vector model ([geographic information system basics](https://2012books.lardbucket.org/books/geographic-information-system-basics/index.html)).
 
 
 ### Nichttopologische Vektordatenstrukturen (Spaghetti Modell)
 
-- Reihung von Koordinatenpaaren
+Nichttopologische Datenstrukturen (Spaghetti-Datenstrukturen) bilden lediglich die Lage und Form eines Objektes ab (Geometriedaten), enthalten aber keine Informationen über Nachbarschaftsbeziehungen. (nur Geometrie, keine Topologie)
+
+***Reihung von Koordinatenpaaren***
     - Punkte (XY-Koordinaten)
     - Linien (Reihe von Punkten, deren erster und letzter ungleiche Koordinaten besitzen)
     - Polygonen (Reihe von Punkten, deren erste und letzte gleiche Koordinate besitzen)
 
-
-**Vor- und Nachtteile**
+***Vor- und Nachtteile***
 - Vorteile
     - einfache Datenstrukture
 - Nachteile
@@ -53,8 +51,12 @@ Quelle: Vorlesung - Einführung in die Geoinformatik (SS18)
 
 ### Topologische Vektordatenstrukturen (Knoten- und Kantenstruktur)
 
-Speichert topologischen Beziehungen explizit
+Topologische Vektordaten enthalten zusätzlich Informationen über die räumlichen Beziehungen der Objekte. (Geometrie und Topologie)
 
+***Adjazenz***
+- Berühren, Aneinandergrenzen (Graphentheorie)
+
+***topologischen Beziehungen***
 - Adjazenz von Knoten und Kanten
 - Adjazenz von Kanten und Maschen
 - Adjazenz von Kanten und Kanten
@@ -62,21 +64,19 @@ Speichert topologischen Beziehungen explizit
 
 Maschen = Polygone
 
-Adjazenz = Berühren, Aneinandergrenzen (Graphentheorie)
+Siehe auch Kapitel: [Graphen und Netzwerke](gis/09-graphen-netzwerke.md)
 
-Siehe auch [Graphen und Netzwerke](gis/10-graphen-netzwerke.md)
-
-**Knoten- und Kantenstruktur**
+***Knoten- und Kantenstruktur***
 - Knoten (XY-Koordinaten) werden gespeichert
 - Kanten (Knotenpaare und angrenzende Maschen) werden separat von Knoten gespeichert
 
-**Vor- und Nachtteile**
+***Vor- und Nachtteile***
 - Vorteile
-    - Geometrie ist redundanzfrei
     - Topologie ist explizit
+    - Geometrie ist redundanzfrei
     - Bei Änderungen können Fehler leichter vermieden werden
 - Nachteil
-    - größere Rechenkapazität im vgl. zu zu nichttopologischen Datenstrukuturen wird gebracht
+    - größere Rechenkapazität (im vgl. zu nichttopologischen Datenstrukuturen)
 
 ![vektordatenmodell-topologisch](bilder/vektordatenmodell-topologisch-2.png)
 
@@ -126,29 +126,28 @@ Daten werden verändert, aber keine neuen „Informationen“ geschaffen
 
 ### Puffer (Buffer)
 
-**Puffer (Buffer)**
-- Das Erzeugen eines Polygonlayers, welcher eine Zone (oder mehrerer Zonen) mit einer bestimmten Breite um ein Eingabe Punkt-, Linie- oder Polygonobjekt
+Das Erzeugen eines Polygonlayers, welcher eine Zone (oder mehrerer Zonen) mit einer bestimmten Breite um ein Eingabe Punkt-, Linie- oder Polygonobjekt.
 
-**Eingabe**
+***Eingabe***
 - Punkt-, Linie- oder Polygonobjekt
 - Breite
 
-**Ausgabe**
+***Ausgabe***
 - Polygonlayer mit Zonen
 
-**Typen**
+***Typen***
 - Constant width buffers
 - Variable width buffers
     - Pufferbreite wird vorher für jedes Objekt festgelegt
     - Abhängig von Attributen des jeweiligen Objektes
 
-**Multiple ring buffers**
+***Multiple ring buffers***
 - Serie von konzentrischen Pufferzonen (wie eine Zielscheibe) um ein Objekt.
 
 
 ### Topologische Fehler 
 
-**Sliver Polygone** sind fehlerhaft entstandene Restflächen, die beim räumlichen Verschneiden verschiedener Datenebenen entstehen ([Wikipedia](https://de.wikipedia.org/wiki/Sliver_Polygon)). Zwei Kanten von Polygonen treffen nicht genau aufeinander.
+***Sliver Polygone*** sind fehlerhaft entstandene Restflächen, die beim räumlichen Verschneiden verschiedener Datenebenen entstehen ([Wikipedia](https://de.wikipedia.org/wiki/Sliver_Polygon)). Zwei Kanten von Polygonen treffen nicht genau aufeinander.
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/3b/Slivers.PNG)
 

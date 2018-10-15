@@ -1,6 +1,6 @@
 # Datenmodellierung und ERM
 
-**Datenmodell**
+***Datenmodell***
 - Abbildung der realen Welt in abstrahierter, vereinfachter, strukturierter Weise
 - Ein (relationales) Datenmodell wird durch die Abstraktion von einzelnen Objekten (Entitäten), [deren Beziehungen zueinander (Relationen)] und deren Eigenschaften (Attribute) gebildet ([http://geoinformatik.lehrewelt.de](http://geoinformatik.lehrewelt.de/raumliche-datenmodelle-zur-digitalen-abbildung-der-echtwelt/))
 
@@ -30,33 +30,33 @@ Das ERM besteht aus einer Grafik (ER-Diagramm) und einer Beschreibung der darin 
 
 *Objekte und Gegebenheiten der realen Welt:*
 
-- **Entität (Entity)**
+- ***Entität (Entity)***
     - individuell identifizierbares Objekt der Wirklichkeit
     - z. B. der Angestellte Müller oder das Projekt 3232
-- **Beziehung (Relationship)**
+- ***Beziehung (Relationship)***
     - Beziehung zwischen zwei oder mehreren Entitäten
     - z. B. Angestellter Müller leitet Projekt 3232
-- **Eigenschaft (Attribute)**
+- ***Eigenschaft (Attribute)***
     - Eigenschaft von einer Entität
     - z. B. das Eintrittsdatum des Angestellten Müller.
 
 
 *Im Rahmen der Modellierung werden geichartige Typen gebildet:*
 
-- **Entitätstyp**
+- ***Entitätstyp***
     - Typisierung gleichartiger Entitäten
     - z. B. Angestellter, Projekt, Buch, Autor, Verlag
-- **Beziehungstyp (Relationship-Typ)**
+- ***Beziehungstyp (Relationship-Typ)***
     - Typisierung gleichartiger Beziehungen
     - z. B. Angestellter leitet Projekt
-**Attribut**
+***Attribut***
     - Typisierung gleichartiger Eigenschaften
     - z. B. Nachname, Vorname und Eintrittsdatum im Entitätstyp Angestellter.
 
 ![https://upload.wikimedia.org/wikipedia/de/thumb/a/ab/Er-diagramm.svg/500px-Er-diagramm.svg.png](https://upload.wikimedia.org/wikipedia/de/thumb/a/ab/Er-diagramm.svg/500px-Er-diagramm.svg.png)
 
 
-**Kardinalitäten**
+***Kardinalitäten***
 - Die Kardinalität legt (auf der Ebene Beziehungstyp) für jeden der beteiligten Entitätstypen fest, an wie vielen konkreten Beziehungen (dieses Typs) seine Entitäten beteiligt sein können oder müssen ([Wikipedia](https://de.wikipedia.org/wiki/Entity-Relationship-Modell)).
 - Es existieren unterschiedliche Notationsformen
 - Chen-Notation
@@ -69,12 +69,12 @@ Quelle: https://de.wikipedia.org/wiki/Entity-Relationship-Modell
 
 ### Vor- und Nachteile
 
-**Vorteile**
+***Vorteile***
 - einfach und intuitiv
 - einfach abzubilden auf relationales Modell
 - weite Verbreitung
 
-**Nachteile**
+***Nachteile***
 - geringe Ausdrucksfähigkeit
 - formal nicht eindeutig
 - keine Spezifikation von Verhaltensaspekten
@@ -82,14 +82,14 @@ Quelle: https://de.wikipedia.org/wiki/Entity-Relationship-Modell
 
 ### Spezialisierung und Generalisierung (is-a-Beziehung)
 
-Bei der **Spezialisierung** wird ein Entitätstyp als Teilmenge eines anderen Entitätstyps erkannt und deklariert, wobei sich die spezialisierte Entitätsmenge durch besondere Eigenschaften (nur für sie geltende Attribute und/oder Beziehungen) gegenüber der übergeordneten, generalisierten Menge auszeichnet ([Wikipedia](https://de.wikipedia.org/wiki/Entity-Relationship-Modell)).
+Bei der ***Spezialisierung*** wird ein Entitätstyp als Teilmenge eines anderen Entitätstyps erkannt und deklariert, wobei sich die spezialisierte Entitätsmenge durch besondere Eigenschaften (nur für sie geltende Attribute und/oder Beziehungen) gegenüber der übergeordneten, generalisierten Menge auszeichnet ([Wikipedia](https://de.wikipedia.org/wiki/Entity-Relationship-Modell)).
 
 ### Aggregation und Zerlegung (is-part-of-Beziehung)
 
-Werden mehrere Einzelobjekte (z. B. Person und Hotel) zu einem eigenständigen Einzelobjekt (z. B. Reservierung) zusammengefasst, dann spricht man von **Aggregation**. Dabei wird das übergeordnet eigenständige Ganze Aggregat genannt; die Teile, aus denen es sich zusammensetzt, heißen Komponenten. Aggregat und Komponenten werden als Entitätstyp deklariert ([Wikipedia](https://de.wikipedia.org/wiki/Entity-Relationship-Modell))
+Werden mehrere Einzelobjekte (z. B. Person und Hotel) zu einem eigenständigen Einzelobjekt (z. B. Reservierung) zusammengefasst, dann spricht man von ***Aggregation***. Dabei wird das übergeordnet eigenständige Ganze Aggregat genannt; die Teile, aus denen es sich zusammensetzt, heißen Komponenten. Aggregat und Komponenten werden als Entitätstyp deklariert ([Wikipedia](https://de.wikipedia.org/wiki/Entity-Relationship-Modell))
 
 
-**Aggregation vs. Generalisierung**
+***Aggregation vs. Generalisierung***
 
 Aggregation und Generalisierung bilden Hierarchien aber:
 

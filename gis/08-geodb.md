@@ -7,16 +7,16 @@ Geodatenbanken unterstützen in logischer und interner Schicht räumliche...
 
 Konventionelle Datenbanken können Geodaten nicht effizient verwalten. Daher gibt es für viele Datenbanken Erweiterungen für die Verwaltung von Geodaten.  ([Wikipedia](https://de.wikipedia.org/wiki/Geoinformationssystem#Geodatenbanken))
 
-**Problem**
+***Problem***
 1. Geometrien mithilfe von atomaren Datentypen in einer DB abzuspeichern ist aufgrund der Eigenschaften von Geometrien nicht effizient
 2. Datenbank interne Suchmechanismen mithilfe von Indexstrukturen sind meist auf eindimensionale Daten ausgelegt
 
-**Lösung**
+***Lösung***
 1. Geodatenbanken (z.Bsp. PostGis) besitzen spezielle Datentypen für Geometrien
 2. Geodatenbanken nutzen mehrdimensionale (räumliche) Indexstrukturen
     - Oder überführen räumliche Objekte in einen eindimensionalen Raum, sodass herkömmliche Indexstrukturen verwendet werden können
 
-**Indexstrukturen**
+***Indexstrukturen***
 - Über grundlegende Dateiorganisationsform hinausgehende Zugriffsstruktur zur Effizienzverbesserung
 - Zugriffspfad: Datenstruktur für zusätzliche, schlüsselbasierten Zugriff auf Tupel
 - eindimensionale Indexstrukturen
@@ -55,17 +55,17 @@ Folgende instanziierbare Klassen beinhaltet das Modell ([Wikipedia](https://de.w
 Die Well-known-Text-Repräsentation wird vor allem dazu verwendet, um die Geometrie alphanumerisch darstellen zu können ([Wikipedia](https://de.wikipedia.org/wiki/Simple_Feature_Access))
 
 
-**Punkt**
+***Punkt***
 
 `Point(10 10)`
 
 
-**LineString** (Linie mit "Knickpunkten")
+***LineString*** (Linie mit "Knickpunkten")
 
 `LineString (10 10, 20 20, 30 40)`
 
 
-**Polygon (Fläche)**
+***Polygon (Fläche)***
 
 ein Polygon wird von zwei Klammern umschlossen. Polygon ohne Loch:
 
@@ -76,7 +76,7 @@ mit einem äußeren Ring und einem inneren Ring (Loch)
 `Polygon((0 0, 0 20, 20 20, 20 0, 0 0),(5 5, 5 15, 15 15, 15 5, 5 5))`
 
 
-**Mehrfachpolygon**
+***Mehrfachpolygon***
 
 zwei Polygone
 
@@ -91,7 +91,7 @@ zwei Polygone, erstes Polygon mit Loch:
 
 Siehe auch "PostGIS Special Functions" in der PostGIS Dokumentation: https://postgis.net/docs/PostGIS_Special_Functions_Index.html
 
-**PostGIS Fuctions**
+***PostGIS Fuctions***
 - ST_Area
     - Returns the area of the surface if it is a Polygon or MultiPolygon. 
 - ST_Buffer 
@@ -102,13 +102,13 @@ Siehe auch "PostGIS Special Functions" in der PostGIS Dokumentation: https://pos
     - Returns the spatial reference identifier for the ST_Geometry as defined in spatial_ref_sys table. 
 - ...
 
-**Verschneidung**
+***Verschneidung***
 - Intersection():Geometry
 - Union():Geometry
 - Difference():Geometry
 - SymDifference():Geometry
 
-**Test**
+***Test***
 - Equals():Integer
     - Gleichheit mit einer anderen Geometrie
 - Disjoint():Integer
