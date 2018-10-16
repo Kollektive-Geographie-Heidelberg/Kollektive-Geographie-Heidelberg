@@ -1,9 +1,11 @@
 # Geodatenbanken
 
-Geodatenbanken unterstützen in logischer und interner Schicht räumliche...
+Geodatenbanken unterstützen räumliche...
 - Objekte 
 - Abfragen
 - Bezugssystemen
+
+Geodatenbank, eine Datenbank, die durch die Einbindung spezieller Datentypen, Datenstrukturen und Operatoren in der Lage ist, Geodaten effizient zu verwalten. Geodatenbanken verfügen vor allem über geeignete Sortier- und Suchverfahren, die eine effektive und schnelle Abfrage des Datenbestandes ermöglichen. Hierzu stellt sie für den Zugriff eine raumbezogene Abfragesprache bereit, die über räumliche Operatoren verfügt. Da Standarddatenbanken diese Anforderungen nicht erfüllen, gibt es in der Praxis drei Arten der Umsetzung von Geodatenbanken: als spezialisiertes Modul zur Datenverwaltung innerhalb von raumbezogenen Informationssystemen (Geoinformationssysteme), als erweiterte relationale Datenbanken und als objektorientierte Datenbanken ([Spektrum](https://www.spektrum.de/lexikon/geowissenschaften/geodatenbank/5586)).
 
 Konventionelle Datenbanken können Geodaten nicht effizient verwalten. Daher gibt es für viele Datenbanken Erweiterungen für die Verwaltung von Geodaten ([Wikipedia](https://de.wikipedia.org/wiki/Geoinformationssystem#Geodatenbanken)).
 
@@ -23,6 +25,9 @@ Konventionelle Datenbanken können Geodaten nicht effizient verwalten. Daher gib
     - B+ Baum
 - mehrdimensionale (räumliche) Indexstrukturen
     - Quadtree, R-Tree, GIST
+
+***PostGIS***
+- PostGIS is a spatial database extender for PostgreSQL object-relational database. It adds support for geographic objects allowing location queries to be run in SQL.
 
 
 ## OpenGIS - Simple Feature Specification (OGC)
@@ -95,7 +100,7 @@ Siehe auch "PostGIS Special Functions" in der PostGIS Dokumentation: https://pos
 - ST_Area
     - Returns the area of the surface if it is a Polygon or MultiPolygon. 
 - ST_Buffer 
-    - (T)Returns a geometry covering all points within a given distancefrom the input geometry.
+    - Returns a geometry covering all points within a given distancefrom the input geometry.
 - ST_Centroid
     - Returns the geometric center of a geometry. 
 - ST_SRID

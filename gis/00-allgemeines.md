@@ -8,7 +8,7 @@
 
 ***Download***
 - Download die Rubrik "Geographische Informationssysteme" als PDF
-- [gis.pdf](gis/gis.pdf)
+- [gis.pdf](https://github.com/Kollektive-Geographie-Heidelberg/Kollektive-Geographie-Heidelberg/raw/master/gis/gis.pdf)
 
 
 ## Übung

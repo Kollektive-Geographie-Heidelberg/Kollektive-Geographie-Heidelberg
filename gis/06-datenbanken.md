@@ -12,7 +12,6 @@
 
 ***Datenbanksystem (DBS)***
 - DB + DBMS
-- Zur Abfrage und Verwaltung der Daten bietet ein Datenbanksystem eine Datenbanksprache an ([Wikipedia](https://de.wikipedia.org/wiki/Datenbank))
 
 ***Datenbankmodell***
 - Das Datenbankmodell bestimmt, in welcher Struktur Daten in einem Datenbanksystem gespeichert werden ([Wikipedia](https://de.wikipedia.org/wiki/Datenbankmodell))
@@ -36,8 +35,8 @@
 
 - Datenbanksprache
     - Funktionen
-        - Datenabfrage und -manipulation (DML)
-        - Verwaltung der Datenbank und Definition der Datenstrukturen (DDL)
+        - Datenabfrage und -manipulation (Data manipulation language (DML))
+        - Verwaltung der Datenbank und Definition der Datenstrukturen (Data definition language (DDL))
     - Bei relationalen DBMS sind diese Kategorien in einer Sprache (SQL) vereint
 - Verwaltung der Metadaten
 - Datensicherheit

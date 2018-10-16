@@ -14,6 +14,4 @@
 - [Geodateninfrastruktur](gis/13-gdi.md)
 - [Dasymetric Mapping](gis/14-dasymetric-mapping)
 - [Exkurs - OpenStreetMap](gis/15-exkurs-osm.md)
-- [Klausur](gis/20-klausur.md)
-- [Klausur - Fragen](gis/21-klausur-fragen.md)
-- [Klausur - Antworten](gis/22-klausur-antworten.md)
+- [Klausur](gis/20-klausur-fragen.md)

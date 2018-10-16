@@ -4,9 +4,9 @@
 
 Eine ***relationale Datenbank*** beruht auf einem ***tabellenbasierten relationalen Datenbankmodell*** ([Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)):
 
-- Eine ***relationale Datenbank*** kann man sich als eine Sammlung von ***Tabellen (Relationen)*** vorstellen.
-- Jede ***Zeile (Tupel)*** in einer Tabelle ist ein ***Datensatz (Record)***. 
-- Jede ***Spalte (Attribute)***besteht aus einer Reihe von ***Attributwerten (Attribute)***
+- Eine ***relationale Datenbank*** kann man sich als eine Sammlung von ***Tabellen (Relationen)*** vorstellen
+- Jede ***Zeile (Tupel)*** in einer Tabelle ist ein ***Datensatz (Record)***
+- Jede ***Spalte (Attribute)*** besteht aus einer Reihe von ***Attributwerten (Attribute)***
     - Alle Attributwerte eines Attributes (Spalte) ist von einem bestimmten Datentyp
 - Die Tabellen sind durch ***Beziehungen (relationships)*** miteinander verknüpft
     - Dadurch ist es möglich bei Abfragen, Daten aus mehreren Tabellen zu kombinieren
@@ -14,7 +14,7 @@ Eine ***relationale Datenbank*** beruht auf einem ***tabellenbasierten relationa
 
 | relationales Modell | informeller Begriff | Erklärung |
 | --- | --- | --- | 
-| Relation, Entitätstyp, Entitätsklasse | (table) | Eine Tabelle in einer Datenbank |
+| Relation, Entitätstyp, Entitätsklasse | Tabelle (table) | Eine Tabelle in einer Datenbank |
 | Tupel, Entität (tuple, entity) | Zeile (row) | Ein horizontaler Datensatz einer Tabelle in der Datenbank |
 | Beziehung (relationship) | | Beziehung einzelner Tupel zueinander |
 | Kardinalität (cardinality) | | Mengenangabe zur Beziehung einzelner Tupel (z. B. 1:1, 1:n, n:m) |
@@ -48,7 +48,8 @@ Außerdem braucht man eine dritte *Tabelle Entliehen*, die Informationen über d
 
 Gleichzeitig verbindet die Nutzer-ID jeden Eintrag der Tabelle Entliehen mit einem Eintrag der Tabelle Nutzer, sowie die Buch-ID jeden Eintrag von Entliehen mit einem Eintrag der Tabelle Buch verbindet. Deswegen heißen diese Attribute in diesem Zusammenhang Fremdschlüssel (engl. foreign key).
 
-Der hier benutzte Begriff Relation beschreibt nicht die Beziehung zwischen Entitäten (wie im Entity-Relationship-Modell), sondern die Beziehung der Attribute zum Relationennamen. 
+Der hier benutzte Begriff Relation beschreibt nicht die Beziehung zwischen Entitäten (wie im Entity-Relationship-Modell), sondern die Beziehung der Attribute zum Relationennamen.
+
 ***Schlüssel (Key)***
 - *Primärschlüssel (primary key)*
     - ein Attribut oder Attributkombination einer Relation, die einen Datensatz einer Tabelle eindeutig identifizieren
